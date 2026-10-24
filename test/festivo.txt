@@ -1,0 +1,744 @@
+--- page 1 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D001Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 7,30 0,4316:25 23:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+16.35 16.40 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00912
+16.40 17.28 27,02#41DOLO CAP VENEZIA 53EV0912
+17.35 18.20 26,73#53VENEZIA DOLO CAP 53EV0912
+18.20 18.22 0,67DOLO CAP DOLO CAP 00912
+18.40 19.28 27,02#41DOLO CAP VENEZIA 53EV0912
+19.35 20.18 26,11#53VENEZIA DOLO.DEP 53EV0912
+20.18 CAMBIO DAL 2
+SOSTA PASTODOLO.DEP DOLO.DEP
+21.18 CAMBIA IL 46
+21.18 21.20 0,62#53DOLO.DEP DOLO CAP 53EV0981
+21.20 21.22 0,67DOLO CAP DOLO CAP 00981
+21.30 22.10 24,76#5DOLO CAP VENEZIA 53EV0981
+22.10 22.23 RIF. 7,62VENEZIA DEP.PERT 00981
+22.47 23.00 18-S-M 8,00DEP.PERT VENEZIA 00981
+23.00 23.45 27,72#67VENEZIA DOLO CAP 53EV0981
+23.45 23.50 1,34DOLO CAP DEP.DOLO 00981
+KMNOTE 179,62
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte #5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte #53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D002Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DEP.DOLO DOLO
+Orario 7,18 0,3115:12 22:30
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+15.22 CAMBIA IL 53
+15.22 16.00 24,15#5DOLO.DEP VENEZIA 53EV0911
+16.15 17.01 27,10#67VENEZIA DOLO.DEP 53EV0911
+17.01 CAMBIO DAL 22
+17.18 CAMBIA IL 17
+17.18 17.20 0,62#53DOLO.DEP DOLO CAP 53EV0981
+17.20 17.22 0,67DOLO CAP DOLO CAP 00981
+17.40 18.28 27,02#41DOLO CAP VENEZIA 53EV0981
+18.35 19.20 26,73#53VENEZIA DOLO CAP 53EV0981
+19.20 19.25 1,34DOLO CAP DEP.DOLO 00981
+SOSTA PASTODOLO.DEP DOLO.DEP
+20.01 CAMBIA IL 51
+20.01 20.03 0,62#67DOLO.DEP DOLO CAP 53EV0980
+20.03 20.08 1,34DOLO CAP DEP.DOLO 00980
+20.18 CAMBIA IL 1
+20.18 20.20 0,62#53DOLO.DEP DOLO CAP 53EV0912
+20.20 20.22 0,67DOLO CAP DOLO CAP 00912
+20.30 21.10 24,76#5DOLO CAP VENEZIA 53EV0912
+21.30 22.15 26,73#53VENEZIA DOLO CAP 53EV0912
+22.15 22.20 RIF. 1,34DOLO CAP DEP.DOLO 00912
+KMNOTE 163,68
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+documento non ufficiale 
+    in visione alla rsu
+--- page 2 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D007Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DOLO.DEP DOLO
+Orario 7,31 0,4312:15 19:46
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2, STNT 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+12.25 12.30 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00912
+12.30 13.18 27,02#41DOLO CAP VENEZIA 53EV0912
+13.25 14.10 26,73#53VENEZIA DOLO CAP 53EV0912
+14.10 14.15 1,34DOLO CAP DEP.DOLO 00912
+14.41 CAMBIA IL 38
+14.41 15.18 PO417 18,41#77DOLO.DEP PADOVA 53EV0910
+15.25 16.45 PO410 44,34#23PADOVA VENEZIA 53EV0910
+16.55 17.41 PO417 27,10#77VENEZIA DOLO.DEP 53EV0910
+17.41 CAMBIO DAL 17
+18.02 CAMBIA IL 350
+18.02 18.45 PO410 26,00#23DOLO.DEP VENEZIA 53EV0913
+18.55 19.41 PO417 27,10#77VENEZIA DOLO.DEP 53EV0913
+19.41 CAMBIO DAL 17
+KMNOTE 199,38
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte #53
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40PO417
+Straordinario di turno STNT
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D012Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 6,47 0,0017:00 23:47
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+17.05 23.42 RISERVADEP.DOLO DEP.DOLO
+KMNOTE 0,00
+documento non ufficiale 
+    in visione alla rsu
+--- page 3 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D015Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 6,20 -0,27 6:15 12:35
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.25  6.30 18-S-M 1,34DEP.DOLO DOLO CAP 00980
+ 6.30  7.18 27,02#41DOLO CAP VENEZIA 53EV0980
+ 7.25  8.08 26,11#53VENEZIA DOLO.DEP 53EV0980
+ 8.08 CAMBIO DAL 38
+ 8.54  8.59 18-S-M 1,34DEP.DOLO DOLO CAP 00981
+ 8.59  9.44 26,61#3DOLO CAP VENEZIA 53EV0981
+ 9.44 10.04 17,12VENEZIA ORIAGO 00981
+10.10 10.40 19,07#29ORIAGO VENEZIA 53EV0981
+10.40 11.00 17,12VENEZIA ORIAGO 00981
+11.10 11.40 19,07#29ORIAGO VENEZIA 53EV0981
+11.45 12.25 25,02#55VENEZIA DOLO CAP 53EV0981
+12.25 12.30 1,34DOLO CAP DEP.DOLO 00981
+KMNOTE 181,17
+ES-53E Per Malcontenta - via Padana - via F.lli Bandiera - via della 
+Libertà. Fermate: salita/discesa tutte
+#29
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte #53
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+Guida effettiva 18 metri per = o > turno. AR2
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D017Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DOLO.DEP DOLO
+Orario 7,23 0,3615:25 22:48
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+15.35 15.40 18-S-M 1,34DEP.DOLO DOLO CAP 00981
+15.40 16.28 27,02#41DOLO CAP VENEZIA 53EV0981
+16.35 17.18 26,11#53VENEZIA DOLO.DEP 53EV0981
+17.18 CAMBIO DAL 2
+17.41 CAMBIA IL 7
+17.41 18.18 PO417 18,41#77DOLO.DEP PADOVA 53EV0910
+18.25 19.02 PO410 18,34#23PADOVA DOLO.DEP 53EV0910
+19.02 CAMBIO DAL 27
+SOSTA PASTODEP.DOLO DEP.DOLO
+19.41 CAMBIA IL 7
+19.41 20.18 PO417 18,41#77DOLO.DEP PADOVA 53EV0913
+20.30 21.50 PO419 44,34#23PADOVA VENEZIA 53EV0913
+22.00 22.43 27,10#67VENEZIA DOLO.DEP 53EV0913
+22.43 CAMBIO DAL 27
+KMNOTE 181,07
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+A Padana Dolo punto orario ai minuti 5 PO419
+documento non ufficiale 
+    in visione alla rsu
+--- page 4 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D020Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DOLO.DEP DOLO
+Orario 6,45 -0,02 6:52 13:37
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.02 CAMBIA IL 43
+ 7.02  7.45 PO410 26,00#23DOLO.DEP VENEZIA 53EV0910
+ 7.55  8.41 PO417 27,10#77VENEZIA DOLO.DEP 53EV0910
+ 8.41 CAMBIO DAL 53
+ 9.08 CAMBIA IL 43
+ 9.08  9.10 0,62#53DOLO.DEP DOLO CAP 53EV0911
+ 9.10  9.12 0,67DOLO CAP DOLO CAP 00911
+ 9.30 10.18 27,02#41DOLO CAP VENEZIA 53EV0911
+10.25 11.10 26,73#53VENEZIA DOLO CAP 53EV0911
+11.10 11.12 0,67DOLO CAP DOLO CAP 00911
+11.30 12.18 27,02#41DOLO CAP VENEZIA 53EV0911
+12.25 13.10 26,73#53VENEZIA DOLO CAP 53EV0911
+13.10 13.12 0,67DOLO CAP DOLO CAP 00911
+13.30 13.32 0,61#41DOLO CAP DOLO.DEP 53EV0911
+13.32 CAMBIO DAL 53
+KMNOTE 163,83
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte #53
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D022Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DEP.DOLO DOLO
+Orario 6,44 -0,0316:51 23:35
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+17.01 CAMBIA IL 2
+17.01 17.03 0,62#67DOLO.DEP DOLO CAP 53EV0911
+17.03 17.05 0,67DOLO CAP DOLO CAP 00911
+17.20 18.05 26,61#3DOLO CAP VENEZIA 53EV0911
+18.15 19.03 27,72#67VENEZIA DOLO CAP 53EV0911
+19.03 19.05 0,67DOLO CAP DOLO CAP 00911
+19.20 20.05 26,61#3DOLO CAP VENEZIA 53EV0911
+20.15 21.03 27,72#67VENEZIA DOLO CAP 53EV0911
+21.03 21.08 RIF. 1,34DOLO CAP DEP.DOLO 00911
+SOSTA PASTODOLO.DEP DOLO.DEP
+22.07 CAMBIA IL 27
+22.07 22.50 PO419 26,00#23DOLO.DEP VENEZIA 53EV0910
+22.50 23.25 RIF. 24,25VENEZIA DEP.DOLO 00910
+KMNOTE 162,19
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 5PO419
+documento non ufficiale 
+    in visione alla rsu
+--- page 5 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D027Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DEP.DOLO DOLO
+Orario 6,13 -0,3418:52  1:05
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+19.02 CAMBIA IL 17
+19.02 19.45 PO410 26,00#23DOLO.DEP VENEZIA 53EV0910
+19.55 21.18 PO417 45,51#77VENEZIA PADOVA 53EV0910
+21.30 22.07 PO419 18,34#23PADOVA DOLO.DEP 53EV0910
+22.07 CAMBIO DAL 22
+22.43 CAMBIA IL 17
+22.43 22.45 0,62#67DOLO.DEP DOLO CAP 53EV0913
+22.45 22.47 0,67DOLO CAP DOLO CAP 00913
+23.00 23.45 26,61#3DOLO CAP VENEZIA 53EV0913
+ 0.00  0.50 29,42#98VENEZIA DOLO CAP 53EV0913
+ 0.50  0.55 RIF. 1,34DOLO CAP DEP.DOLO 00913
+KMNOTE 148,50
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #23
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Malcontenta. Ferma a S.Chiara. Fermate: In piazza 27 
+Ottobre effettua la fermata di incr.v.Colombo (id.168). Da 27 
+Ottobre S/D tutte, Limitata Dolo.
+#98
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+A Padana Dolo punto orario ai minuti 5 PO419
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D030Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DOLO.DEP DOLO
+Orario 7,23 0,3610:43 18:06
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+10.53 11.25 18-S-D-P-C 18,50DEP.DOLO PADOVA 00913
+11.25 12.45 PO410 44,34#23PADOVA VENEZIA 53EV0913
+12.55 13.41 PO417 27,10#77VENEZIA DOLO.DEP 53EV0913
+13.41 CAMBIO DAL 303
+SOSTA PASTODOLO.DEP DOLO.DEP
+14.25 14.30 18-S-M 1,34DEP.DOLO DOLO CAP 00980
+14.30 15.18 27,02#41DOLO CAP VENEZIA 53EV0980
+15.25 16.10 26,73#53VENEZIA DOLO CAP 53EV0980
+16.10 16.12 0,67DOLO CAP DOLO CAP 00980
+16.20 17.00 24,76#5DOLO CAP VENEZIA 53EV0980
+17.15 18.01 27,10#67VENEZIA DOLO.DEP 53EV0980
+18.01 CAMBIO DAL 51
+KMNOTE 197,56
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+documento non ufficiale 
+    in visione alla rsu
+--- page 6 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D034Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 6,47 0,00 4:00 10:47
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.05 10.42 RISERVADEP.DOLO DEP.DOLO
+KMNOTE 0,00
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D038Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DOLO.DEP DOLO
+Orario 6,48 0,01 7:58 14:46
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 8.08 CAMBIA IL 15
+ 8.08  8.10 0,62#53DOLO.DEP DOLO CAP 53EV0980
+ 8.10  8.12 0,67DOLO CAP DOLO CAP 00980
+ 8.30  9.18 27,02#41DOLO CAP VENEZIA 53EV0980
+ 9.25 10.10 26,73#53VENEZIA DOLO CAP 53EV0980
+10.10 10.12 0,67DOLO CAP DOLO CAP 00980
+10.30 11.18 27,02#41DOLO CAP VENEZIA 53EV0980
+11.25 12.10 26,73#53VENEZIA DOLO CAP 53EV0980
+12.10 12.15 1,34DOLO CAP DEP.DOLO 00980
+SOSTA PASTODOLO.DEP DOLO.DEP
+13.02 CAMBIA IL 53
+13.02 13.45 PO410 26,00#23DOLO.DEP VENEZIA 53EV0910
+13.55 14.41 PO417 27,10#77VENEZIA DOLO.DEP 53EV0910
+14.41 CAMBIO DAL 7
+KMNOTE 163,89
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+documento non ufficiale 
+    in visione alla rsu
+--- page 7 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D043Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DOLO.DEP DOLO
+Orario 5,28 -1,19 3:45  9:13
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 3.55  4.00 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00910
+ 4.00  4.45 27,02#41DOLO CAP VENEZIA 53EV0910
+ 4.55  6.15 PO417 45,51#77VENEZIA PADOVA 53EV0910
+ 6.25  7.02 PO410 18,34#23PADOVA DOLO.DEP 53EV0910
+ 7.02 CAMBIO DAL 20
+ 7.25  7.30 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00911
+ 7.30  8.18 27,02#41DOLO CAP VENEZIA 53EV0911
+ 8.25  9.08 26,11#53VENEZIA DOLO.DEP 53EV0911
+ 9.08 CAMBIO DAL 20
+KMNOTE 146,69
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte #53
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40PO417
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D046Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DEP.DOLO DOLO
+Orario 6,33 -0,1416:52 23:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+17.02 CAMBIA IL 51
+17.02 17.45 PO410 26,00#23DOLO.DEP VENEZIA 53EV0917
+17.55 18.41 PO417 27,10#77VENEZIA DOLO.DEP 53EV0917
+18.41 CAMBIO DAL 350
+SOSTA PASTODOLO.DEP DOLO.DEP
+19.35 19.40 18-S-M 1,34DEP.DOLO DOLO CAP 00981
+19.40 20.28 27,02#41DOLO CAP VENEZIA 53EV0981
+20.35 21.18 26,11#53VENEZIA DOLO.DEP 53EV0981
+21.18 CAMBIO DAL 1
+21.27 21.57 18-S-M - RIF. 21,19DEP.DOLO DEP.PERT 00980
+22.17 22.30 18-S-M 8,00DEP.PERT VENEZIA 00980
+22.30 23.15 26,73#53VENEZIA DOLO CAP 53EV0980
+23.15 23.20 1,34DOLO CAP DEP.DOLO 00980
+KMNOTE 164,84
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40PO417
+documento non ufficiale 
+    in visione alla rsu
+--- page 8 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D047Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 6,47 0,0010:30 17:17
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+10.35 17.12 RISERVADEP.DOLO DEP.DOLO
+KMNOTE 0,00
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D051Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DOLO.DEP DOLO
+Orario 7,35 0,4312:31 20:06
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2, STNT 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+12.41 CAMBIA IL 303
+12.41 13.18 PO417 18,41#77DOLO.DEP PADOVA 53EV0917
+13.25 14.45 PO410 44,34#23PADOVA VENEZIA 53EV0917
+14.55 16.18 PO417 45,51#77VENEZIA PADOVA 53EV0917
+16.25 17.02 PO410 18,34#23PADOVA DOLO.DEP 53EV0917
+17.02 CAMBIO DAL 46
+18.01 CAMBIA IL 30
+18.01 18.03 0,62#67DOLO.DEP DOLO CAP 53EV0980
+18.03 18.05 0,67DOLO CAP DOLO CAP 00980
+18.20 19.00 24,76#5DOLO CAP VENEZIA 53EV0980
+19.15 20.01 27,10#67VENEZIA DOLO.DEP 53EV0980
+20.01 CAMBIO DAL 2
+KMNOTE 179,74
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+Straordinario di turno STNT
+documento non ufficiale 
+    in visione alla rsu
+--- page 9 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D053Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP Smonta DOLO.DEP DOLO
+Orario 6,56 0,09 8:31 15:27
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 8.41 CAMBIA IL 20
+ 8.41  9.18 PO417 18,41#77DOLO.DEP PADOVA 53EV0910
+ 9.25 10.45 PO410 44,34#23PADOVA VENEZIA 53EV0910
+10.55 12.18 PO417 45,51#77VENEZIA PADOVA 53EV0910
+12.25 13.02 PO410 18,34#23PADOVA DOLO.DEP 53EV0910
+13.02 CAMBIO DAL 38
+SOSTA PASTODEP.DOLO DEP.DOLO
+13.32 CAMBIA IL 20
+13.32 14.18 26,41#41DOLO.DEP VENEZIA 53EV0911
+14.25 15.10 26,73#53VENEZIA DOLO CAP 53EV0911
+15.10 15.12 0,67DOLO CAP DOLO CAP 00911
+15.20 15.22 0,61#5DOLO CAP DOLO.DEP 53EV0911
+15.22 CAMBIO DAL 2
+KMNOTE 181,01
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte #5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D303Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH Smonta PD PARCH PADOVA
+Orario 7,12 0,2510:13 17:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+10.23 10.25 18-S-D-P-C 0,47PD PARCH PADOVA 00917
+10.25 11.45 PO410 44,34#23PADOVA VENEZIA 53EV0917
+11.55 12.41 PO417 27,10#77VENEZIA DOLO.DEP 53EV0917
+12.41 CAMBIO DAL 51
+SOSTA PASTODOLO.DEP DOLO.DEP
+13.41 CAMBIA IL 30
+13.41 14.18 PO417 18,41#77DOLO.DEP PADOVA 53EV0913
+14.25 15.45 PO410 44,34#23PADOVA VENEZIA 53EV0913
+15.55 17.18 PO417 45,51#77VENEZIA PADOVA 53EV0913
+17.18 17.20 0,53PADOVA PD PARCH 00913
+KMNOTE 180,69
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+documento non ufficiale 
+    in visione alla rsu
+--- page 10 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D307Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH Smonta PD PARCH PADOVA
+Orario 6,12 -0,35 5:13 11:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.23  5.25 18-S-M 0,47PD PARCH PADOVA 00984
+ 5.25  6.45 PO410 44,34#23PADOVA VENEZIA 53EV0984
+ 6.55  8.18 PO417 45,51#77VENEZIA PADOVA 53EV0984
+ 8.25  9.45 PO410 44,34#23PADOVA VENEZIA 53EV0984
+ 9.55 11.18 PO417 45,51#77VENEZIA PADOVA 53EV0984
+11.18 11.20 0,53PADOVA PD PARCH 00984
+KMNOTE 180,69
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #23
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D311Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH Smonta PD PARCH PADOVA
+Orario 6,12 -0,35 4:13 10:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.23  4.25 18-S-D-P-C 0,47PD PARCH PADOVA 00916
+ 4.25  5.45 PO410 44,34#23PADOVA VENEZIA 53EV0916
+ 5.55  7.18 PO417 45,51#77VENEZIA PADOVA 53EV0916
+ 7.25  8.45 PO410 44,34#23PADOVA VENEZIA 53EV0916
+ 8.55 10.18 PO417 45,51#77VENEZIA PADOVA 53EV0916
+10.18 10.20 0,53PADOVA PD PARCH 00916
+KMNOTE 180,69
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno. AR2
+A Padana Dolo punto orario ai minuti 0 PO410
+A Padana Dolo punto orario ai minuti 40 PO417
+documento non ufficiale 
+    in visione alla rsu
+--- page 11 ---
+Set = 2026-09-13-SP-ES-______D-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D350Festivo
+Validità ______DData: 13/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH Smonta PD PARCH PADOVA
+Orario 5,17 -1,3017:05 22:22
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+17.23 17.25 18-S-D-P-C 0,47PD PARCH PADOVA 00913
+17.25 18.02 PO410 18,34#23PADOVA DOLO.DEP 53EV0913
+18.02 CAMBIO DAL 7
+SOSTA PASTODOLO.DEP DOLO.DEP
+18.41 CAMBIA IL 46
+18.41 19.18 PO417 18,41#77DOLO.DEP PADOVA 53EV0917
+19.35 20.55 PO411 44,34#23PADOVA VENEZIA 53EV0917
+21.00 22.15 PO418 45,51#77VENEZIA PADOVA 53EV0917
+22.15 22.17 0,53PADOVA PD PARCH 00917
+KMNOTE 127,59
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 0PO410
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 40PO417
+A Padana Dolo punto orario ai minuti 45PO418
+documento non ufficiale 
+    in visione alla rsu
