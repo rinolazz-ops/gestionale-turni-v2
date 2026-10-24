@@ -1,0 +1,4617 @@
+--- page 1 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D001Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DOLO.DEP DOLO
+Orario 6,08 -0,3916:40 22:48
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+16.50 16.55 12-I-D-P-C 1,34DEP.DOLO DOLO CAP 00826
+16.55 17.15 C142 10,471DOLO CAP MELLARED 66E0826
+17.15 17.35 10,3951MELLARED DOLO CAP 66E0826
+17.50 19.00 57,09#1DOLO CAP SOTTOMAR 82E0826
+19.10 20.08 48,68#52SOTTOMAR DOLO CAP 82E0826
+20.08 20.11 RIF. 0,67DOLO CAP DEP.DOLO 00826
+SOSTA PASTODEP.DOLO DEP.DOLO
+21.07 CAMBIA IL 13
+21.07 21.50 PO419 26,00#23DOLO.DEP VENEZIA 53EV0910
+22.00 22.43 27,10#67VENEZIA DOLO.DEP 53EV0910
+22.43 CAMBIO DAL 27
+KMNOTE 181,74
+ES-82E Per via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: 
+S/D fino Ponte Trezze. D Femate De Gasperi - De Nicola - Chioggia FS 
+- Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-82E Fermate: S Pisani - Da Verrazano -.Celsi - De Gasperi - De Nicola - 
+Chioggia FS - Zarlino S/D da Ponte Trezze. Non transita per Stra.
+#52
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri < metà turno.AR1
+A DOLO coincidenza da MIRANO.C142
+A Padana Dolo punto orario ai minuti 5PO419
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D002Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 7,28 0,4114:02 21:30
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+14.12 14.15 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00949
+14.15 14.49 17,20#15DOLO SCO-A CELESEO 55E0949
+14.49 15.07 RIF. 12,27CELESEO DEP.DOLO 00949
+15.24 CAMBIA IL 30
+15.24 16.02 PO460 17,56#24DOLO.DEP 27 OTT-D5 53EM0943
+16.02 16.12 LAV.-RIF. 3,7127 OTT-D5 DEP.PERT 00943
+16.30 16.40 12-S-D-P-C 3,93DEP.PERT 27 OTT-D5 00943
+16.40 18.02 PO413 37,94#7427 OTT-D5 PADOVA 53EM0943
+18.02 18.04 0,53PADOVA PD PARCH 00943
+18.38 18.40 18-S-D-P-C 0,47PD PARCH PADOVA 00913
+18.42 20.10 PO428 42,49#1PADOVA VENEZIA 53EV0913
+20.30 21.15 26,73#53VENEZIA DOLO CAP 53EV0913
+21.15 21.20 RIF. 1,34DOLO CAP DEP.DOLO 00913
+KMNOTE 165,71
+ES-53E Fermate: salita/discesa tutte#1
+ES-55E In partenza da Dolo Scuole A e NON transita per Dolo Centro. Per 
+Campoverardo via S. Pellico-Camponogara-Fossò-Galta-Vigonovo 
+Ponte-Celeseo.
+#15
+ES-53E A Vigonza prosegue per via Bachelet, Moro, S.Antonio e Diaz. A 
+Mestre per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). 
+Fermate: Salita/Discesa tutte 
+#24
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per Corso del Popolo. Fermate: salita/discesa tutte. A Perarolo per 
+via Diaz, S.Antonio, Moro e Bachelet quindi prosegue per Padova.
+#74
+Guida effettiva 18 metri < metà turno.AR1
+A Padana Dolo punto orario ai minuti 20PO413
+A Padana Dolo punto orario alle ore 19:30PO428
+A Padana Dolo punto orario ai minuti 22PO460
+documento non ufficiale 
+    in visione alla rsu
+--- page 2 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D003Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,16 0,29 7:00  9:30 14:02 18:48
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.10  7.15 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00939
+ 7.15  7.54 16,29#39DOLO CAP DOLO CAP 56E0939
+ 7.54  7.56 0,67DOLO CAP DOLO CAP 00939
+ 8.10  8.40 16,01#1DOLO CAP STRA 55E0939
+ 8.45  9.15 15,78#51STRA DOLO CAP 55E0939
+ 9.15  9.20 RIF. 1,34DOLO CAP DEP.DOLO 00939
+14.12 14.15 12-S-D-P-C 1,81DEP.DOLO DOLO SCO-B 00944
+14.15 15.03 24,14#20DOLO SCO-B MIRANO 59E0944
+16.25 16.55 13,5651MIRANO DOLO CAP 59E0944
+17.10 17.25 C134 11,57#95DOLO CAP LIETTOLI 58E/0944
+17.30 17.45 11,4045LIETTOLI DOLO CAP 58E/0944
+17.58 18.33 16,19#81DOLO CAP DOLO CAP 56EC0944
+18.33 18.38 RIF. 1,34DOLO CAP DEP.DOLO 00944
+KMNOTE 131,44
+ES-55E DOLO - Camponogara - Fossò - Pava - Galta - Vigonovo - STRA#1
+ES-59E In partenza da Dolo Scuole B. Per Marano, Borbiago, evoluzione 
+rotatoria SP 81. Borbiago, Marano, Mirano.
+#20
+ES-56E Per Sambruson-P.zza Vecchia-Gambarare-Mira-Riviera Del Brenta-Dolo 
+scuole (A) - Dolo.
+#39
+ES-55E STRA - Vigonovo - Galta - Pava - Fossò - Camponogara - DOLO#51
+ES-56E Per Mira (v.Alfieri -v.Gramsci-Riv. Matteotti)-v.Chiesa di 
+Gambarare-Gambarare-Gambarare Scuole-P.zza Vecchia-Porto 
+Menai-Sambruson-Dolo.
+#81
+ES-58E Limitata Liettoli.#95
+A DOLO coincidenza da VENEZIA.C134
+Indennità SPZSPZ3
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D004Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 5,35 -1,12 4:15  9:50
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.25  4.30 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00910
+ 4.30  5.15 26,61#3DOLO CAP VENEZIA 53EV0910
+ 5.25  6.08 PO411 26,11#73VENEZIA DOLO.DEP 53EV0910
+ 6.08 CAMBIO DAL 5
+ 7.00  7.05 12-S-D-P-C 2,86DEP.DOLO CASELLO9 00950
+ 7.05  7.18 5,5221CASELLO9 STRA 55SE0950
+ 7.35  8.31 25,65#19STRA 27 OTT-D5 53EM0950
+ 8.55  9.35 19,01#5227 OTT-D5 DOLO CAP 53EM0950
+ 9.35  9.40 RIF. 1,34DOLO CAP DEP.DOLO 00950
+KMNOTE 108,45
+ES-53E Transita per Dolo Scuole A. Per Corso del Popolo. Limitata MESTRE 
+(P.zza 27 Ottobre). Fermate: Salita/Discesa tutte 
+#19
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+Guida effettiva 18 metri < metà turno.AR1
+A Padana Dolo punto orario ai minuti 10PO411
+documento non ufficiale 
+    in visione alla rsu
+--- page 3 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D005Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP SmontaDEP.DOLO DOLO
+Orario 6,28 -0,19 5:58  9:28 12:35 15:33
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.08 CAMBIA IL 4
+ 6.08  6.47 PO411 18,41#73DOLO.DEP PADOVA 53EV0910
+ 7.12  8.35 PO420 44,34#23PADOVA VENEZIA 53EV0910
+ 8.45  9.23 PO414 24,41#51VENEZIA DOLO.DEP 53EV0910
+ 9.23 CAMBIO DAL 38
+12.45 12.50 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00948
+12.50 13.20 C237 16,01#1DOLO CAP STRA 55E0948
+13.25 13.55 C144 15,78#51STRA DOLO CAP 55E0948
+13.55 13.57 0,67DOLO CAP DOLO CAP 00948
+13.57 14.03 2,39DOLO CAP DOLO SCO-B 00948
+14.12 14.35 12,07#8DOLO SCO-B CALTANA 66E0948
+14.35 14.50 7,89CALTANA MIRAN.SPORT 00948
+14.50 15.13 12,33#88MIRAN.SPORT ORIAGO 57E0948
+15.13 15.23 RIF. 10,20ORIAGO DEP.DOLO 00948
+KMNOTE 165,85
+ES-55E DOLO - Camponogara - Fossò - Pava - Galta - Vigonovo - STRA#1
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Fermate: salita/discesa tutte#51
+ES-55E STRA - Vigonovo - Galta - Pava - Fossò - Camponogara - DOLO#51
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+ES-66E In partenza da Dolo Scuole B. Da Pianiga prosegue per Caltana.#8
+ES-57E In partenza da Mirano Sport. Per via Taglio Sinistro.#88
+Guida effettiva 18 metri per = o > turno.AR2
+A STRA coincidenza da VENEZIA, MESTRE e PADOVA.C144
+A Dolo coincidenza da MESTRE e da MIRANOC237
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 25PO414
+A Padana Dolo punto orario ai minuti 50PO420
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D007Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,11 0,2413:17 20:28
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.27 13.30 12-S-D-P-C 0,68DEP.DOLO DOLO CAP 00951
+13.30 14.07 17,79#61DOLO CAP PADOVA 53E/0951
+14.15 15.12 25,20#92PADOVA CALCROCI 55E0951
+15.15 15.33 12,33#47CALCROCI PIOVE 67E0951
+15.35 16.05 18,10#13PIOVE DOLO CAP 58E/0951
+16.05 16.08 RIF. 0,67DOLO CAP DEP.DOLO 00951
+16.52 CAMBIA IL 29
+16.52 17.35 PO420 26,00#23DOLO.DEP VENEZIA 53EV0917
+17.35 17.38 1,83VENEZIA TRONCHET 00917
+18.02 18.05 2,11TRONCHET VENEZIA 00917
+18.05 19.32 PO418 42,81#51VENEZIA PADOVA 53EV0917
+19.32 19.34 0,53PADOVA PD PARCH 00917
+19.45 20.18 12-S-D-P-C - 
+RIF.
+18,00PD PARCH DEP.DOLO 00943
+KMNOTE 166,04
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-67E Per SP 13, Via Battisti, Prozzolo, Campagna Lupia, Corte, SP 53, 
+Piove di Sacco.
+#47
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E In partenza da Dolo.#61
+ES-55E Per Padova Boschetti - Padova Ospedale - Ponte di Brenta - Noventa 
+Padovana  - Vigonovo - Fossò -  Camponogara - PROZZOLO - Calcroci 
+Chiesa.Salita solo a Padova Boschetti e Padova Ospedale poi salita e 
+discesa da Vigonovo 
+#92
+Guida effettiva 18 metri < metà turno.AR1
+A Padana Dolo punto orario ai minuti 45PO418
+A Padana Dolo punto orario ai minuti 50PO420
+documento non ufficiale 
+    in visione alla rsu
+--- page 4 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D008Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 5,49 -0,58 6:39  9:08 12:05 15:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.49  6.50 12-S-D-P-C 0,06DEP.DOLO DOLO.DEP 00945
+ 6.50  7.34 19,55#71DOLO.DEP PADOVA 53E/0945
+ 8.17  8.55 17,73#11PADOVA DOLO CAP 53E/0945
+ 8.55  8.58 RIF. 0,67DOLO CAP DEP.DOLO 00945
+12.15 12.20 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00957
+12.20 13.00 18,17#2DOLO CAP 27 OTT-D5 53EM0957
+13.25 14.05 19,01#5227 OTT-D5 DOLO CAP 53EM0957
+14.05 14.10 RIF. 1,34DOLO CAP DEP.DOLO 00957
+14.33 14.50 12-S-D-P-C 10,17DEP.DOLO MIRAN.SPORT 00957
+14.50 15.15 13,51#64MIRAN.SPORT DOLO CAP 56ER0957
+15.15 15.20 RIF. 1,34DOLO CAP DEP.DOLO 00957
+KMNOTE 102,88
+ES-53E Limitata Dolo Centro.#11
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte
+#2
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-56E In partenza da Mirano Sport. Per via Taglio 
+sinistro-Miranese-Nazionale.
+#64
+ES-53E Parte da Dolo (deposito). A Perarolo per via Diaz, S.Antonio, Moro e 
+Bachelet quindi prosegue per Padova.
+#71
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D009Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,29 0,42 6:43 14:12
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.53  7.05 18-S-M 6,96DEP.DOLO STRA 00983
+ 7.10  8.02 24,41#12STRA 27 OTT-D5 53EM0983
+ 8.20  9.00 19,01#5227 OTT-D5 DOLO CAP 53EM0983
+ 9.00  9.02 0,67DOLO CAP DOLO CAP 00983
+ 9.20  9.22 0,61#3DOLO CAP DOLO.DEP 53EV0983
+ 9.22 CAMBIO DAL 220
+ 9.45  9.50 18-S-M 1,34DEP.DOLO DOLO CAP 00980
+ 9.50  9.52 0,61#3DOLO CAP DOLO.DEP 53EV0980
+ 9.52 CAMBIO DAL 307
+10.12 CAMBIA IL 502
+10.12 11.00 PO411 26,41#27DOLO.DEP VENEZIA 53EV0911
+11.05 11.43 24,41#55VENEZIA DOLO.DEP 53EV0911
+11.43 CAMBIO DAL 30
+SOSTA PASTODOLO.DEP DOLO.DEP
+12.43 CAMBIA IL 502
+12.43 13.22 PO418 18,41#51DOLO.DEP PADOVA 53EV0983
+13.22 13.24 0,53PADOVA PD PARCH 00983
+13.29 14.02 12-S-D-P-C - 
+RIF.
+18,00PD PARCH DEP.DOLO 00961
+KMNOTE 141,35
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte 
+#12
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 45PO418
+documento non ufficiale 
+    in visione alla rsu
+--- page 5 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D010Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,19 -0,28 6:10  8:32 11:53 15:50
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.20  6.25 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00944
+ 6.25  6.43 C166 11,37#12DOLO CAP BOJON 67E/0944
+ 6.43  6.45 1,34BOJON BOJON 00944
+ 6.45  7.42 30,37#66BOJON GRITTI 67ED0944
+ 7.42  7.47 LAV.-RIF. 2,01GRITTI DEP.PERT 00944
+ 7.57  8.27 12-S-D-P-C 21,23DEP.PERT DEP.DOLO 00944
+12.03 12.20 12-I-M-LOWE 11,04DEP.DOLO MELLARED 00809
+12.20 12.50 P203 19,0451MELLARED ORIAGO 57E0809
+12.55 13.12 C149 8,68#21ORIAGO SCALTEN. 57E/0809
+13.12 13.19 4,17SCALTEN. MIRANO 00809
+13.23 13.25 0,58MIRANO MIRAN.SPORT 00809
+13.25 13.48 12,33#88MIRAN.SPORT ORIAGO 57E0809
+13.48 14.04 2,64ORIAGO BORBIAGO 00809
+14.10 14.19 5,43#62BORBIAGO ORIAGO 57E0809
+14.25 14.55 17,771ORIAGO MELLARED 57E0809
+15.20 15.40 10,3951MELLARED DOLO CAP 66E0809
+15.40 15.45 1,34DOLO CAP DEP.DOLO 00809
+KMNOTE 161,08
+ES-67E Limitata Bojon.#12
+ES-57E Limitata Scaltenigo.#21
+ES-57E In partenza da Borbiago. A Oriago per via Ghebba - evoluzione - via 
+Ghebba.
+#62
+ES-67E Per Ponte Nuovo (via Badoera) e per via F.lli Bandiera-C. Popolo-27 
+Ottobre-Colombo-Bissuola-Foscari-Gritti. Fermate: Salita tutte fino 
+a via Padana fermata del Luccio fatta eccezione per Sambruson  (id 
+2231) e Mira Centro id 3434 (Salita e Discesa). Fermate in Discesa: 
+C.Popolo Torino id 11, 27 OTT-D4 id 167, Colombo id 272. Da Bissuola 
+ferma tutte, eccetto Bissuola Esiodo e Varrone.
+#66
+ES-57E In partenza da Mirano Sport. Per via Taglio Sinistro.#88
+Ad ORIAGO coincidenza da VENEZIA e MESTRE.C149
+A CALCROCI coincidenza con corsa PIOVE-VENEZIA(Linea 67R).C166
+A Marano non transitare prima delle ore 12.40P203
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D012Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,47 0,0017:00 23:47
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+17.05 23.42 RISERVADEP.DOLO DEP.DOLO
+KMNOTE 0,00
+documento non ufficiale 
+    in visione alla rsu
+--- page 6 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D013Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDOLO.DEP DOLO
+Orario 7,27 0,4013:45 21:12
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.55 14.05 12-I-M-LOWE 6,78DEP.DOLO P.VECCH. 00810
+14.05 14.17 5,45#14P.VECCH. MIRA MUN 56E0810
+14.17 14.23 3,87MIRA MUN DOLO SCO-B 00810
+14.25 14.47 10,82#43DOLO SCO-B C.NOGARA 67E/0810
+14.49 15.02 6,17#3C.NOGARA DOLO CAP 54E0810
+15.02 15.05 0,67DOLO CAP DEP.DOLO 00810
+15.38 16.05 12-I-M-LOWE 18,10DEP.DOLO PIOVE 00810
+16.05 16.59 37,92#1PIOVE VENEZIA 67RE0810
+17.15 18.10 38,13#91VENEZIA PIOVE 67RE0810
+18.28 18.58 18,10#13PIOVE DOLO CAP 58E/0810
+18.58 19.01 0,67DOLO CAP DEP.DOLO 00810
+19.33 CAMBIA IL 22
+19.33 20.12 PO415 18,41#77DOLO.DEP PADOVA 53EV0910
+20.27 21.07 PO419 18,34#23PADOVA DOLO.DEP 53EV0910
+21.07 CAMBIO DAL 1
+KMNOTE 183,42
+ES-67RE Per Corte-Bojon-Calcroci-SS Romea-F.lli Bandiera-VENEZIA.Fermate: 
+S/D tutte fino Malcontenta fermata Malcanton - D tutte da Dep 
+Fisica. Fermate  A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#1
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-56E In partenza da Piazza Vecchia per Gambarare - via Da Maiano - via 
+Borromini - via Bernini. Limitata Mira Municipio.
+#14
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-54E CAMPONOGARA - Paluello - Casello 9 - DOLO #3
+ES-67E In partenza da Dolo Scuole B, per via Badoera. A Prozzolo prosegue 
+per Camponogara dove effettua capolinea.
+#43
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+Guida effettiva 18 metri < metà turno.AR1
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 5PO419
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D014Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,33 0,43 7:05  9:05 13:02 18:35
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3, STNT 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.15  7.20 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00952
+ 7.20  7.50 C205_1 13,56#23DOLO CAP MI-SCUOL 59E0952
+ 7.50  7.52 0,96MI-SCUOL MIRANO 00952
+ 8.05  8.30 13,22#62MIRANO DOLO CAP 56ER0952
+ 8.30  8.35 RIF. 1,34DOLO CAP DEP.DOLO 00952
+13.12 13.15 12-I-D-P-C 1,81DEP.DOLO DOLO SCO-B 00738
+13.15 13.47 16,89#2DOLO SCO-B MELLARED 66E0738
+13.55 14.15 10,3951MELLARED DOLO CAP 66E0738
+14.15 14.17 0,67DOLO CAP DOLO CAP 00738
+14.25 14.45 C154 10,12#32DOLO CAP LUGO 67EL0738
+14.50 15.10 10,10#82LUGO DOLO CAP 67EL0738
+15.10 15.15 RIF. 1,34DOLO CAP DEP.DOLO 00738
+15.48 CAMBIA IL 305
+15.48 15.50 0,62#52DOLO.DEP DOLO CAP 53EM0936
+15.50 15.55 RIF. 1,34DOLO CAP DEP.DOLO 00936
+16.17 16.20 12-I-D-P-C 1,81DEP.DOLO DOLO SCO-B 00738
+16.20 17.00 20,76#45DOLO SCO-B PIOVE 67E0738
+17.00 17.25 17,48PIOVE DOLO CAP 00738
+17.25 17.55 18,101DOLO CAP PIOVE 67E0738
+17.55 18.25 18,0351PIOVE DOLO CAP 67E0738
+18.25 18.30 1,34DOLO CAP DEP.DOLO 00738
+KMNOTE 161,20
+ES-66E In partenza da Dolo Scuole B. Da Pianiga prosegue per Caltana, 
+evoluzione capolinea quindi prosegue per Mellaredo
+#2
+ES-59E Per Mirano Scuole.#23
+ES-67E Per Lughetto#32
+ES-67E In partenza da Dolo Scuole B. Per Dolo centro, evoluzione al Foro 
+Boario, poi per Sambruson, Calcroci, Prozzolo, Campagna Lupia, 
+Bojon, Sampieri, Corte, Piove.
+#45
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-56E per Riviera Del Brenta-Dolo.#62
+ES-67E Per Lughetto.#82
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+A Dolo coincidenza da Piove , Vigonovo , Liettoli e PadovaC205_
+Indennità SPZSPZ3
+Straordinario di turnoSTNT
+documento non ufficiale 
+    in visione alla rsu
+--- page 7 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D017Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP SmontaDEP.DOLO DOLO
+Orario 7,23 0,3616:02 23:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+16.12 CAMBIA IL 350
+16.12 17.00 PO411 26,41#27DOLO.DEP VENEZIA 53EV0983
+17.00 17.13 RIF. 7,62VENEZIA DEP.PERT 00983
+17.32 17.45 18-S-M 8,00DEP.PERT VENEZIA 00983
+17.45 18.35 27,72#67VENEZIA DOLO CAP 53EV0983
+18.35 18.40 1,34DOLO CAP DEP.DOLO 00983
+19.05 19.10 18-S-M 1,34DEP.DOLO DOLO CAP 00983
+19.10 20.00 27,02#41DOLO CAP VENEZIA 53EV0983
+20.05 20.43 PO418 24,41#51VENEZIA DOLO.DEP 53EV0983
+20.43 CAMBIO DAL 46
+SOSTA PASTODEP.DOLO DEP.DOLO
+21.25 21.30 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00911
+21.30 22.10 24,76#5DOLO CAP VENEZIA 53EV0911
+22.30 23.15 26,73#53VENEZIA DOLO CAP 53EV0911
+23.15 23.20 RIF. 1,34DOLO CAP DEP.DOLO 00911
+KMNOTE 178,03
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 45PO418
+documento non ufficiale 
+    in visione alla rsu
+--- page 8 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D018Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,00 0,1313:30 20:30
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.40 14.12 18-S-D-P-C 18,50DEP.DOLO PADOVA 00912
+14.12 14.52 PO420 18,34#23PADOVA DOLO.DEP 53EV0912
+14.52 CAMBIO DAL 22
+15.05 15.10 18-S-M 1,34DEP.DOLO DOLO CAP 00982
+15.10 16.00 27,02#41DOLO CAP VENEZIA 53EV0982
+16.05 16.43 PO418 24,41#51VENEZIA DOLO.DEP 53EV0982
+16.43 CAMBIO DAL 350
+17.05 17.10 18-S-M 1,34DEP.DOLO DOLO CAP 00980
+17.10 18.00 27,02#41DOLO CAP VENEZIA 53EV0980
+18.00 18.03 1,83VENEZIA TRONCHET 00980
+18.22 18.25 2,11TRONCHET VENEZIA 00980
+18.25 19.10 26,73#53VENEZIA DOLO CAP 53EV0980
+19.10 19.15 1,34DOLO CAP DEP.DOLO 00980
+19.30 19.35 12-I-M-LOWE 1,34DEP.DOLO DOLO CAP 00810
+19.35 19.55 10,471DOLO CAP MELLARED 66E0810
+20.00 20.20 10,3951MELLARED DOLO CAP 66E0810
+20.20 20.25 1,34DOLO CAP DEP.DOLO 00810
+KMNOTE 173,52
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 45PO418
+A Padana Dolo punto orario ai minuti 50PO420
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D019Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,12 -0,35 6:33  8:48 11:58 15:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.43  6.55 12-S-D-P-C 6,96DEP.DOLO STRA 00936
+ 6.55  7.24 12,65#66STRA PADOVA 53E/0936
+ 7.24  7.26 0,53PADOVA PD PARCH 00936
+ 7.55  7.57 12-S-D-P-C 0,47PD PARCH PADOVA 00936
+ 7.57  8.35 17,73#11PADOVA DOLO CAP 53E/0936
+ 8.35  8.38 RIF. 0,67DOLO CAP DEP.DOLO 00936
+12.08 CAMBIA IL 20
+12.08 12.47 PO411 18,41#73DOLO.DEP PADOVA 53EV0981
+12.47 12.49 0,53PADOVA PD PARCH 00981
+13.30 13.32 18-S-M 0,47PD PARCH PADOVA 00981
+13.32 15.00 PO411 44,75#27PADOVA VENEZIA 53EV0981
+15.05 15.45 25,02#55VENEZIA DOLO CAP 53EV0981
+15.45 15.50 1,34DOLO CAP DEP.DOLO 00981
+KMNOTE 129,51
+ES-53E Limitata Dolo Centro.#11
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-53E In partenza da Stra. A Perarolo prosegue per via Diaz, S.Antonio, 
+Moro e Bachelet. 
+#66
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+documento non ufficiale 
+    in visione alla rsu
+--- page 9 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D020Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDOLO.DEP DOLO
+Orario 7,11 0,24 5:02 12:13
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.12  5.15 18-S-D-P-C 0,68DEP.DOLO DOLO CAP 00911
+ 5.15  5.47 C131 17,79#61DOLO CAP PADOVA 53E/0911
+ 5.52  7.10 PO415 42,49#1PADOVA VENEZIA 53EV0911
+ 7.25  8.08 PO411 26,11#73VENEZIA DOLO.DEP 53EV0911
+ 8.08 CAMBIO DAL 39
+ 8.32 CAMBIA IL 311
+ 8.32  9.10 PO415 24,15#1DOLO.DEP VENEZIA 53EV0916
+ 9.25 10.08 PO411 26,11#73VENEZIA DOLO.DEP 53EV0916
+10.08 CAMBIO DAL 225
+10.25 10.30 18-S-M 1,34DEP.DOLO DOLO CAP 00981
+10.30 11.10 24,76#5DOLO CAP VENEZIA 53EV0981
+11.25 12.08 PO411 26,11#73VENEZIA DOLO.DEP 53EV0981
+12.08 CAMBIO DAL 19
+KMNOTE 189,55
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E In partenza da Dolo.#61
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+Guida effettiva 18 metri per = o > turno.AR2
+A DOLO coincidenza da ROSARA.C131
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 30PO415
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D022Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP SmontaDEP.DOLO DOLO
+Orario 7,26 0,3914:42 22:08
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+14.52 CAMBIA IL 18
+14.52 15.35 PO420 26,00#23DOLO.DEP VENEZIA 53EV0912
+15.45 16.35 27,72#67VENEZIA DOLO CAP 53EV0912
+16.35 16.40 RIF. 1,34DOLO CAP DEP.DOLO 00912
+17.08 CAMBIA IL 54
+17.08 17.10 0,62#53DOLO.DEP DOLO CAP 53EV0911
+17.10 17.15 RIF. 1,34DOLO CAP DEP.DOLO 00911
+17.32 CAMBIA IL 52
+17.32 18.10 PO424 24,15#1DOLO.DEP VENEZIA 53EV0910
+18.10 18.13 1,83VENEZIA TRONCHET 00910
+18.42 18.45 2,11TRONCHET VENEZIA 00910
+18.45 19.33 PO415 27,10#77VENEZIA DOLO.DEP 53EV0910
+19.33 CAMBIO DAL 13
+SOSTA PASTODOLO.DEP DOLO.DEP
+20.12 CAMBIA IL 23
+20.12 20.55 PO411 26,00#23DOLO.DEP VENEZIA 53EV0981
+20.55 21.08 LAV.-RIF. 7,62VENEZIA DEP.PERT 00981
+21.33 22.03 18-S-M 21,23DEP.PERT DEP.DOLO 00981
+KMNOTE 167,06
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 50PO420
+A Padana Dolo punto orario alle ore 17:30PO424
+documento non ufficiale 
+    in visione alla rsu
+--- page 10 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D023Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDOLO.DEP DOLO
+Orario 7,15 0,2813:02 20:17
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.12 13.15 12-S-D-P-C 1,81DEP.DOLO DOLO SCO-B 00945
+13.15 13.45 14,93#25DOLO SCO-B MIRANO 59E0945
+13.45 13.47 0,58MIRANO MIRAN.SPORT 00945
+14.10 14.35 13,51#64MIRAN.SPORT DOLO CAP 56ER0945
+14.35 15.00 13,19#51DOLO CAP BOJON CHIESA 54E0945
+15.00 15.18 RIF. 13,06BOJON CHIES DEP.DOLO 00945
+15.52 16.22 18-S-D-P-C - 
+LAV.-RIF.
+21,19DEP.DOLO DEP.PERT 00913
+16.32 16.45 18-S-D-P-C 8,00DEP.PERT VENEZIA 00913
+16.45 18.12 PO414 42,81#51VENEZIA PADOVA 53EV0913
+18.12 18.14 0,53PADOVA PD PARCH 00913
+19.30 19.32 18-S-M 0,47PD PARCH PADOVA 00981
+19.32 20.12 PO411 18,34#23PADOVA DOLO.DEP 53EV0981
+20.12 CAMBIO DAL 22
+KMNOTE 148,40
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-59E In partenza da Dolo Scuole B. Per Cà Tron-Via 
+Cairoli-Cazzago-Vetrego-Marano-Taglio Sinistro-Via Cavin di 
+Sala-Mirano
+#25
+ES-53E Fermate: salita/discesa tutte#51
+ES-54E DOLO - Paluello - Campoverardo - Camponogara - Premaore - BOJON#51
+ES-56E In partenza da Mirano Sport. Per via Taglio 
+sinistro-Miranese-Nazionale.
+#64
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 25PO414
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D024Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,42 -0,05 6:40  9:05 14:23 18:40
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.50  7.10 12-S-D-P-C 10,83DEP.DOLO CALTANA 00937
+ 7.10  7.32 12,09#61CALTANA DOLO SCO-A 66E0937
+ 7.32  7.35 1,47DOLO SCO-A DEP.DOLO 00937
+ 7.40  7.45 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00937
+ 7.45  8.25 18,17#2DOLO CAP 27 OTT-D5 53EM0937
+ 8.25  8.55 RIF. 18,4327 OTT-D5 DEP.DOLO 00937
+14.33 14.50 12-S-D-P-C 10,17DEP.DOLO MIRAN.SPORT 00937
+14.50 15.33 22,29#63MIRAN.SPORT DOLO CAP 56E0937
+15.35 15.37 0,67DOLO CAP DOLO CAP 00937
+15.45 16.15 18,101DOLO CAP PIOVE 67E0937
+16.20 16.50 18,10#13PIOVE DOLO CAP 58E/0937
+16.50 16.53 0,67DOLO CAP DEP.DOLO 00937
+16.55 17.30 12-S-D-P-C 24,31DEP.DOLO VENEZIA 00937
+17.30 18.20 25,98#26VENEZIA SCALTEN. 57E0937
+18.20 18.30 RIF. 6,12SCALTEN. DEP.DOLO 00937
+KMNOTE 188,74
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte
+#2
+ES-57E Per via Ghebba-evoluzione-via Ticino-Borbiago#26
+ES-66E In partenza da Caltana per Dolo Scuole A.#61
+ES-56E In partenza da Mirano Sport. A Mira per via Di 
+Vittorio-Bernini-Borromini-Da Maiano-Sambruson-Dolo
+#63
+Indennità SPZSPZ3
+documento non ufficiale 
+    in visione alla rsu
+--- page 11 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D025Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDOLO.DEP DOLO
+Orario 6,17 -0,30 5:22  8:07 12:05 15:37
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.32  5.35 12-I-D-P-C 0,68DEP.DOLO DOLO CAP 00738
+ 5.35  6.05 18,34#63DOLO CAP PIOVE 58E/0738
+ 6.10  6.40 18,10#13PIOVE DOLO CAP 58E/0738
+ 6.45  7.15 18,101DOLO CAP PIOVE 67E0738
+ 7.15  7.52 20,58#57PIOVE DOLO CAP 67E0738
+ 7.52  7.57 RIF. 1,34DOLO CAP DEP.DOLO 00738
+12.15 12.20 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00943
+12.20 13.05 20,02#31DOLO CAP 27 OTT-D5 53EM0943
+13.10 14.27 C209 - PO420 36,80#5427 OTT-D5 PADOVA 53EM0943
+14.27 14.29 0,53PADOVA PD PARCH 00943
+14.50 14.52 18-S-D-P-C 0,47PD PARCH PADOVA 00911
+14.52 15.32 PO415 18,34#1PADOVA DOLO.DEP 53EV0911
+15.32 CAMBIO DAL 54
+KMNOTE 154,63
+ES-53E Fermate: salita/discesa tutte#1
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-53E Per Malcontenta-via F.lli Bandiera e per Corso del Popolo. Limitata 
+MESTRE (P.zza 27 Ottobre). Fermate: S/D tutte esclusa via 
+Malcontenta inc.via Padana (id.1415) 
+#31
+ES-53E Fermate: salita/discesa tutte #54
+ES-67E Prosegue per via Badoera, Dolo scuole quindi per Dolo#57
+ES-58E Limitata Piove.#63
+Guida effettiva 18 metri < metà turno.AR1
+A DOLO attende corse linee 56,59,59V da MIRANO.C209
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 50PO420
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D027Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,30 0,4317:35  1:05
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+17.45 17.50 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00912
+17.50 18.35 26,61#3DOLO CAP VENEZIA 53EV0912
+18.35 18.38 1,83VENEZIA TRONCHET 00912
+19.02 19.05 2,11TRONCHET VENEZIA 00912
+19.05 19.45 25,02#55VENEZIA DOLO CAP 53EV0912
+19.45 19.50 RIF. 1,34DOLO CAP DEP.DOLO 00912
+SOSTA PASTODEP.DOLO DEP.DOLO
+20.32 CAMBIA IL 46
+20.32 21.10 24,15#5DOLO.DEP VENEZIA 53EV0912
+21.30 22.15 26,73#53VENEZIA DOLO CAP 53EV0912
+22.15 22.20 RIF. 1,34DOLO CAP DEP.DOLO 00912
+22.43 CAMBIA IL 1
+22.43 22.45 0,62#67DOLO.DEP DOLO CAP 53EV0910
+22.45 22.47 0,67DOLO CAP DOLO CAP 00910
+23.00 23.45 26,61#3DOLO CAP VENEZIA 53EV0910
+ 0.00  0.50 29,42#98VENEZIA DOLO CAP 53EV0910
+ 0.50  0.55 RIF. 1,34DOLO CAP DEP.DOLO 00910
+KMNOTE 169,13
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Malcontenta. Ferma a S.Chiara. Fermate: In piazza 27 
+Ottobre effettua la fermata di incr.v.Colombo (id.168). Da 27 
+Ottobre S/D tutte, Limitata Dolo.
+#98
+Guida effettiva 18 metri per = o > turno.AR2
+documento non ufficiale 
+    in visione alla rsu
+--- page 12 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D028Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,45 -0,0214:15 21:00
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+14.25 14.30 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00916
+14.30 15.10 24,76#5DOLO CAP VENEZIA 53EV0916
+15.25 16.08 PO411 26,11#73VENEZIA DOLO.DEP 53EV0916
+16.08 CAMBIO DAL 305
+16.25 16.30 18-S-M 1,34DEP.DOLO DOLO CAP 00981
+16.30 17.10 24,76#5DOLO CAP VENEZIA 53EV0981
+17.25 18.57 PO411 44,52#73VENEZIA PADOVA 53EV0981
+18.57 18.59 0,53PADOVA PD PARCH 00981
+19.43 19.45 12-S-D-P-C 0,47PD PARCH PADOVA 00938
+19.45 20.40 P434 23,92#94PADOVA CALCROCI 55E0938
+20.40 20.50 RIF. 6,09CALCROCI DEP.DOLO 00938
+KMNOTE 153,84
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+ES-55E Transita per Vigonovo - Galta - Fossò - Camponogara. Solo salita 
+fino a Vigonovo, poi salita e discesa.
+#94
+Guida effettiva 18 metri per = o > turno.AR2
+A Vigonovo non transita prima delle ore 20.03P434
+A Padana Dolo punto orario ai minuti 10PO411
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D029Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDOLO.DEP DOLO
+Orario 6,44 -0,03 6:05  8:15 12:23 16:57
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2, SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.18  6.23 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00941
+ 6.23  6.36 7,80#36DOLO CAP CALCROCI 55E0941
+ 6.36  7.32 24,77#48CALCROCI PADOVA 55E0941
+ 7.32  8.05 RIF. 18,46PADOVA DEP.DOLO 00941
+12.33 CAMBIA IL 53
+12.33 12.35 0,62#67DOLO.DEP DOLO CAP 53EV0912
+12.35 12.40 RIF. 1,34DOLO CAP DEP.DOLO 00912
+13.05 13.10 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00917
+13.10 14.00 27,02#41DOLO CAP VENEZIA 53EV0917
+14.05 15.22 PO418 42,81#51VENEZIA PADOVA 53EV0917
+15.22 15.24 0,53PADOVA PD PARCH 00917
+16.10 16.12 18-S-D-P-C 0,47PD PARCH PADOVA 00917
+16.12 16.52 PO420 18,34#23PADOVA DOLO.DEP 53EV0917
+16.52 CAMBIO DAL 7
+KMNOTE 144,83
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-55E Transita per Camponogara. Limitata Calcroci.#36
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-55E Parte da Calcroci Chiesa. Per 
+Camponogara-Campoverardo-Fossò-Galta-Vigonovo. Salita e Discesa fino 
+a Vigonovo, poi discesa. 
+#48
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 45PO418
+A Padana Dolo punto orario ai minuti 50PO420
+Indennità SPZ SPZ1
+documento non ufficiale 
+    in visione alla rsu
+--- page 13 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D030Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDOLO.DEP DOLO
+Orario 6,11 -0,36 6:00  8:15 11:33 15:29
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.10  6.15 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00942
+ 6.15  6.45 14,46#32DOLO CAP CELESEO 55EP0942
+ 6.45  7.15 14,36#82CELESEO DOLO CAP 55EP0942
+ 7.15  7.17 0,67DOLO CAP DOLO CAP 00942
+ 7.20  7.50 C402 13,421DOLO CAP MIRANO 59E0942
+ 7.50  8.05 RIF. 10,36MIRANO DEP.DOLO 00942
+11.43 CAMBIA IL 9
+11.43 11.45 0,62#55DOLO.DEP DOLO CAP 53EV0911
+11.45 11.47 0,67DOLO CAP DOLO CAP 00911
+11.50 12.35 26,61#3DOLO CAP VENEZIA 53EV0911
+12.45 14.12 PO415 45,51#77VENEZIA PADOVA 53EV0911
+14.12 14.14 0,53PADOVA PD PARCH 00911
+14.38 14.40 12-S-D-P-C 0,47PD PARCH PADOVA 00943
+14.40 15.24 PO460 19,79#24PADOVA DOLO.DEP 53EM0943
+15.24 CAMBIO DAL 2
+KMNOTE 148,79
+ES-53E A Vigonza prosegue per via Bachelet, Moro, S.Antonio e Diaz. A 
+Mestre per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). 
+Fermate: Salita/Discesa tutte 
+#24
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-55E Per Galta-Vigonovo Ponte-Celeseo.#32
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+ES-55E Per Vigonovo Ponte-Galta#82
+Guida effettiva 18 metri < metà turno.AR1
+a DOLO attende linea 55E da CELESEOC402
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 22PO460
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D031Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,08 0,21 6:27 13:35
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.37  6.40 12-S-D-P-C 0,68DEP.DOLO DOLO CAP 00949
+ 6.40  7.22 C131 18,93#60DOLO CAP PADOVA 53E/0949
+ 7.22  7.24 0,53PADOVA PD PARCH 00949
+ 8.10  8.12 18-S-D-P-C 0,47PD PARCH PADOVA 00917
+ 8.12  9.35 PO420 44,34#23PADOVA VENEZIA 53EV0917
+ 9.45 10.35 27,72#67VENEZIA DOLO CAP 53EV0917
+10.35 10.40 RIF. 1,34DOLO CAP DEP.DOLO 00917
+11.50 11.55 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00960
+11.55 12.35 18,17#2DOLO CAP 27 OTT-D5 53EM0960
+12.40 13.20 19,01#5227 OTT-D5 DOLO CAP 53EM0960
+13.20 13.25 RIF. 1,34DOLO CAP DEP.DOLO 00960
+KMNOTE 133,85
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte
+#2
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-53E A Perarolo per via Diaz, S.Antonio, Moro e Bachelet quindi prosegue 
+per Padova.
+#60
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+A DOLO coincidenza da ROSARA.C131
+A Padana Dolo punto orario ai minuti 50PO420
+documento non ufficiale 
+    in visione alla rsu
+--- page 14 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D032Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 5,55 -0,52 6:07  8:52 11:40 14:50
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.17  6.20 12-S-D-P-C 0,68DEP.DOLO DOLO CAP 00947
+ 6.20  6.32 6,28#58DOLO CAP STRA 53E/0947
+ 6.35  6.53 C143 7,5851STRA DOLO CAP 55SE0947
+ 6.58  7.45 21,81#33DOLO CAP GRITTI 53ED0947
+ 7.50  8.37 21,73#82GRITTI DOLO CAP 53ED0947
+ 8.37  8.42 RIF. 1,34DOLO CAP DEP.DOLO 00947
+11.50 12.22 18-S-M 18,50DEP.DOLO PADOVA 00984
+12.22 13.40 PO410 42,49#1PADOVA VENEZIA 53EV0984
+13.55 14.40 26,73#53VENEZIA DOLO CAP 53EV0984
+14.40 14.45 1,34DOLO CAP DEP.DOLO 00984
+KMNOTE 148,47
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Corsa diretta per F.lli Bandiera-C. Popolo-27 
+Ottobre-Bissuola-Gritti. Limitata Ist.Gritti. Fermate: Salita tutte 
+fino a via Padana rotonda (id.1439). In Discesa ferma solo C. Popolo 
+Torino (id.11)-Mestrina (id.13)-27 Ottobre incr.v.Pepe (id.303). Da 
+Bissuola ferma tutte, eccetto Bissuola Esiodo e Varrone.
+#33
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Limitata Stra.#58
+ES-53E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago. Fermate: solo Salita fino a via Bissuola, fermata 
+Colombo (id1272) - 27 Ottobre (Incr. via Colombo, id.168)-C.Popolo 
+(incr.v.Mestrina, id.1013 e Torino, id.1011); solo Discesa tutte da 
+via Padana rotonda fermata del Lucio (id.439).
+#82
+Guida effettiva 18 metri per = o > turno.AR2
+A DOLO coincidenza per IST. FOSCARI.C143
+A Padana Dolo punto orario ai minuti 0PO410
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D033Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,19 0,32 6:03 10:44 13:12 15:50
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.13  6.30 12-S-D-P-C 11,04DEP.DOLO MELLARED 00951
+ 6.30  7.28 34,96#64MELLARED VENEZIA 66EV0951
+ 7.28  8.03 RIF. 24,25VENEZIA DEP.DOLO 00951
+ 8.42 CAMBIA IL 308
+ 8.42  9.20 17,56#2DOLO.DEP 27 OTT-D5 53EM0984
+ 9.25 10.05 19,01#5227 OTT-D5 DOLO CAP 53EM0984
+10.05 10.07 0,67DOLO CAP DOLO CAP 00984
+10.07 10.14 RIF. 2,90DOLO CAP DISTR.DOLO 00984
+10.34 10.39 2,51DISTR.DOLO DEP.DOLO 00984
+13.22 13.25 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00941
+13.25 14.07 19,85#72DOLO SCO-A PADOVA 53E0941
+14.25 15.22 24,93#98PADOVA CALCROCI 55E0941
+15.22 15.35 7,41#86CALCROCI DOLO CAP 55E0941
+15.35 15.40 RIF. 1,34DOLO CAP DEP.DOLO 00941
+KMNOTE 167,97
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte
+#2
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-66E Per Mira-Oriago-via Padana-F.lli Bandiera-della Libertà-Venezia.#64
+ES-53E In partenza da Dolo Scuole A.#72
+ES-55E In partenza da Calcroci. #86
+ES-55E Transita per Vigonovo - Galta - Fossò - Campoverardo - Camponogara. 
+Solo salita fino a Vigonovo, poi salita e discesa. 
+#98
+Guida effettiva 18 metri < metà turno.AR1
+documento non ufficiale 
+    in visione alla rsu
+--- page 15 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D034Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,47 0,00 4:00 10:47
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.05 10.42 RISERVADEP.DOLO DEP.DOLO
+KMNOTE 0,00
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D036Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP SmontaDEP.DOLO DOLO
+Orario 7,30 0,4312:42 20:12
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+12.52 CAMBIA IL 301
+12.52 13.35 PO420 26,00#23DOLO.DEP VENEZIA 53EV0982
+13.45 14.35 27,72#67VENEZIA DOLO CAP 53EV0982
+14.35 14.40 1,34DOLO CAP DEP.DOLO 00982
+15.20 15.45 12-I-M-LOWE 11,90DEP.DOLO BOJON CHIESA 00813
+15.45 16.27 30,83#12BOJON VENEZIA 67RE0813
+16.45 17.40 38,13#91VENEZIA PIOVE 67RE0813
+17.40 18.05 17,48PIOVE DOLO CAP 00813
+18.20 18.50 C219 14,46#32DOLO CAP CELESEO 55EP0813
+18.50 19.20 14,36#82CELESEO DOLO CAP 55EP0813
+19.20 19.22 0,67DOLO CAP DOLO CAP 00813
+19.25 19.55 C255 16,01#1DOLO CAP STRA 55E0813
+19.55 20.07 6,91STRA DEP.DOLO 00813
+KMNOTE 205,79
+ES-55E DOLO - Camponogara - Fossò - Pava - Galta - Vigonovo - STRA#1
+ES-67RE Fermate: S/D tutte fino Malcontenta  fermata Malcanton - D tutte da 
+Dep Fisica. A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#12
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-55E Per Galta-Vigonovo Ponte-Celeseo.#32
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-55E Per Vigonovo Ponte-Galta#82
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+Guida effettiva 18 metri < metà turno.AR1
+A DOLO coincidenza da PADOVA, VENEZIA.C219
+A DOLO coincidenza da MESTREC255
+A Padana Dolo punto orario ai minuti 50PO420
+documento non ufficiale 
+    in visione alla rsu
+--- page 16 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D037Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,36 -0,11 6:10  9:20 12:02 15:28
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.20  6.52 18-S-M 18,50DEP.DOLO PADOVA 00981
+ 6.52  8.10 PO415 42,49#1PADOVA VENEZIA 53EV0981
+ 8.25  9.10 26,73#53VENEZIA DOLO CAP 53EV0981
+ 9.10  9.15 1,34DOLO CAP DEP.DOLO 00981
+12.12 CAMBIA IL 225
+12.12 12.50 PO411 24,15#1DOLO.DEP VENEZIA 53EV0916
+13.05 13.45 25,02#55VENEZIA DOLO CAP 53EV0916
+13.45 13.50 RIF. 1,34DOLO CAP DEP.DOLO 00916
+14.17 14.20 12-S-D-P-C 1,81DEP.DOLO DOLO SCO-B 00961
+14.20 14.52 16,89#2DOLO SCO-B MELLARED 66E0961
+14.53 15.13 10,3951MELLARED DOLO CAP 66E0961
+15.13 15.18 RIF. 1,34DOLO CAP DEP.DOLO 00961
+KMNOTE 169,99
+ES-53E Fermate: salita/discesa tutte#1
+ES-66E In partenza da Dolo Scuole B. Da Pianiga prosegue per Caltana, 
+evoluzione capolinea quindi prosegue per Mellaredo
+#2
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 30PO415
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D038Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,28 -0,19 6:57 13:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.07  7.30 12-S-D-P-C 18,06DEP.DOLO LOVA 00946
+ 7.30  7.50 12,64#25LOVA PIOVE 67ES0946
+ 8.10  8.40 18,0351PIOVE DOLO CAP 67E0946
+ 8.40  8.45 RIF. 1,34DOLO CAP DEP.DOLO 00946
+ 9.23 CAMBIA IL 5
+ 9.23 10.02 PO414 18,41#51DOLO.DEP PADOVA 53EV0910
+10.02 10.04 0,53PADOVA PD PARCH 00910
+10.50 10.52 18-S-D-P-C 0,47PD PARCH PADOVA 00910
+10.52 12.10 PO415 42,49#1PADOVA VENEZIA 53EV0910
+12.25 13.10 26,73#53VENEZIA DOLO CAP 53EV0910
+13.10 13.15 RIF. 1,34DOLO CAP DEP.DOLO 00910
+KMNOTE 140,02
+ES-53E Fermate: salita/discesa tutte#1
+ES-67E Per Bojon-Campolongo Maggiore-Piove Scuole-PIOVE#25
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 25PO414
+A Padana Dolo punto orario ai minuti 30PO415
+documento non ufficiale 
+    in visione alla rsu
+--- page 17 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D039Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,30 0,43 5:55 10:03 12:30 15:52
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.05  6.10 12-I-D-P-C 1,34DEP.DOLO DOLO CAP 00826
+ 6.10  6.35 12,97#12DOLO CAP MIRANO 56ER0826
+ 6.55  7.20 13,12#52MIRANO DOLO CAP 59EV0826
+ 7.20  7.25 RIF. 1,34DOLO CAP DEP.DOLO 00826
+ 8.08 CAMBIA IL 20
+ 8.08  8.57 PO411 18,41#73DOLO.DEP PADOVA 53EV0911
+ 8.57  8.59 0,53PADOVA PD PARCH 00911
+ 9.20  9.53 12-S-D-P-C - 
+RIF.
+18,00PD PARCH DEP.DOLO 00958
+12.40 12.45 12-I-D-P-C 1,34DEP.DOLO DOLO CAP 00737
+12.45 13.20 16,19#81DOLO CAP DOLO CAP 56EC0737
+13.20 13.22 0,67DOLO CAP DOLO CAP 00737
+13.25 14.12 21,36#11DOLO CAP MIRANO 56E0737
+14.12 14.14 0,58MIRANO MIRAN.SPORT 00737
+14.20 14.43 12,33#88MIRAN.SPORT ORIAGO 57E0737
+14.55 15.25 17,771ORIAGO MELLARED 57E0737
+15.25 15.42 RIF. 10,84MELLARED DEP.DOLO 00737
+KMNOTE 146,78
+ES-56E Per via Da Maiano-via Borromini-via Bernini.#11
+ES-56E Per Riviera Del Brenta-Marano centro.#12
+ES-59E Per Vetrego-rotatoria A4.#52
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+ES-56E Per Mira (v.Alfieri -v.Gramsci-Riv. Matteotti)-v.Chiesa di 
+Gambarare-Gambarare-Gambarare Scuole-P.zza Vecchia-Porto 
+Menai-Sambruson-Dolo.
+#81
+ES-57E In partenza da Mirano Sport. Per via Taglio Sinistro.#88
+Guida effettiva 18 metri < metà turno.AR1
+A Padana Dolo punto orario ai minuti 10PO411
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D041Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,06 0,19 6:38 10:10 12:15 15:49
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.48  7.05 12-I-D-P-C 11,04DEP.DOLO MELLARED 00737
+ 7.05  7.42 20,15#33MELLARED MIRANO 59ES0737
+ 7.58  8.28 13,5651MIRANO DOLO CAP 59E0737
+ 8.28  8.30 0,67DOLO CAP DOLO CAP 00737
+ 8.40  9.05 13,15#21DOLO CAP MIRANO 59EV0737
+ 9.10  9.55 20,51#51MIRANO DOLO CAP 56E0737
+ 9.55 10.00 RIF. 1,34DOLO CAP DEP.DOLO 00737
+12.25 12.55 12-S-D-P-C - 
+RIF.-LAV.
+21,19DEP.DOLO DEP.PERT 00952
+13.05 13.10 12-S-D-P-C 2,03DEP.PERT GRITTI 00952
+13.10 13.57 21,73#82GRITTI DOLO CAP 53ED0952
+13.57 14.02 1,34DOLO CAP DEP.DOLO 00952
+14.12 14.15 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00952
+14.15 14.38 9,76#15DOLO SCO-A STRA 55SE0952
+14.40 14.58 C144 7,5851STRA DOLO CAP 55SE0952
+14.58 15.08 5,44DOLO CAP MIRA MUN 00952
+15.10 15.39 12,24#74MIRA MUN DOLO CAP 56E0952
+15.39 15.44 1,34DOLO CAP DEP.DOLO 00952
+KMNOTE 164,60
+ES-55SE In partenza da partenza da Dolo Scuole A.#15
+ES-59E Per rotatoria A4-Vetrego.#21
+ES-59E Per Pianiga-Arino-Cazzago-Ballò.#33
+ES-56E MIRANO - via Cavin di Sala - via Taglio Sinistro - Marano - via 
+Gramsci - Mira Municipio - Gambarare - Piazza Vecchia - Porto Menai 
+- Sambruson - DOLO
+#51
+ES-56E Per Riviera Matteotti-via Di Vittorio-via Bernini-via Da Maiano.#74
+ES-53E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago. Fermate: solo Salita fino a via Bissuola, fermata 
+Colombo (id1272) - 27 Ottobre (Incr. via Colombo, id.168)-C.Popolo 
+(incr.v.Mestrina, id.1013 e Torino, id.1011); solo Discesa tutte da 
+via Padana rotonda fermata del Lucio (id.439).
+#82
+A STRA coincidenza da VENEZIA, MESTRE e PADOVA.C144
+documento non ufficiale 
+    in visione alla rsu
+--- page 18 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D042Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,28 -0,19 6:10 10:05 12:30 15:03
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.20  6.25 12-I-D-P-C 1,34DEP.DOLO DOLO CAP 00739
+ 6.25  6.55 13,421DOLO CAP MIRANO 59E0739
+ 6.55  7.48 29,29#82MIRANO DOLO SCO-A 59ES0739
+ 7.48  7.51 RIF. 1,47DOLO SCO-A DEP.DOLO 00739
+ 8.12 CAMBIA IL 507
+ 8.12  9.00 PO411 26,41#27DOLO.DEP VENEZIA 53EV0957
+ 9.10  9.50 25,02#55VENEZIA DOLO CAP 53EV0957
+ 9.50  9.55 RIF. 1,34DOLO CAP DEP.DOLO 00957
+12.40 12.45 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00950
+12.45 13.05 C154 10,471DOLO CAP MELLARED 66E0950
+13.05 13.25 10,3951MELLARED DOLO CAP 66E0950
+13.25 13.56 17,83DOLO CAP PADOVA 00950
+14.12 14.50 17,73#11PADOVA DOLO CAP 53E/0950
+14.50 14.53 RIF. 0,67DOLO CAP DEP.DOLO 00950
+KMNOTE 156,72
+ES-53E Limitata Dolo Centro.#11
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-59E Per Ballò-Pianiga-Mellaredo-Pianiga-Arino. A Pianiga via Roma non 
+effettua fermata 2351 Accoppè in direzione Mellaredo. Per via 
+Cairoli -Matteotti- Dolo scuole. Non transita per Dolo centro.
+#82
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+A Padana Dolo punto orario ai minuti 10PO411
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D043Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 5,28 -1,19 3:45  9:13
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 3.55  4.00 18-S-M 1,34DEP.DOLO DOLO CAP 00980
+ 4.00  4.45 27,02#41DOLO CAP VENEZIA 53EV0980
+ 4.55  6.17 PO417 45,51#77VENEZIA PADOVA 53EV0980
+ 6.32  8.00 PO411 44,75#27PADOVA VENEZIA 53EV0980
+ 8.00  8.13 RIF.-LAV. 7,62VENEZIA DEP.PERT 00980
+ 8.38  9.08 18-S-M 21,23DEP.PERT DEP.DOLO 00980
+KMNOTE 147,48
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 40PO417
+documento non ufficiale 
+    in visione alla rsu
+--- page 19 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D046Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,25 0,3816:30 23:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+16.40 16.45 12-I-D-P-C 1,34DEP.DOLO DOLO CAP 00737
+16.45 17.10 10,13#25DOLO CAP MIRA L. 56EV0737
+17.10 17.40 22,38MIRA L. VENEZIA 00737
+17.45 18.40 38,13#91VENEZIA PIOVE 67RE0737
+18.55 19.25 18,0351PIOVE DOLO CAP 67E0737
+19.25 19.30 RIF. 1,34DOLO CAP DEP.DOLO 00737
+SOSTA PASTODEP.DOLO DEP.DOLO
+20.25 20.30 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00912
+20.30 20.32 0,61#5DOLO CAP DOLO.DEP 53EV0912
+20.32 CAMBIO DAL 27
+20.43 CAMBIA IL 17
+20.43 21.22 PO418 18,41#51DOLO.DEP PADOVA 53EV0983
+21.27 22.50 PO419 44,34#23PADOVA VENEZIA 53EV0983
+23.00 23.45 27,72#67VENEZIA DOLO CAP 53EV0983
+23.45 23.50 1,34DOLO CAP DEP.DOLO 00983
+KMNOTE 185,10
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-56E Per Sambruson-Porto Menai-P.zza Vecchia. Limitata Mira Riviera 
+Matteotti.
+#25
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 45PO418
+A Padana Dolo punto orario ai minuti 5PO419
+Set  = 2026-09-14-SP-ES-LMmGV__-R245 Data di stampa 11/09/2026
+Extraurbano Sud
+D044INVERNO
+Validità LMmGV__Data: 14/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 5,58 -0,49 5:45  8:28 12:15 15:30
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.55  6.00 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00913
+ 6.00  6.45 26,61#3DOLO CAP VENEZIA 53EV0913
+ 6.50  7.30 25,02#55VENEZIA DOLO CAP 53EV0913
+ 7.30  7.32 0,67DOLO CAP DOLO CAP 00913
+ 7.45  7.58 T021 8,73#49DOLO CAP ORIAGO CENT 53EN0913
+ 7.58  8.18 RIF. 14,93ORIAGO CENT DEP.DOLO 00913
+12.25 12.30 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00913
+12.30 13.10 24,76#5DOLO CAP VENEZIA 53EV0913
+13.25 14.47 C269 - PO411 44,52#73VENEZIA PADOVA 53EV0913
+14.47 15.20 RIF. 18,46PADOVA DEP.DOLO 00913
+KMNOTE 166,38
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E In partenza da Dolo Capolinea per Oriago Centro (Id.3436). Corsa 
+diretta: Non effettua fermate lungo il percorso. 
+#49
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+Guida effettiva 18 metri per = o > turno.AR2
+A DOLO attende corsa scolastica proveniente da MESTRE.C269
+A Padana Dolo punto orario ai minuti 10PO411
+Corsa effettuata dal lunedì al venerdìT021
+documento non ufficiale 
+    in visione alla rsu
+--- page 20 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D047Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,47 0,0010:30 17:17
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+10.35 17.12 RISERVADEP.DOLO DEP.DOLO
+KMNOTE 0,00
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D048Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 6,22 -0,25 6:40  9:38 12:28 15:52
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.50  7.22 12-S-D-P-C 18,50DEP.DOLO PADOVA 00938
+ 7.22  8.40 PO410 42,49#1PADOVA VENEZIA 53EV0938
+ 8.40  8.53 RIF.-LAV. 7,62VENEZIA DEP.PERT 00938
+ 9.03  9.33 12-S-D-P-C 21,23DEP.PERT DEP.DOLO 00938
+12.38 13.10 12-S-D-P-C 18,50DEP.DOLO PADOVA 00942
+13.10 14.32 PO462 37,35#24PADOVA 27 OTT-D5 53EM0942
+14.32 14.42 3,0327 OTT-D5 GRITTI 00942
+14.50 15.37 21,73#82GRITTI DOLO CAP 53ED0942
+15.37 15.42 RIF. 1,34DOLO CAP DEP.DOLO 00942
+KMNOTE 171,79
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E A Vigonza prosegue per via Bachelet, Moro, S.Antonio e Diaz. A 
+Mestre per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). 
+Fermate: Salita/Discesa tutte 
+#24
+ES-53E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago. Fermate: solo Salita fino a via Bissuola, fermata 
+Colombo (id1272) - 27 Ottobre (Incr. via Colombo, id.168)-C.Popolo 
+(incr.v.Mestrina, id.1013 e Torino, id.1011); solo Discesa tutte da 
+via Padana rotonda fermata del Lucio (id.439).
+#82
+A Padana Dolo punto orario ai minuti 0PO410
+A Padana Dolo punto orario ai minuti 52PO462
+documento non ufficiale 
+    in visione alla rsu
+--- page 21 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D051Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP SmontaDEP.DOLO DOLO
+Orario 7,23 0,3613:22 20:45
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.32 CAMBIA IL 303
+13.32 14.10 PO415 24,15#1DOLO.DEP VENEZIA 53EV0980
+14.25 15.10 26,73#53VENEZIA DOLO CAP 53EV0980
+15.10 15.15 1,34DOLO CAP DEP.DOLO 00980
+15.45 15.50 18-S-M 1,34DEP.DOLO DOLO CAP 00984
+15.50 16.35 26,61#3DOLO CAP VENEZIA 53EV0984
+16.35 16.38 1,83VENEZIA TRONCHET 00984
+17.02 17.05 2,11TRONCHET VENEZIA 00984
+17.05 17.55 27,72#67VENEZIA DOLO CAP 53EV0984
+17.55 18.00 1,34DOLO CAP DEP.DOLO 00984
+18.25 18.30 18-S-M 1,34DEP.DOLO DOLO CAP 00984
+18.30 19.10 24,76#5DOLO CAP VENEZIA 53EV0984
+19.10 19.13 1,83VENEZIA TRONCHET 00984
+19.42 19.45 2,11TRONCHET VENEZIA 00984
+19.45 20.35 27,72#67VENEZIA DOLO CAP 53EV0984
+20.35 20.40 1,34DOLO CAP DEP.DOLO 00984
+KMNOTE 172,26
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 30PO415
+Set  = 2026-10-01-SP-ES-LM_GV__-R245 Data di stampa 28/09/2026
+Extraurbano Sud
+D049Inv.26-27
+Validità LMmGV__Data: 01/10/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 6,50 0,03 6:12  8:57 11:55 16:00
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.22  6.25 12-S-D-P-C 0,68DEP.DOLO DOLO CAP 00948
+ 6.25  6.40 11,57#95DOLO CAP LIETTOLI 58E/0948
+ 6.40  6.55 C115 11,4045LIETTOLI DOLO CAP 58E/0948
+ 6.55  7.42 21,81#33DOLO CAP GRITTI 53ED0948
+ 7.55  8.42 21,73#82GRITTI DOLO CAP 53ED0948
+ 8.42  8.47 RIF. 1,34DOLO CAP DEP.DOLO 00948
+12.05 12.10 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00940
+12.10 12.50 18,17#2DOLO CAP 27 OTT-D5 53EM0940
+12.55 13.35 19,01#5227 OTT-D5 DOLO CAP 53EM0940
+13.35 13.40 1,34DOLO CAP DEP.DOLO 00940
+13.55 14.00 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00940
+14.00 14.40 24,76#5DOLO CAP VENEZIA 53EV0940
+14.55 15.45 27,72#67VENEZIA DOLO CAP 53EV0940
+15.45 15.50 RIF. 1,34DOLO CAP DEP.DOLO 00940
+KMNOTE 163,54
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte
+#2
+ES-53E Corsa diretta per F.lli Bandiera-C. Popolo-27 
+Ottobre-Bissuola-Gritti. Limitata Ist.Gritti. Fermate: Salita tutte 
+fino a via Padana rotonda (id.1439). In Discesa ferma solo C. Popolo 
+Torino (id.11)-Mestrina (id.13)-27 Ottobre incr.v.Pepe (id.303). Da 
+Bissuola ferma tutte, eccetto Bissuola Esiodo e Varrone.
+#33
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago. Fermate: solo Salita fino a via Bissuola, fermata 
+Colombo (id1272) - 27 Ottobre (Incr. via Colombo, id.168)-C.Popolo 
+(incr.v.Mestrina, id.1013 e Torino, id.1011); solo Discesa tutte da 
+via Padana rotonda fermata del Lucio (id.439).
+#82
+ES-58E Limitata Liettoli.#95
+A DOLO coincidenza per VENEZIA e MESTRE.C115
+Indennità SPZ SPZ1
+documento non ufficiale 
+    in visione alla rsu
+--- page 22 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D053Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO DOLO
+Orario 7,15 0,28 6:40 13:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.50  6.55 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00912
+ 6.55  7.35 24,76#5DOLO CAP VENEZIA 53EV0912
+ 7.35  7.38 1,83VENEZIA TRONCHET 00912
+ 7.57  8.00 2,11TRONCHET VENEZIA 00912
+ 8.05  9.22 PO418 42,81#51VENEZIA PADOVA 53EV0912
+ 9.22  9.24 0,53PADOVA PD PARCH 00912
+10.10 10.12 18-S-D-P-C 0,47PD PARCH PADOVA 00912
+10.12 11.35 PO420 44,34#23PADOVA VENEZIA 53EV0912
+11.45 12.33 27,10#67VENEZIA DOLO.DEP 53EV0912
+12.33 CAMBIO DAL 29
+SOSTA PASTODOLO.DEP DOLO.DEP
+13.03 13.20 12-I-M-LOWE 10,17DEP.DOLO MIRAN.SPORT 00810
+13.20 13.45 13,51#64MIRAN.SPORT DOLO CAP 56ER0810
+13.45 13.50 1,34DOLO CAP DEP.DOLO 00810
+KMNOTE 170,30
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Fermate: salita/discesa tutte#51
+ES-56E In partenza da Mirano Sport. Per via Taglio 
+sinistro-Miranese-Nazionale.
+#64
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 45PO418
+A Padana Dolo punto orario ai minuti 50PO420
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D052
+Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DOLO.DEP DOLO
+Orario 6,12 -0,35 7:00  9:10 13:35 17:37
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2, SPZ2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.10  7.20 12-S-D-P-C 6,78DEP.DOLO P.VECCH. 00943
+ 7.20  7.49 14,64#23P.VECCH. MIRAN.SPORT 56E0943
+ 7.49  7.50 0,93MIRAN.SPORT MIRANO 00943
+ 8.25  8.55 13,5651MIRANO DOLO CAP 59E0943
+ 8.55  9.00 RIF. 1,34DOLO CAP DEP.DOLO 00943
+13.45 13.50 18-S-D-P-C 1,34DEP.DOLO DOLO CAP 00910
+13.50 14.35 26,61#3DOLO CAP VENEZIA 53EV0910
+14.45 16.02 PO414 42,81#51VENEZIA PADOVA 53EV0910
+16.02 16.04 0,53PADOVA PD PARCH 00910
+16.40 16.42 18-S-D-P-C 0,47PD PARCH PADOVA 00910
+16.42 17.32 PO424 18,34#1PADOVA DOLO.DEP 53EV0910
+17.32 CAMBIO DAL 22
+KMNOTE 127,34
+ES-53E Fermate: salita/discesa tutte#1
+ES-56E A Mira per via Borromini - Bernini - Di Vittorio. Limitata Mirano 
+Sport.
+#23
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Fermate: salita/discesa tutte#51
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 25PO414
+A Padana Dolo punto orario alle ore 17:30PO424
+Indennità SPZSPZ2
+documento non ufficiale 
+    in visione alla rsu
+--- page 23 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D101Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,52 0,10 5:35  8:30 11:40 15:37
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.45  5.50 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00871
+ 5.50  6.50 C158 33,05#1CAVARZERE SOTTOMAR 81E0871
+ 7.00  8.10 37,60#71SOTTOMAR CAVARZERE 81E0871
+ 8.10  8.16 RIF. 2,95CAVARZERE DISTR.CA 00871
+ 8.21  8.25 2,48DISTR.CA DEP.CAV 00871
+11.50 11.50 12-I-D-P-C 0,16DEP.CAV CAV. FS 00832
+11.50 12.20 24,00#82CAV. FS CAVARZERE 58E0832
+12.20 12.45 C488 21,85#31CAVARZERE PIOVE 58E0832
+12.45 13.45 38,31#34PIOVE VENEZIA 67RE0832
+13.45 13.48 1,83VENEZIA TRONCHET 00832
+14.04 14.07 2,11TRONCHET VENEZIA 00832
+14.15 15.25 56,38#88VENEZIA CAVARZERE 58RE0832
+15.25 15.32 4,44#48CAVARZERE CAV. FS 58E0832
+15.32 15.32 0,16CAV. FS DEP.CAV 00832
+KMNOTE 230,47
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-58E Limitata Piove di Sacco.#31
+ES-67RE Per Campolongo Maggiore-Bojon.Fermate: S/D tutte fino Malcontenta  
+fermata Malcanton. D tutte da Dep Fisica.  A Calcroci effettua SOLO 
+fermata Calcroci Chiesa.
+#34
+ES-58E Limitata Cavarzere FS#48
+ES-81E Per Chioggia - Evoluzione Cà Pasqua - Dolfina - S. Pietro di 
+Cavarzere - Boscochiaro. Fermate: S: Pisani - Da Verrazzano - Celsi 
+- De Gasperi - De Nicola -  Chioggia FS - Naccari. Da Mercato 
+Ortofrutticolo S/D
+#71
+ES-58E Transita per Boscochiaro, S.Pietro di Cavarzere, argine destro 
+Adige, Cavarzere. Per via Matteotti, limitata Cavarzere capolinea.
+#82
+ES-58RE Per S. Margherita-Mesole-Pegolotte. Fermate: S tutte fino Dep 
+Fisica.S/D tutte da Malcontenta  fermata Malcanton..
+#88
+A CAVARZERE coincidenza da ADRIA.C158
+A Piove di Sacco coincidenza per Venezia C488
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 07/09/2026
+Extraurbano Sud
+D054
+Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 7,34 0,43 6:28  9:17 13:40 18:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2, SPZ3, 
+STNT
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.38  7.00 18-S-M 11,97DEP.DOLO MALC.CH 00982
+ 7.00  7.59 30,60#97MALC.CH PADOVA 53E/0982
+ 8.32  9.10 17,73#11PADOVA DOLO CAP 53E/0982
+ 9.10  9.12 0,61#41DOLO CAP DOLO.DEP 53EV0982
+ 9.12 CAMBIO DAL 311
+13.50 13.55 12-I-M-LOWE 1,34DEP.DOLO DOLO CAP 00813
+13.55 14.25 15,71#33DOLO CAP CELESEO 55E0813
+14.25 14.55 14,36#82CELESEO DOLO CAP 55EP0813
+14.55 15.00 1,34DOLO CAP DEP.DOLO 00813
+15.32 CAMBIA IL 25
+15.32 16.10 PO415 24,15#1DOLO.DEP VENEZIA 53EV0911
+16.25 17.08 26,11#53VENEZIA DOLO.DEP 53EV0911
+17.08 CAMBIO DAL 22
+17.20 17.40 12-S-D-P-C 10,23DEP.DOLO MIRANO 00936
+17.40 18.10 C79_1 13,5651MIRANO DOLO CAP 59E0936
+18.10 18.15 RIF. 1,34DOLO CAP DEP.DOLO 00936
+KMNOTE 169,05
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Limitata Dolo Centro.#11
+ES-55E Per Campoverardo Via S. Pellico-Camponogara-Fosso'-Galta-Vigonovo 
+Ponte-Celeseo
+#33
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-55E Per Vigonovo Ponte-Galta#82
+ES-53E In partenza da Malcontenta Chiesa. NON Transita per Dolo Scuole.#97
+Guida effettiva 18 metri per = o > turno.AR2
+A Mirano coincidenza da Caltana.C79_1
+A Padana Dolo punto orario ai minuti 30PO415
+Indennità SPZSPZ3
+Straordinario di turnoSTNT
+documento non ufficiale 
+    in visione alla rsu
+--- page 24 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D103Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,48 0,06 6:37  9:30 12:17 16:12
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.47  6.47 12-I-D-P-C 0,16DEP.CAV CAV. FS 00831
+ 6.47  6.55 5,26#98CAV. FS CAVARZERE 58E0831
+ 7.00  8.00 33,05#1CAVARZERE SOTTOMAR 81E0831
+ 8.10  9.00 29,34#61SOTTOMAR CAVARZERE 81E0831
+ 9.00  9.07 4,44#48CAVARZERE CAV. FS 58E0831
+ 9.07  9.07 0,16CAV. FS DEP.CAV 00831
+ 9.07  9.11 12-I-D-P-C - 
+RIF.
+2,48DEP.CAV DISTR.CA 00831
+ 9.21  9.25 2,48DISTR.CA DEP.CAV 00831
+12.27 12.27 12-I-D-P-C 0,16DEP.CAV CAV. FS 00833
+12.27 12.35 5,26#98CAV. FS CAVARZERE 58E0833
+12.35 12.57 12,50#83CAVARZERE ADR.OSP. 58EH0833
+13.10 13.32 13,11#33ADR.OSP. CAVARZERE 58EH0833
+13.35 14.40 C239 36,66#24CAVARZERE SOTTOMAR 81E0833
+15.00 16.00 32,92#51SOTTOMAR CAVARZERE 81E0833
+16.00 16.07 C329 4,44#48CAVARZERE CAV. FS 58E0833
+16.07 16.07 0,16CAV. FS DEP.CAV 00833
+KMNOTE 182,58
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-81E Per Argine Sinistro Adige-Boscochiaro-S. Pietro di Cavarzere-Dolfina 
+Ponte-Evoluzione Cà Pasqua-Brondolo. Fermate: S/D fino a Cicogna. D 
+Celsi - Da Verazzzano - Pisani
+#24
+ES-58E Per Adria FS e Limitata Cavarzere.#33
+ES-58E Limitata Cavarzere FS#48
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-81E Per v.le Mediterraneo-Ridotto Madonna-via Giovanni X XIII. NON 
+transita per Chioggia. Effettua evoluzione Ca'Pasqua. Fermate: S 
+Pisani - Da Verrazzano - Celsi - Cicogna. S/D da Brondolo tutte.
+#61
+ES-58E Per Adria FS e prosegue per Adria Ospedale.#83
+ES-58E Limitata Cavarzere#98
+A CAVARZERE attende le 2 corse di  linea 58 ADRIA OSP.-CAVARZERE e 
+ADRIA OSP.-DOLO.
+C239
+Attende corsa da Adria (linea 58E)C329
+Indennità SPZ SPZ1
+D103
+documento non ufficiale 
+    in visione alla rsu
+--- page 25 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D104Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,58 0,16 5:07 12:05
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.17  5.32 12-I-D-P-C 9,83DEP.CAV S.P.CAV. 00839
+ 5.32  6.52 71,19#43S.P.CAV. VENEZIA 58RE0839
+ 6.52  7.12 17,12VENEZIA ORIAGO 00839
+ 7.25  7.48 10,55#37ORIAGO MIRAN.SPORT 57E0839
+ 7.48  8.08 RIF. 12,17MIRAN.SPORT DEP.DOLO 00839
+ 8.13 SE SOSTA
+ 9.35  9.40 12-I-D-P-C 1,34DEP.DOLO DOLO CAP 00839
+ 9.40 10.10 C154 18,101DOLO CAP PIOVE 67E0839
+10.20 10.50 18,10#13PIOVE DOLO CAP 58E/0839
+10.50 10.53 0,67DOLO CAP DEP.DOLO 00839
+10.57 11.00 12-I-D-P-C 0,68DEP.DOLO DOLO CAP 00839
+11.00 11.55 40,1151DOLO CAP CAVARZERE 58E0839
+11.55 CAMBIO DAL 116
+11.55 CAMBIA IL 116
+11.55 12.00 4,10CAVARZERE DEP.CAV 00833
+KMNOTE 203,95
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-57E Per via Cavin Di Sala-Mirano Sport.#37
+ES-58RE Per Boscochiaro-Cavarzere capolinea-evoluzione Cavarzere FS-Ca' 
+Venier-S.Margherita.Fermate: S/D tutte fino Malcontenta fermata 
+Malcanton.-D tutte da Dep Fisica. 
+#43
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+Diaria 9%D09
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D105Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,12 0,30 6:20  9:47 13:02 16:47
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.30  6.35 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00834
+ 6.35  6.50 9,9061CAVARZERE ADRIA FS 58E0834
+ 6.50  7.05 10,20#11ADRIA FS CAVARZERE 58E0834
+ 7.05  8.15 C391 37,42#21CAVARZERE SOTTOMAR 81E0834
+ 8.25  9.35 37,60#71SOTTOMAR CAVARZERE 81E0834
+ 9.35  9.42 4,44#48CAVARZERE CAV. FS 58E0834
+ 9.42  9.42 0,16CAV. FS DEP.CAV 00834
+13.12 13.12 12-I-D-LOWE 0,16DEP.CAV CAV. FS 00807
+13.12 13.20 5,26#98CAV. FS CAVARZERE 58E0807
+13.20 13.42 11,97#79CAVARZERE ADR.OSP. 58EH0807
+13.45 14.13 17,28#22ADR.OSP. CAVARZERE 58EH0807
+14.13 14.48 24,33#35CAVARZERE CAVARZERE 73E0807
+14.48 14.55 4,44#48CAVARZERE CAV. FS 58E0807
+14.55 14.55 0,16CAV. FS DEP.CAV 00807
+15.45 15.50 12-I-M-LOWE 5,14DEP.CAV CAVARZERE 00814
+15.50 16.12 13,73#84CAVARZERE ADRIACOM 58EH0814
+16.15 16.37 13,79#34ADRIACOM CAVARZERE 58EH0814
+16.37 16.42 4,10CAVARZERE DEP.CAV 00814
+KMNOTE 205,23
+documento non ufficiale 
+    in visione alla rsu
+--- page 26 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D105Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,12 0,30 6:20  9:47 13:02 16:47
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ES-58E Limitata Cavarzere.#11
+ES-81E Per Argine Sinistro Adige-Boscochiaro-S. Pietro di Cavarzere-Dolfina 
+Ponte-Evoluzione Cà Pasqua. Fermate: S/D fino Mercato 
+Ortofrutticolo.   D Femate De Gasperi - De Nicola - Chioggia FS - 
+Campo Marconi - Celsi - Da Verazzano - Pisani
+#21
+ES-58E Per Adria FS e Adria Liceo, ponte, località Molara e via Pozzato. 
+Limitata Cavarzere.
+#22
+ES-58E Per Adria Ospedale e Adria FS. Limitata Cavarzere#34
+ES-73E Per Rottanova Centro-Conetta-Cona-Ca' Venier.#35
+ES-58E Limitata Cavarzere FS#48
+ES-81E Per Chioggia - Evoluzione Cà Pasqua - Dolfina - S. Pietro di 
+Cavarzere - Boscochiaro. Fermate: S: Pisani - Da Verrazzano - Celsi 
+- De Gasperi - De Nicola -  Chioggia FS - Naccari. Da Mercato 
+Ortofrutticolo S/D
+#71
+ES-58E NON transita per Adria FS. Prosegue per Adria Ospedale.#79
+ES-58E Per Adria FS - Adria Ospedale e Centro Commerciale.#84
+ES-58E Limitata Cavarzere#98
+A Cavarzere attende corsa da Adria FS linea 58EC391
+Indennità SPZ SPZ1
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D106Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,43 0,01 5:58 10:18 12:52 15:15
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.08  6.45 12-I-D-P-C 24,39DEP.CAV SOTTOMAR 00837
+ 6.45  8.06 51,82#99SOTTOMAR ADRIA FS 81E0837
+ 8.11  9.36 48,67#32ADRIA FS SOTTOMAR 81E0837
+ 9.36 10.13 24,65SOTTOMAR DEP.CAV 00837
+13.02 13.32 12-I-M-LOWE - 
+RIF.
+19,69DEP.CAV DIST.MET 00814
+13.52 14.00 6,06DIST.MET SOTTOMAR 00814
+14.00 15.00 32,92#51SOTTOMAR CAVARZERE 81E0814
+15.03 15.10 4,44#48CAVARZERE CAV. FS 58E0814
+15.10 15.10 0,16CAV. FS DEP.CAV 00814
+KMNOTE 212,79
+ES-81E Per Cavarzere-Boscochiaro-S. Pietro di 
+Cavarzere-Cavanella-Brondolo-R.Madonna. Per via Granatieri di 
+Sardegna - evoluzione Campo Marconi. Fermate: S/D fino Brondolo. D 
+Cicogna - De Gasperi - De Nicola - Chioggia FS - Campo Marconi - 
+Celsi - Da Verrazzano - Pisani.
+#32
+ES-58E Limitata Cavarzere FS#48
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-81E Per Chioggia-Evoluzione Cà Pasqua-Dolfina-S.Pietro-Boscochiaro e 
+Cavarzere Capolinea. Prosegue per Adria Liceo, ponte, località 
+Molara e via Pozzato, Adria FS. Fermate:S: Pisani - Da Verrazano - 
+Celsi - De Gasperi - De Nicola - Chioggia FS - Naccari. Da Mercato 
+Ortofrutticolo S/D.
+#99
+documento non ufficiale 
+    in visione alla rsu
+--- page 27 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D107Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,30 0,48 5:53 10:08 12:10 15:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.03  6.35 12-I-D-P-C 20,84DEP.CAV B.S.GIOV 00870
+ 6.35  8.01 48,67#82B.S.GIOV ADRIA FS 81E0870
+ 8.01  9.26 48,67#32ADRIA FS SOTTOMAR 81E0870
+ 9.26 10.03 24,65SOTTOMAR DEP.CAV 00870
+12.15 15.20 RISERVADEP.CAV DEP.CAV
+KMNOTE 142,83
+ES-81E Per Cavarzere-Boscochiaro-S. Pietro di 
+Cavarzere-Cavanella-Brondolo-R.Madonna. Per via Granatieri di 
+Sardegna - evoluzione Campo Marconi. Fermate: S/D fino Brondolo. D 
+Cicogna - De Gasperi - De Nicola - Chioggia FS - Campo Marconi - 
+Celsi - Da Verrazzano - Pisani.
+#32
+ES-81E Per Cavanella-S. Pietro di Cavar-Argine Sinistro-Cavarzere e per 
+Adria Liceo, Ponte, località Molara e via Pozzato, Adria FS. 
+Fermate: S: De Nicola - Chioggia FS - Naccari, poi S/D 
+#82
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D108Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 5,15 -1,27 3:40  8:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 3.50  3.50 12-I-M-LOWE 0,16DEP.CAV CAV. FS 00814
+ 3.50  4.20 24,00#82CAV. FS CAVARZERE 58E0814
+ 4.20  4.45 C488 21,85#31CAVARZERE PIOVE 58E0814
+ 4.45  5.45 38,31#34PIOVE VENEZIA 67RE0814
+ 5.45  5.45 0,01VENEZIA VE.PARK 00814
+ 6.15  6.15 0,01VE.PARK VENEZIA 00814
+ 6.15  7.10 38,13#91VENEZIA PIOVE 67RE0814
+ 7.10  7.35 21,77#80PIOVE CAVARZERE 58E0814
+ 7.40  8.02 13,73#84CAVARZERE ADRIACOM 58EH0814
+ 8.23  8.45 13,79#34ADRIACOM CAVARZERE 58EH0814
+ 8.45  8.50 4,10CAVARZERE DEP.CAV 00814
+KMNOTE 175,86
+ES-58E Limitata Piove di Sacco.#31
+ES-58E Per Adria Ospedale e Adria FS. Limitata Cavarzere#34
+ES-67RE Per Campolongo Maggiore-Bojon.Fermate: S/D tutte fino Malcontenta  
+fermata Malcanton. D tutte da Dep Fisica.  A Calcroci effettua SOLO 
+fermata Calcroci Chiesa.
+#34
+ES-58E  Limitata Cavarzere capolinea.#80
+ES-58E Transita per Boscochiaro, S.Pietro di Cavarzere, argine destro 
+Adige, Cavarzere. Per via Matteotti, limitata Cavarzere capolinea.
+#82
+ES-58E Per Adria FS - Adria Ospedale e Centro Commerciale.#84
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+A Piove di Sacco coincidenza per Venezia C488
+documento non ufficiale 
+    in visione alla rsu
+--- page 28 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D110Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,10 -0,3213:15 19:25
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.25 13.30 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00834
+13.30 13.37 C239 4,44#48CAVARZERE CAV. FS 58E0834
+13.37 13.52 13,86CAV. FS ADRIA FS 00834
+13.55 15.04 54,33#21ADRIA FS DOLO CAP 58E0834
+15.04 15.07 RIF. 0,67DOLO CAP DEP.DOLO 00834
+15.12 SE SOSTA
+16.12 16.15 12-I-D-P-C 1,55DEP.DOLO DOLO SCO-A 00870
+16.15 16.40 11,62#24DOLO SCO-A MIRA L. 56EV0870
+16.40 17.15 21,20#38MIRA L. VENEZIA 53E/0870
+17.30 18.55 66,28#97VENEZIA ADRIA FS 58RE0870
+19.00 19.15 10,20#11ADRIA FS CAVARZERE 58E0870
+19.15 19.20 4,10CAVARZERE DEP.CAV 00870
+KMNOTE 193,39
+ES-58E Limitata Cavarzere.#11
+ES-58E Per Adria Liceo, ponte, località Molara e via Pozzato.#21
+ES-56E In partenza da Dolo Scuole A. Per Sambruson-Porto Menai-P.zza 
+Vecchia. Limitata Mira Riviera Matteotti.
+#24
+ES-53E Per via Nazionale. Fermate: Salita/Discesa tutte #38
+ES-58E Limitata Cavarzere FS#48
+ES-58RE Per S. Margherita-Monsole.Fermate: S tutte fino Dep Fisica. S/D 
+tutte da Malcontenta  fermata Malcanton.
+#97
+A CAVARZERE attende le 2 corse di  linea 58 ADRIA OSP.-CAVARZERE e 
+ADRIA OSP.-DOLO.
+C239
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D111Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,44 0,02 5:33  9:27 11:47 14:37
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.43  6.20 12-I-D-P-C 24,39DEP.CAV SOTTOMAR 00860
+ 6.20  7.30 55,81#51SOTTOMAR DOLO CAP 82E0860
+ 7.30  7.33 RIF. 0,67DOLO CAP DEP.DOLO 00860
+ 8.07  8.10 12-I-D-P-C 0,68DEP.DOLO DOLO CAP 00860
+ 8.10  9.05 40,11#62DOLO CAP CAVARZERE 58E0860
+ 9.15  9.22 4,44#48CAVARZERE CAV. FS 58E0860
+ 9.22  9.22 0,16CAV. FS DEP.CAV 00860
+11.57 11.57 12-I-D-P-C 0,16DEP.CAV CAV. FS 00837
+11.57 12.05 5,26#98CAV. FS CAVARZERE 58E0837
+12.05 12.20 9,9061CAVARZERE ADRIA FS 58E0837
+12.20 12.27 2,60#85ADRIA FS ADR.OSP. 58EH0837
+12.40 13.02 13,11#33ADR.OSP. CAVARZERE 58EH0837
+13.02 13.07 4,10CAVARZERE DEP.CAV 00837
+13.19 13.42 12-I-D-P-C 16,11DEP.CAV ADR.OSP. 00829
+13.42 14.25 31,51#65ADR.OSP. CAVARZERE 83EG0829
+14.25 14.32 4,44#48CAVARZERE CAV. FS 58E0829
+14.32 14.32 0,16CAV. FS DEP.CAV 00829
+KMNOTE 213,60
+ES-58E Per Adria FS e Limitata Cavarzere.#33
+ES-58E Limitata Cavarzere FS#48
+ES-82E Fermate: S Pisani - Da Verrazano -.Celsi - De Gasperi - De Nicola - 
+Chioggia FS - Zarlino S/D da Ponte Trezze.
+#51
+ES-58E Limitata Cavarzere capolinea.#62
+ES-83E Per Adria FS - Adria Liceo - Passetto - Punta pali. Non transita per 
+Grignella.
+#65
+ES-58E Prosegue per Adria Ospedale.#85
+ES-58E Limitata Cavarzere#98
+documento non ufficiale 
+    in visione alla rsu
+--- page 29 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D112Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,35 -0,07 6:30  9:00 11:42 15:47
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.40  7.00 12-I-D-P-C 9,14DEP.CAV CONA 00875
+ 7.00  7.20 14,16#64CONA CAVARZERE 73E0875
+ 7.35  7.56 14,22#89CAVARZERE ADRIA FS 58E0875
+ 7.58  8.15 10,20#11ADRIA FS CAVARZERE 58E0875
+ 8.30  8.37 4,44#48CAVARZERE CAV. FS 58E0875
+ 8.37  8.37 0,16CAV. FS DEP.CAV 00875
+ 8.37  8.41 12-I-D-P-C - 
+RIF.
+2,48DEP.CAV DISTR.CA 00875
+ 8.51  8.55 2,48DISTR.CA DEP.CAV 00875
+11.52 11.52 12-I-D-P-C 0,16DEP.CAV CAV. FS 00875
+11.52 12.00 5,26#98CAV. FS CAVARZERE 58E0875
+12.00 12.55 39,9512CAVARZERE DOLO CAP 58E0875
+12.55 12.58 RIF. 0,67DOLO CAP DEP.DOLO 00875
+13.20 13.23 12-I-D-P-C 1,55DEP.DOLO DOLO SCO-A 00875
+13.23 14.06 25,73#26DOLO SCO-A VENEZIA 53EV0875
+14.15 15.10 C308 38,13#91VENEZIA PIOVE 67RE0875
+15.10 15.35 21,77#80PIOVE CAVARZERE 58E0875
+15.35 15.42 4,44#48CAVARZERE CAV. FS 58E0875
+15.42 15.42 0,16CAV. FS DEP.CAV 00875
+KMNOTE 195,09
+ES-58E Limitata Cavarzere.#11
+ES-53E In partenza da Dolo Scuole A. Per Malcontenta. Fermate: 
+salita/discesa tutte,
+#26
+ES-58E Limitata Cavarzere FS#48
+ES-73E Per Conetta-Rottanova Ponte.#64
+ES-58E  Limitata Cavarzere capolinea.#80
+ES-58E Per Adria Liceo, ponte, località Molara e via Pozzato.#89
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+ES-58E Limitata Cavarzere#98
+A Marghera effettua fermata BANDIERA CRUTO S/D per coincidenza con 
+Linea 54RE per CORTE alle ore 14:29
+C308
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D113Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,12 0,30 4:52 12:04
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.02  5.02 12-I-D-P-C 0,16DEP.CAV CAV. FS 00830
+ 5.02  5.10 5,26#98CAV. FS CAVARZERE 58E0830
+ 5.10  5.25 9,9061CAVARZERE ADRIA FS 58E0830
+ 5.25  6.45 74,40#1ADRIA FS VENEZIA 58RE0830
+ 6.45  7.12 18,21VENEZIA BORBIAGO 00830
+ 7.15  7.22 3,79#61BORBIAGO ORIAGO 57E0830
+ 7.30  7.50 12,60#20ORIAGO DOLO SCO-A 57E0830
+ 7.50  7.53 RIF. 1,47DOLO SCO-A DEP.DOLO 00830
+ 7.58 SE SOSTA
+ 9.07  9.10 12-I-D-P-C 0,68DEP.DOLO DOLO CAP 00830
+ 9.10 10.05 C134 40,11#62DOLO CAP CAVARZERE 58E0830
+10.05 10.12 4,44#48CAVARZERE CAV. FS 58E0830
+10.12 10.12 0,16CAV. FS DEP.CAV 00830
+10.37 10.37 12-I-D-P-C 0,16DEP.CAV CAV. FS 00830
+10.37 10.45 5,26#98CAV. FS CAVARZERE 58E0830
+10.55 11.17 13,73#84CAVARZERE ADRIACOM 58EH0830
+11.30 11.52 13,79#34ADRIACOM CAVARZERE 58EH0830
+11.52 11.59 4,44#48CAVARZERE CAV. FS 58E0830
+11.59 11.59 0,16CAV. FS DEP.CAV 00830
+KMNOTE 208,71
+ES-58RE Per Passetto-Cavarz.-Ca' Venier-Pegolotte-Villa del 
+Bosco-Pontelongo-Arzergrande-Codevigo-Lova-S S Romea-F.lli 
+Bandiera-Venezia.Fermate: S/D tutte fino fermata Malcanton.-D tutte 
+da Dep Fisica. 
+#1
+ES-57E In partenza da Oriago Capolinea. Per Borbiago-Taglio 
+Sinistro-Nazionale. Limitata Dolo Scuole A.
+#20
+ES-58E Per Adria Ospedale e Adria FS. Limitata Cavarzere#34
+ES-58E Limitata Cavarzere FS#48
+ES-57E Per via Ticino - via Risato e Bellini - via Venezia.#61
+ES-58E Limitata Cavarzere capolinea.#62
+ES-58E Per Adria FS - Adria Ospedale e Centro Commerciale.#84
+ES-58E Limitata Cavarzere#98
+A DOLO coincidenza da VENEZIA.C134
+documento non ufficiale 
+    in visione alla rsu
+--- page 30 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D114Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,22 0,40 6:37  8:47 12:55 18:07
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.47  6.47 12-I-D-P-C 0,16DEP.CAV CAV. FS 00836
+ 6.47  6.54 4,60#93CAV. FS CAVARZERE 58E0836
+ 6.55  7.10 7,931CAVARZERE ROTTANOV 73E0836
+ 7.15  7.30 8,0851ROTTANOV CAVARZERE 73E0836
+ 7.30  8.09 23,81#75CAVARZERE ADRIA FS 58EH0836
+ 8.09  8.24 14,02ADRIA FS DEP.CAV 00836
+ 8.24  8.28 12-I-D-P-C - 
+RIF.
+2,48DEP.CAV DISTR.CA 00836
+ 8.38  8.42 2,48DISTR.CA DEP.CAV 00836
+13.05 13.10 12-I-M-LOWE 5,14DEP.CAV CAVARZERE 00818
+13.10 13.25 9,9061CAVARZERE ADRIA FS 58E0818
+13.25 13.30 2,69ADRIA FS ADR.OSP. 00818
+13.35 15.07 51,57#23ADR.OSP. SOTTOMAR 81E0818
+15.07 16.15 RIF. 51,09SOTTOMAR DEP.PERT 00818
+16.37 16.50 12-I-M-LOWE 8,00DEP.PERT VENEZIA 00818
+16.50 17.55 53,03#84VENEZIA CAVARZERE 58RE0818
+17.55 18.02 4,44#48CAVARZERE CAV. FS 58E0818
+18.02 18.02 0,16CAV. FS DEP.CAV 00818
+KMNOTE 249,58
+ES-81E Per Cavarzere-Boscochiaro-S. Pietro di Cavarzere-Cavanella-Brondolo 
+e Ridotto Madonna. Per via Granatieri di Sardegna - evoluzione Campo 
+Marconi. E per V.le Mediterraneo-Sottomarina. Fermate: S/D fino 
+Brondolo;  D Femate De Gasperi - De Nicola - Chioggia FS - Campo 
+Marconi - Celsi - Da Verazzano - Pisani
+#23
+ES-58E Limitata Cavarzere FS#48
+ES-58E Transita per Grignella. Per Adria Liceo ed Adria Ospedale.#75
+ES-58RE  Limitata Cavarzere. Fermate: S tutte fino Dep Fisica. S/D tutte da 
+Malcontenta  fermata Malcanton.
+#84
+ES-58E Non transita per Villaggio Busonera.#93
+Indennità SPZSPZ3
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D115Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 5,32 -1,10 5:35 11:07
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.45  6.00 12-I-D-LOWE 12,92DEP.CAV GRIGNELL 00807
+ 6.00  7.30 62,11#40GRIGNELL VENEZIA 58RE0807
+ 7.35  8.10 25,02#59VENEZIA DOLO CAP 53ED0807
+ 8.10  8.15 RIF. 1,34DOLO CAP DEP.DOLO 00807
+ 8.37  8.40 12-I-D-LOWE 0,68DEP.DOLO DOLO CAP 00807
+ 8.40  9.35 C134 40,11#62DOLO CAP CAVARZERE 58E0807
+ 9.50 10.12 13,73#84CAVARZERE ADRIACOM 58EH0807
+10.33 10.55 13,79#34ADRIACOM CAVARZERE 58EH0807
+10.55 11.02 4,44#48CAVARZERE CAV. FS 58E0807
+11.02 11.02 0,16CAV. FS DEP.CAV 00807
+KMNOTE 174,29
+ES-58E Per Adria Ospedale e Adria FS. Limitata Cavarzere#34
+ES-58RE Per Passetto-Cavarzere-Ca' Venier-S. Margherita. Fermate: S/D tutte 
+fino Malcontenta fermata Malcanton. D tutte da Dep Fisica.
+#40
+ES-58E Limitata Cavarzere FS#48
+ES-53E CORSA DIRETTA. Limitata Dolo. Fermate:solo salita fino a 
+Fincantieri-solo discesa a Perale- Oriago(Romagna-centro-Sommo) 
+-Mira(Porte-Alighieri-Centro)-Dolo deposito.
+#59
+ES-58E Limitata Cavarzere capolinea.#62
+ES-58E Per Adria FS - Adria Ospedale e Centro Commerciale.#84
+A DOLO coincidenza da VENEZIA.C134
+documento non ufficiale 
+    in visione alla rsu
+--- page 31 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D116Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,15 0,33 5:22  9:13 11:40 15:04
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.32  5.32 12-I-D-P-C 0,16DEP.CAV CAV. FS 00832
+ 5.32  5.40 5,26#98CAV. FS CAVARZERE 58E0832
+ 5.40  5.55 9,9061CAVARZERE ADRIA FS 58E0832
+ 6.00  7.25 64,82#49ADRIA FS ENEL/FUS 58RE0832
+ 7.40  8.53 57,34#94ENEL/FUS ADRIA FS 58RE0832
+ 8.53  9.08 14,02ADRIA FS DEP.CAV 00832
+11.50 11.55 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00833
+11.55 CAMBIO DAL 104
+11.55 CAMBIA IL 104
+11.55 12.10 9,9051CAVARZERE ADRIA FS 58E0839
+12.10 12.25 10,20#11ADRIA FS CAVARZERE 58E0839
+12.40 13.02 12,50#83CAVARZERE ADR.OSP. 58EH0839
+13.10 13.32 13,11#33ADR.OSP. CAVARZERE 58EH0839
+13.32 13.47 C178 7,931CAVARZERE ROTTANOV 73E0839
+13.50 14.05 8,0851ROTTANOV CAVARZERE 73E0839
+14.05 14.27 C257 12,50#83CAVARZERE ADR.OSP. 58EH0839
+14.30 14.52 13,11#33ADR.OSP. CAVARZERE 58EH0839
+14.52 14.59 4,44#48CAVARZERE CAV. FS 58E0839
+14.59 14.59 0,16CAV. FS DEP.CAV 00839
+KMNOTE 248,57
+ES-58E Limitata Cavarzere.#11
+ES-58E Per Adria FS e Limitata Cavarzere.#33
+ES-58E Limitata Cavarzere FS#48
+ES-58RE Per Cavarzere-evoluzione a Cavarzere FS-Ca' 
+Venier-S.Margherita-Montefibre. Limitata Enel Fusina.Fermate: S/D 
+tutte fino Malcontenta fermata Malcanton.D tutte da fermata 
+Meccanica
+#49
+ES-58E Per Adria FS e prosegue per Adria Ospedale.#83
+ES-58RE Per S. Margherita-Monsole-Ca' Venier. Fermate: S tutte fino 
+inc.Malcontenta.
+#94
+ES-58E Limitata Cavarzere#98
+A CAVARZERE coincidenza con linea 58 ADRIA OSP.-DOLO.C178
+A Cavarzere attende corsa da Sottomarina (linea 81E)C257
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D117Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,17 0,3512:37 19:54
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+12.47 12.47 12-I-D-P-C 0,16DEP.CAV CAV. FS 00876
+12.47 12.55 5,26#98CAV. FS CAVARZERE 58E0876
+12.55 13.17 11,97#79CAVARZERE ADR.OSP. 58EH0876
+13.20 13.48 16,37#24ADR.OSP. CAVARZERE 58EH0876
+14.13 14.28 7,931CAVARZERE ROTTANOV 73E0876
+14.30 14.45 8,0851ROTTANOV CAVARZERE 73E0876
+15.00 16.10 56,29#33CAVARZERE VENEZIA 58RE0876
+16.10 16.10 0,01VENEZIA VE.PARK 00876
+16.10 SE SOSTA
+16.55 16.55 0,01VE.PARK VENEZIA 00876
+16.55 17.35 26,73#63VENEZIA DOLO CAP 53ED0876
+17.53 19.03 C156 50,0051DOLO CAP ADRIA FS 58E0876
+19.10 19.17 C157 2,60#85ADRIA FS ADR.OSP. 58EH0876
+19.20 19.42 13,11#33ADR.OSP. CAVARZERE 58EH0876
+19.42 19.49 4,44#48CAVARZERE CAV. FS 58E0876
+19.49 19.49 0,16CAV. FS DEP.CAV 00876
+KMNOTE 203,12
+ES-58E NON transita per Adria FS. Per Adria Liceo, ponte, località Molara e 
+via Pozzato. Limitata Cavarzere.
+#24
+ES-58E Per Adria FS e Limitata Cavarzere.#33
+ES-58RE Per Pegolotte-Monsole-S. Margherita-S S Romea-Rotonda 
+Padana.Fermate: S/D tutte fino Malcontenta fermata Malcanton.-D 
+tutte da fermata Avena
+#33
+ES-58E Limitata Cavarzere FS#48
+ES-53E CORSA DIRETTA. Limitata Dolo. Fermate:solo salita fino a Fincantieri 
+- Salita/discesa Malcontenta Chiesa solo discesa a - 
+Oriago(Romagna-centro-Sommo) -Mira(Porte-Alighieri-Centro)-Dolo 
+deposito.
+#63
+ES-58E NON transita per Adria FS. Prosegue per Adria Ospedale.#79
+ES-58E Prosegue per Adria Ospedale.#85
+ES-58E Limitata Cavarzere#98
+Ad ADRIA coincidenza per ADRIA OSPEDALE.C156
+Ad ADRIA FS coincidenza da DOLO.C157
+documento non ufficiale 
+    in visione alla rsu
+--- page 32 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D118Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,30 0,48 6:30  8:54 13:20 18:26
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.40  6.45 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00835
+ 6.45  7.00 8,1310CAVARZERE PEGOLOTTE 73EP0835
+ 7.05  7.35 17,16#58PEGOLOTTE CAVARZERE 73EC0835
+ 7.35  7.56 14,22#89CAVARZERE ADRIA FS 58E0835
+ 8.00  8.17 10,20#11ADRIA FS CAVARZERE 58E0835
+ 8.17  8.23 RIF. 2,95CAVARZERE DISTR.CA 00835
+ 8.36  8.42 3,13DISTR.CA CAVARZERE 00835
+ 8.42  8.49 4,44#48CAVARZERE CAV. FS 58E0835
+ 8.49  8.49 0,16CAV. FS DEP.CAV 00835
+13.30 13.35 12-I-M-LOWE 5,14DEP.CAV CAVARZERE 00816
+13.35 14.35 C239 33,05#1CAVARZERE SOTTOMAR 81E0816
+14.45 15.45 32,92#51SOTTOMAR CAVARZERE 81E0816
+15.45 15.50 4,10CAVARZERE DEP.CAV 00816
+16.00 16.45 12-I-M-LOWE 41,74DEP.CAV ENEL/FUS 00816
+16.45 18.06 63,18#99ENEL/FUS ADRIA FS 58RE0816
+18.06 18.21 14,02ADRIA FS DEP.CAV 00816
+KMNOTE 259,70
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-58E Limitata Cavarzere.#11
+ES-58E Limitata Cavarzere FS#48
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-73E Per Monsole-Cantarana Centro-Ca' Venier.#58
+ES-58E Per Adria Liceo, ponte, località Molara e via Pozzato.#89
+ES-58RE Per Montefibre. S.Margherita-Monsole-Ca' 
+Venier-Cavarzere-Ca'Labia-Passetto-Adria FS. Fermate: Salita tutte 
+fino Malcontenta fermata Malcanton.
+#99
+A CAVARZERE attende le 2 corse di  linea 58 ADRIA OSP.-CAVARZERE e 
+ADRIA OSP.-DOLO.
+C239
+Indennità SPZSPZ3
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D120Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,54 0,12 5:00  8:52 11:30 14:32
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.10  5.15 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00876
+ 5.15  6.15 33,05#1CAVARZERE SOTTOMAR 81E0876
+ 6.35  7.25 34,41#84SOTTOMAR CAVARZERE 81E0876
+ 7.30  7.59 14,89#72CAVARZERE ADRIA FS 58EH0876
+ 8.10  8.27 10,20#11ADRIA FS CAVARZERE 58E0876
+ 8.27  8.33 RIF. 2,95CAVARZERE DISTR.CA 00876
+ 8.43  8.47 2,48DISTR.CA DEP.CAV 00876
+11.40 11.45 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00860
+11.45 12.40 39,9512CAVARZERE DOLO CAP 58E0860
+12.40 12.50 3,20DOLO CAP DOLO CAP 00860
+12.50 14.00 C132 50,0051DOLO CAP ADRIA FS 58E0860
+14.05 14.20 10,20#11ADRIA FS CAVARZERE 58E0860
+14.20 14.27 4,44#48CAVARZERE CAV. FS 58E0860
+14.27 14.27 0,16CAV. FS DEP.CAV 00860
+KMNOTE 216,22
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-58E Limitata Cavarzere.#11
+ES-58E Limitata Cavarzere FS#48
+ES-58E Per Adria Liceo ed Adria Ospedale.#72
+ES-81E Effettua evoluzione Ca'Pasqua. Per Cavarzere Zona 
+Industriale-Cavarzere. Fermate: S: Pisani - Da Verrazano -.Celsi - 
+De Gasperi - De Nicola - Chioggia FS - Zarlino-poi S/D
+#84
+A DOLO coincidenza da MESTRE.C132
+documento non ufficiale 
+    in visione alla rsu
+--- page 33 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D121Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,42 0,00 4:00 10:42
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.05 10.37 RISERVADEP.CAV DEP.CAV
+KMNOTE 0,00
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D122Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,01 0,19 6:07  9:40 13:12 16:40
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.17  6.17 12-I-D-LOWE 0,16DEP.CAV CAV. FS 00806
+ 6.17  6.25 5,26#98CAV. FS CAVARZERE 58E0806
+ 6.25  7.35 56,57#32CAVARZERE VENEZIA 58RE0806
+ 8.15  9.20 53,03#84VENEZIA CAVARZERE 58RE0806
+ 9.20  9.26 RIF. 2,95CAVARZERE DISTR.CA 00806
+ 9.31  9.35 2,48DISTR.CA DEP.CAV 00806
+13.22 13.45 12-I-D-P-C 16,11DEP.CAV ADR.OSP. 00831
+13.45 14.23 26,20#25ADR.OSP. CAVARZERE 58EH0831
+14.25 15.25 33,05#1CAVARZERE SOTTOMAR 81E0831
+15.30 16.30 32,92#51SOTTOMAR CAVARZERE 81E0831
+16.30 16.35 4,10CAVARZERE DEP.CAV 00831
+KMNOTE 232,83
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-58E Per Adria FS e Adria Liceo, ponte, località Molara e via Pozzato. 
+Transita per Grignella. Limitata Cavarzere.
+#25
+ES-58RE Per Pegolotte-Monsole-S. Margherita.Fermate: S/D tutte fino 
+Malcontenta fermata Malcanton.-D tutte da Dep Fisica. 
+#32
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-58RE  Limitata Cavarzere. Fermate: S tutte fino Dep Fisica. S/D tutte da 
+Malcontenta  fermata Malcanton.
+#84
+ES-58E Limitata Cavarzere#98
+Indennità SPZ SPZ1
+documento non ufficiale 
+    in visione alla rsu
+--- page 34 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D123Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,18 -0,2417:52  0:10
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+18.02 18.02 12-I-D-P-C 0,16DEP.CAV CAV. FS 00833
+18.02 18.10 5,26#98CAV. FS CAVARZERE 58E0833
+18.15 18.30 9,9061CAVARZERE ADRIA FS 58E0833
+18.30 18.45 10,20#11ADRIA FS CAVARZERE 58E0833
+18.45 18.52 4,44#48CAVARZERE CAV. FS 58E0833
+18.52 18.52 0,16CAV. FS DEP.CAV 00833
+SOSTA PASTODEP.CAV DEP.CAV
+20.15 20.20 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00833
+20.20 20.45 C488 21,85#31CAVARZERE PIOVE 58E0833
+20.45 21.45 38,31#34PIOVE VENEZIA 67RE0833
+22.15 23.10 38,13#91VENEZIA PIOVE 67RE0833
+23.10 23.35 21,77#80PIOVE CAVARZERE 58E0833
+23.35  0.05 24,07#32CAVARZERE CAV. FS 58E0833
+ 0.05  0.05 0,16CAV. FS DEP.CAV 00833
+KMNOTE 179,55
+ES-58E Limitata Cavarzere.#11
+ES-58E Limitata Piove di Sacco.#31
+ES-58E Per via Matteotti quindi transita per Argine Destro Adige, S.Pietro 
+di Cavarzere e Boscochiaro. Limitata Cavarzere FS.
+#32
+ES-67RE Per Campolongo Maggiore-Bojon.Fermate: S/D tutte fino Malcontenta  
+fermata Malcanton. D tutte da Dep Fisica.  A Calcroci effettua SOLO 
+fermata Calcroci Chiesa.
+#34
+ES-58E Limitata Cavarzere FS#48
+ES-58E  Limitata Cavarzere capolinea.#80
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+ES-58E Limitata Cavarzere#98
+A Piove di Sacco coincidenza per Venezia C488
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D124Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,35 0,4813:00 20:35
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+STNT 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.10 13.10 12-I-D-P-C 0,16DEP.CAV CAV. FS 00871
+13.10 13.18 5,26#98CAV. FS CAVARZERE 58E0871
+13.18 13.40 11,97#79CAVARZERE ADR.OSP. 58EH0871
+13.45 14.13 16,37#24ADR.OSP. CAVARZERE 58EH0871
+14.13 14.48 C177 25,64#31CAVARZERE ROTTANOV 73EC0871
+14.55 15.10 8,0851ROTTANOV CAVARZERE 73E0871
+15.10 15.17 4,44#48CAVARZERE CAV. FS 58E0871
+15.17 15.17 0,16CAV. FS DEP.CAV 00871
+15.55 16.00 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00871
+16.00 17.00 33,05#1CAVARZERE SOTTOMAR 81E0871
+17.10 18.10 32,92#51SOTTOMAR CAVARZERE 81E0871
+18.10 19.15 C321 34,56#34CAVARZERE SOTTOMAR 81E0871
+19.25 20.25 32,92#51SOTTOMAR CAVARZERE 81E0871
+20.25 20.30 4,10CAVARZERE DEP.CAV 00871
+KMNOTE 214,77
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-58E NON transita per Adria FS. Per Adria Liceo, ponte, località Molara e 
+via Pozzato. Limitata Cavarzere.
+#24
+ES-73E Per Cantarana Centro-Monsole-Pegolotte-Cona-Conetta.#31
+ES-81E CAVARZERE-Argine Sinistro Gorzone-Cavarzere Zona Industriale-Vill. 
+Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per via Granatieri di 
+Sardegna - evoluzione Campo Marconi. Fermate: S/D fino  Mercato 
+Ortofrutticolo.   D Femate De Gasperi - De Nicola - Chioggia FS - 
+Campo Marconi - Celsi - Da Verazzano - Pisani.
+#34
+ES-58E Limitata Cavarzere FS#48
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-58E NON transita per Adria FS. Prosegue per Adria Ospedale.#79
+ES-58E Limitata Cavarzere#98
+A CAVARZERE coincidenza con corsa da ADRIA OSP.C177
+Attende corsa linea 58E da Cavarzere FS per zona industrialeC321
+Straordinario di turnoSTNT
+documento non ufficiale 
+    in visione alla rsu
+--- page 35 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D125Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 6,30 -0,12 7:05 10:02 15:32 19:05
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.15  7.20 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00829
+ 7.20  8.03 C313 31,05#15CAVARZERE ADR.OSP. 83EG0829
+ 8.03  8.05 0,68ADR.OSP. ADRIACOM 00829
+ 8.05  8.27 13,79#34ADRIACOM CAVARZERE 58EH0829
+ 8.30  8.52 13,73#84CAVARZERE ADRIACOM 58EH0829
+ 9.08  9.30 13,79#34ADRIACOM CAVARZERE 58EH0829
+ 9.50  9.57 4,44#48CAVARZERE CAV. FS 58E0829
+ 9.57  9.57 0,16CAV. FS DEP.CAV 00829
+15.42 15.42 12-I-D-P-C 0,16DEP.CAV CAV. FS 00836
+15.42 15.49 4,60#93CAV. FS CAVARZERE 58E0836
+15.50 17.00 56,57#32CAVARZERE VENEZIA 58RE0836
+17.10 18.20 56,38#88VENEZIA CAVARZERE 58RE0836
+18.25 18.40 8,80#5CAVARZERE GRIGNELL 83EG0836
+18.40 18.55 8,85#55GRIGNELL CAVARZERE 83EG0836
+18.55 19.00 4,10CAVARZERE DEP.CAV 00836
+KMNOTE 222,23
+ES-83E A Punta Pali effettua evoluzione e ritorna per la Strada Provinciale 
+2. Non transita per Grignella. Per Adria Liceo, Adria Fs e Adria 
+Ospedale.
+#15
+ES-58RE Per Pegolotte-Monsole-S. Margherita.Fermate: S/D tutte fino 
+Malcontenta fermata Malcanton.-D tutte da Dep Fisica. 
+#32
+ES-58E Per Adria Ospedale e Adria FS. Limitata Cavarzere#34
+ES-58E Limitata Cavarzere FS#48
+ES-83E Per Passetto.#5
+ES-83E Per Passetto.#55
+ES-58E Per Adria FS - Adria Ospedale e Centro Commerciale.#84
+ES-58RE Per S. Margherita-Mesole-Pegolotte. Fermate: S tutte fino Dep 
+Fisica.S/D tutte da Malcontenta  fermata Malcanton..
+#88
+ES-58E Non transita per Villaggio Busonera.#93
+Alla stazione di Adria attende studenti in arrivo con il treno.C313
+Indennità SPZSPZ3
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D127Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,07 0,2512:27 19:34
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+12.37 12.37 12-I-D-P-C 0,16DEP.CAV CAV. FS 00870
+12.37 12.45 5,26#98CAV. FS CAVARZERE 58E0870
+12.45 13.07 11,97#79CAVARZERE ADR.OSP. 58EH0870
+13.10 14.33 C120 58,16#38ADR.OSP. DOLO CAP 58EH0870
+14.33 14.36 0,67DOLO CAP DEP.DOLO 00870
+14.46 SE SOSTA
+16.10 16.15 12-I-D-P-C 1,34DEP.DOLO DOLO CAP 00834
+16.15 16.45 13,421DOLO CAP MIRANO 59E0834
+16.45 17.30 C213 20,51#51MIRANO DOLO CAP 56E0834
+17.30 17.40 7,07DOLO CAP STRA 00834
+17.55 19.24 54,13#64STRA CAVARZERE 60E0834
+19.24 19.29 4,10CAVARZERE DEP.CAV 00834
+KMNOTE 176,80
+ES-58E Per Adria FS, Adria Liceo, ponte, località Molara e via Pozzato. Per 
+Piove Scuole.
+#38
+ES-56E MIRANO - via Cavin di Sala - via Taglio Sinistro - Marano - via 
+Gramsci - Mira Municipio - Gambarare - Piazza Vecchia - Porto Menai 
+- Sambruson - DOLO
+#51
+ES-60E Per Fiesso d’Artico-Fossò-Sandon-Piove di 
+Sacco-Cona-Rottanova-Marcanta-Cavarzere FS
+#64
+ES-58E NON transita per Adria FS. Prosegue per Adria Ospedale.#79
+ES-58E Limitata Cavarzere#98
+Al capolinea di CAVARZERE coincidenza con linea 73 per ROTTANOVA.C120
+A MIRANO coincidenza da CALTANAC213
+documento non ufficiale 
+    in visione alla rsu
+--- page 36 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D128Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,09 0,27 5:35  8:19 11:45 16:10
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.45  5.50 12-I-M-LOWE 5,14DEP.CAV CAVARZERE 00818
+ 5.50  7.09 50,27#34CAVARZERE STRA 60E0818
+ 7.15  7.50 20,34#92STRA PIOVE 58ES0818
+ 7.50  8.14 20,85PIOVE DEP.CAV 00818
+11.55 12.00 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00835
+12.00 13.00 C239 33,05#1CAVARZERE SOTTOMAR 81E0835
+13.05 14.05 32,92#51SOTTOMAR CAVARZERE 81E0835
+14.13 14.38 C158 12,46#21CAVARZERE PETT.ZZA 72E0835
+14.38 15.03 C173 12,53#71PETT.ZZA CAVARZERE 72E0835
+15.10 15.32 13,73#84CAVARZERE ADRIACOM 58EH0835
+15.38 16.00 13,79#34ADRIACOM CAVARZERE 58EH0835
+16.00 16.05 4,10CAVARZERE DEP.CAV 00835
+KMNOTE 224,32
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-72E Per Botti Barbarighe.#21
+ES-58E Per Adria Ospedale e Adria FS. Limitata Cavarzere#34
+ES-60E Per Marcanta-Rottanova-Cona-Piove di Sacco-Sandon-Fossò-Fiesso 
+d’Artico-STRA. Non transita per Campolongo Maggiore
+#34
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-72E Per Botti Barbarighe#71
+ES-58E Per Adria FS - Adria Ospedale e Centro Commerciale.#84
+ES-58E per Casello 9 e NON transita per Campolongo Maggiore. Per Piove 
+Scuole. Limitata Piove.
+#92
+A CAVARZERE coincidenza da ADRIA.C158
+A CAVARZERE coincidenza per ADRIA.C173
+A CAVARZERE attende le 2 corse di  linea 58 ADRIA OSP.-CAVARZERE e 
+ADRIA OSP.-DOLO.
+C239
+Indennità SPZ SPZ1
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D129Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 5,33 -1,09 5:22 10:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.32  5.32 12-I-M-LOWE 0,16DEP.CAV CAV. FS 00816
+ 5.32  5.40 5,26#98CAV. FS CAVARZERE 58E0816
+ 5.40  6.40 C158 33,05#1CAVARZERE SOTTOMAR 81E0816
+ 6.45  7.35 33,63#65SOTTOMAR CAVARZERE 81E0816
+ 7.35  7.42 4,44#48CAVARZERE CAV. FS 58E0816
+ 7.42  7.42 0,16CAV. FS DEP.CAV 00816
+ 7.45  7.50 12-I-M-LOWE 5,14DEP.CAV CAVARZERE 00816
+ 7.50  8.50 33,05#1CAVARZERE SOTTOMAR 81E0816
+ 8.50  9.00 RIF. 5,17SOTTOMAR DIST.MET 00816
+ 9.37  9.45 6,06DIST.MET SOTTOMAR 00816
+ 9.45 10.45 32,92#51SOTTOMAR CAVARZERE 81E0816
+10.45 10.50 4,10CAVARZERE DEP.CAV 00816
+KMNOTE 163,15
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-58E Limitata Cavarzere FS#48
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-81E Non transita per Chioggia Per l.mare Adriatico-v.le 
+Mediterraneo-Venturini padre-Giovanni XXIII- Evoluzione Cà 
+Pasqua-Dolfina-S.P. di Cav.-Boscochiaro-Argine Sinistro Adige-Cav. 
+Fermate in Salita tutte fino a Cicogna; Salita/Discesa tutte da 
+Brondolo.
+#65
+ES-58E Limitata Cavarzere#98
+A CAVARZERE coincidenza da ADRIA.C158
+documento non ufficiale 
+    in visione alla rsu
+--- page 37 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D130Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.CAV SmontaDEP.CAV CAVARZERE
+Orario 7,28 0,46 6:40  9:10 11:19 16:17
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.50  6.55 12-I-D-P-C 5,14DEP.CAV CAVARZERE 00833
+ 6.55  7.10 8,991CAVARZERE PETT.ZZA 72E0833
+ 7.10  7.35 12,53#71PETT.ZZA CAVARZERE 72E0833
+ 7.35  7.57 11,97#79CAVARZERE ADR.OSP. 58EH0833
+ 8.05  8.27 13,11#33ADR.OSP. CAVARZERE 58EH0833
+ 8.40  8.47 4,44#48CAVARZERE CAV. FS 58E0833
+ 8.47  8.47 0,16CAV. FS DEP.CAV 00833
+ 8.47  8.51 12-I-D-P-C - 
+RIF.
+2,48DEP.CAV DISTR.CA 00833
+ 9.01  9.05 2,48DISTR.CA DEP.CAV 00833
+11.29 12.06 12-I-D-LOWE 24,39DEP.CAV SOTTOMAR 00806
+12.06 13.31 48,37#89SOTTOMAR ADRIA FS 81E0806
+13.31 13.36 2,69ADRIA FS ADR.OSP. 00806
+13.45 14.13 16,37#24ADR.OSP. CAVARZERE 58EH0806
+14.25 15.35 38,46#39CAVARZERE SOTTOMAR 81E0806
+15.35 16.12 24,65SOTTOMAR DEP.CAV 00806
+KMNOTE 216,23
+ES-58E NON transita per Adria FS. Per Adria Liceo, ponte, località Molara e 
+via Pozzato. Limitata Cavarzere.
+#24
+ES-58E Per Adria FS e Limitata Cavarzere.#33
+ES-81E Per Boscochiaro-S. Pietro di Cavarzere-Cavanella-Brondolo-R.Madonna. 
+Per via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: 
+S/D fino Brondolo. D: De Gasperi - De Nicola - Chioggia FS - Campo 
+Marconi - Celsi - Da Verrazzano - Pisani
+#39
+ES-58E Limitata Cavarzere FS#48
+ES-72E Per Botti Barbarighe#71
+ES-58E NON transita per Adria FS. Prosegue per Adria Ospedale.#79
+ES-81E Per Cavanella-S. Pietro di Cavarzere-Boscochiaro-Cavarzere-Adria FS. 
+Fermate:S: Pisani - Da Verrazano -Celsi - De Gasperi - De Nicola -  
+Chioggia FS - Naccari poi S/D 
+#89
+Indennità SPZ SPZ1
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D201Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 5,31 -1,11 6:06  9:37 12:37 14:37
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.16  6.35 12-S-D-P-C 13,03BOJON PK DOLO CAP 00965
+ 6.35  7.00 12,60#21DOLO CAP VIGONOVO 55EP0965
+ 7.05  7.38 15,67#70VIGONOVO DOLO CAP 55E0965
+ 7.41  7.43 0,67DOLO CAP DOLO CAP 00965
+ 7.43  8.27 26,01#8DOLO CAP VENEZIA 53EV0965
+ 8.27  8.40 RIF.-LAV. 7,62VENEZIA DEP.PERT 00965
+ 8.50  9.32 12-S-D-P-C 27,82DEP.PERT BOJON PK 00965
+12.42 13.02 DISPBOJON PK BOJON PK
+13.02 13.20 12-I-M-LOWE 11,87BOJON PK DOLO SCO-B 00808
+13.20 14.00 23,68#44DOLO SCO-B PIOVE 67E0808
+14.05 14.25 C169 12,85#74PIOVE LOVA 67ES0808
+14.25 14.32 4,55LOVA BOJON PK 00808
+KMNOTE 156,37
+ES-55E Limitata Vigonovo.#21
+ES-67E In partenza da Dolo Scuole B, non transita per Dolo centro. Prosegue 
+per Bojon Chiesa, Campolongo Maggiore, Corte e Piove di Sacco.
+#44
+ES-55E Transita per Tombelle.#70
+ES-67E Per Piove Scuole-Campolongo Maggiore-Bojon-LOVA.#74
+ES-53E Transita per Dolo Scuole A. Fermate: salita/discesa tutte.#8
+A PIOVE coincidenza da ADRIA.C169
+documento non ufficiale 
+    in visione alla rsu
+--- page 38 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D202Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 7,22 0,4013:48 21:10
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.58 14.15 12-S-D-P-C 11,61BOJON PK DOLO SCO-A 00964
+14.15 14.50 C146 20,39#73DOLO SCO-A PIOVE 58E0964
+14.50 15.17 RIF. 18,60PIOVE DEP.DOLO 00964
+16.10 16.30 12-S-D-P-C 10,23DEP.DOLO MIRANO 00964
+16.30 16.53 12,04#87MIRANO ORIAGO 57E0964
+16.53 17.06 10,79ORIAGO DOLO CAP 00964
+17.06 17.08 0,67DOLO CAP DOLO CAP 00964
+17.20 17.50 C154 14,46#32DOLO CAP CELESEO 55EP0964
+17.50 18.06 11,60CELESEO DOLO CAP 00964
+18.10 18.53 19,87#1DOLO CAP MIRANO 56E0964
+19.00 19.30 13,5651MIRANO DOLO CAP 59E0964
+19.30 19.32 0,67DOLO CAP DOLO CAP 00964
+19.35 20.05 C134 18,101DOLO CAP PIOVE 67E0964
+20.05 20.32 18,60PIOVE DEP.DOLO 00964
+20.40 20.45 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00964
+20.45 21.03 C134 11,37#12DOLO CAP BOJON 67E/0964
+21.03 21.05 0,87BOJON BOJON PK 00964
+KMNOTE 194,77
+ES-56E DOLO - Sambruson - Porto Menai - Piazza Vecchia - Gambarare - Mira 
+Municipio - Mira - via Miranese - Marano - via Taglio Sinistro - via 
+Cavin di Sala - MIRANO
+#1
+ES-67E Limitata Bojon.#12
+ES-55E Per Galta-Vigonovo Ponte-Celeseo.#32
+ES-58E In partenza da Dolo Scuole A. Limitata Piove di Sacco.#73
+ES-57E Per via Taglio Sinistro.#87
+A DOLO coincidenza da VENEZIA.C134
+A DOLO coincidenza da VENEZIA e IST.FOSCARI.C146
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D203Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,31 -0,11 7:08 13:39
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.18  7.20 12-S-D-P-C 0,86BOJON PK BOJON 00964
+ 7.20  7.45 12,96#72BOJON DOLO SCO-A 67E/0964
+ 7.45  7.48 1,47DOLO SCO-A DEP.DOLO 00964
+ 8.15  8.20 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00964
+ 8.20  8.55 24,76#32DOLO CAP VENEZIA 53ED0964
+ 9.05  9.45 25,02#55VENEZIA DOLO CAP 53EV0964
+ 9.45  9.50 RIF. 1,34DOLO CAP DEP.DOLO 00964
+10.07 10.10 12-S-D-P-C 0,68DEP.DOLO DOLO CAP 00964
+10.10 10.40 C154 18,34#63DOLO CAP PIOVE 58E/0964
+10.55 11.25 C126 18,0351PIOVE DOLO CAP 67E0964
+11.25 11.27 0,67DOLO CAP DOLO CAP 00964
+11.45 12.15 13,421DOLO CAP MIRANO 59E0964
+12.18 12.20 0,58MIRANO MIRAN.SPORT 00964
+12.20 13.10 27,67#56MIRAN.SPORT DOLO CAP 59ES0964
+13.10 13.12 0,67DOLO CAP DOLO CAP 00964
+13.12 13.32 13,82#7DOLO CAP BOJON 67E0964
+13.32 13.34 0,87BOJON BOJON PK 00964
+KMNOTE 162,48
+ES-53E Corsa diretta per via F. Bandiera. Sola salita a  Dolo Deposito - 
+Mira ( Centro-Alighieri-Porte)-Oriago (Sommo-Centro-Romagna 
+)-Perale. Da R.Rizzardi solo discesa.
+#32
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-59E Per Ballò-Pianiga-Mellaredo-Pianiga-Arino. A Pianiga via Roma non 
+effettua fermata 2351 Accoppè in direzione Mellaredo. Per via 
+Cairoli -Matteotti- Dolo centro.
+#56
+ES-58E Limitata Piove.#63
+ES-67E In partenza da Dolo per Dolo Scuole B quindi via Badoera, Sambruson 
+e Bojon.
+#7
+ES-67E Non transita per Dolo centro, per Dolo Scuole A.#72
+A DOLO coincidenza per VENEZIA.C126
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+documento non ufficiale 
+    in visione alla rsu
+--- page 39 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D204Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,17 -0,25 5:28  8:54 12:53 15:44
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.38  5.40 12-S-D-P-C 0,86BOJON PK BOJON 00971
+ 5.40  5.58 11,3962BOJON DOLO CAP 67E/0971
+ 5.58  6.00 0,67DOLO CAP DOLO CAP 00971
+ 6.00  6.25 12,60#21DOLO CAP VIGONOVO 55EP0971
+ 6.35  7.00 C143 12,81#71VIGONOVO DOLO CAP 55EP0971
+ 7.00  7.02 0,67DOLO CAP DOLO CAP 00971
+ 7.05  7.52 21,81#33DOLO CAP GRITTI 53ED0971
+ 7.52  7.57 LAV.-RIF. 2,01GRITTI DEP.PERT 00971
+ 8.07  8.49 12-S-D-P-C 27,82DEP.PERT BOJON PK 00971
+13.03 13.20 12-S-D-P-C 11,61BOJON PK DOLO SCO-A 00962
+13.20 13.57 18,46#20DOLO SCO-A VIGONOVO 55E0962
+13.57 14.12 9,77VIGONOVO DOLO CAP 00962
+14.20 14.50 C216 18,101DOLO CAP PIOVE 67E0962
+14.50 15.20 18,0351PIOVE DOLO CAP 67E0962
+15.20 15.39 13,16DOLO CAP BOJON PK 00962
+KMNOTE 179,76
+ES-55E In partenza da Dolo Scuole A e NON transita per Dolo Centro. Per 
+Campoverardo via S. Pellico - Camponogara - Fossò - Pava - Galta - 
+Vigonovo - Tombelle - VIGONOVO
+#20
+ES-55E Limitata Vigonovo.#21
+ES-53E Corsa diretta per F.lli Bandiera-C. Popolo-27 
+Ottobre-Bissuola-Gritti. Limitata Ist.Gritti. Fermate: Salita tutte 
+fino a via Padana rotonda (id.1439). In Discesa ferma solo C. Popolo 
+Torino (id.11)-Mestrina (id.13)-27 Ottobre incr.v.Pepe (id.303). Da 
+Bissuola ferma tutte, eccetto Bissuola Esiodo e Varrone.
+#33
+ES-55E In partenza da Vigonovo.#71
+A DOLO coincidenza per IST. FOSCARI.C143
+A DOLO coincidenza da PADOVA, VENEZIA e IST.FOSCARI.C216
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D206Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,02 -0,40 6:25  8:50 12:06 15:43
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.35  6.45 12-S-D-P-C 7,46BOJON PK PIOVE 00969
+ 6.45  7.15 18,10#13PIOVE DOLO CAP 58E/0969
+ 7.15  7.58 19,82#17DOLO CAP MIRAN.SPORT 56E0969
+ 7.58  8.18 RIF. 12,17MIRAN.SPORT DEP.DOLO 00969
+ 8.28  8.45 12-S-D-P-C 11,67DEP.DOLO BOJON PK 00969
+12.16 12.35 12-I-D-LOWE 13,03BOJON PK DOLO CAP 00801
+12.35 13.18 19,87#1DOLO CAP MIRANO 56E0801
+13.23 13.25 0,58MIRANO MIRAN.SPORT 00801
+13.25 13.55 13,85#53MIRAN.SPORT DOLO CAP 59E0801
+13.55 13.57 0,67DOLO CAP DOLO CAP 00801
+14.00 14.27 C134 15,11#3DOLO CAP MELLARED 66E0801
+14.27 14.47 10,3951MELLARED DOLO CAP 66E0801
+14.47 14.52 RIF. 1,34DOLO CAP DEP.DOLO 00801
+15.07 15.10 12-I-D-LOWE 0,68DEP.DOLO DOLO CAP 00801
+15.10 15.35 C359 13,19#51DOLO CAP BOJON CHIESA 54E0801
+15.35 15.38 1,87BOJON CHIES BOJON PK 00801
+KMNOTE 159,78
+ES-56E DOLO - Sambruson - Porto Menai - Piazza Vecchia - Gambarare - Mira 
+Municipio - Mira - via Miranese - Marano - via Taglio Sinistro - via 
+Cavin di Sala - MIRANO
+#1
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-56E Per Cavin di Sala - Mirano Sport#17
+ES-66E Da Pianiga prosegue per Caltana, evoluzione capolinea, quindi 
+prosegue per Mellaredo
+#3
+ES-54E DOLO - Paluello - Campoverardo - Camponogara - Premaore - BOJON#51
+ES-59E Parte da Mirano Sport.#53
+A DOLO coincidenza da VENEZIA.C134
+A DOLO attende corsa proveniente da VENEZIA (53E)C359
+documento non ufficiale 
+    in visione alla rsu
+--- page 40 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D207Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,15 -0,27 5:55  8:51 12:00 15:19
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.05  6.15 12-I-D-LOWE 7,46BOJON PK PIOVE 00802
+ 6.15  7.12 C171 38,48#23PIOVE VENEZIA 67RE0802
+ 7.12  7.39 20,52VENEZIA MIRA MUN 00802
+ 7.45  8.14 12,24#74MIRA MUN DOLO CAP 56E0802
+ 8.14  8.19 RIF. 1,34DOLO CAP DEP.DOLO 00802
+ 8.29  8.46 12-I-D-LOWE 11,67DEP.DOLO BOJON PK 00802
+12.10 12.12 12-S-D-P-C 0,86BOJON PK BOJON 00966
+12.12 12.30 11,3962BOJON DOLO CAP 67E/0966
+12.30 12.32 0,67DOLO CAP DOLO CAP 00966
+12.45 13.15 13,421DOLO CAP MIRANO 59E0966
+13.15 13.30 RIF. 10,36MIRANO DEP.DOLO 00966
+13.47 13.50 12-S-D-P-C 0,68DEP.DOLO DOLO CAP 00966
+13.50 14.20 C142 18,34#63DOLO CAP PIOVE 58E/0966
+14.25 14.55 18,0351PIOVE DOLO CAP 67E0966
+14.55 15.14 13,16DOLO CAP BOJON PK 00966
+KMNOTE 178,59
+ES-67RE Per Campolongo Maggiore-diretta per via F. Bandiera. Fermate: S/D 
+tutte fino Malcontenta  fermata Malcanton - D tutte da fermata 
+Commercio. A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#23
+ES-58E Limitata Piove.#63
+ES-56E Per Riviera Matteotti-via Di Vittorio-via Bernini-via Da Maiano.#74
+A DOLO coincidenza da MIRANO.C142
+A CALCROCI  coincidenza con corsa DOLO-BOJON(Linea 67).C171
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D209Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,12 -0,30 6:22  9:20 11:56 15:10
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.32  6.40 12-S-D-P-C 6,45BOJON PK CALCROCI 00967
+ 6.40  7.41 26,14#43CALCROCI PADOVA 55E0967
+ 7.50  8.45 27,09#72PADOVA DOLO CAP 55E0967
+ 8.45  8.47 0,67DOLO CAP DOLO CAP 00967
+ 8.55  9.13 11,37#12DOLO CAP BOJON 67E/0967
+ 9.13  9.15 0,87BOJON BOJON PK 00967
+12.06 12.25 12-S-D-P-C 13,03BOJON PK DOLO CAP 00969
+12.25 12.55 13,421DOLO CAP MIRANO 59E0969
+12.55 12.57 0,58MIRANO MIRAN.SPORT 00969
+13.25 14.08 22,29#63MIRAN.SPORT DOLO CAP 56E0969
+14.08 14.13 1,34DOLO CAP DEP.DOLO 00969
+14.17 14.20 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00969
+14.20 14.55 20,39#73DOLO SCO-A PIOVE 58E0969
+14.55 15.05 7,82PIOVE BOJON PK 00969
+KMNOTE 153,00
+ES-67E Limitata Bojon.#12
+ES-55E Parte da Bivio Calcroci. Per 
+Prozzolo-Camponogara-Fossò-Galta-Vigonovo-Noventa Padovana-Ponte di 
+Brenta-Padova Ospedale-Padova Boschetti-Padova Autostazione.Salita e 
+discesa fino a Vigonovo,  poi solo discesa.
+#43
+ES-56E In partenza da Mirano Sport. A Mira per via Di 
+Vittorio-Bernini-Borromini-Da Maiano-Sambruson-Dolo
+#63
+ES-55E Transita per Vigonovo - Galta - Fossò - Camponogara. Solo salita 
+fino a Vigonovo, poi salita e discesa.
+#72
+ES-58E In partenza da Dolo Scuole A. Limitata Piove di Sacco.#73
+documento non ufficiale 
+    in visione alla rsu
+--- page 41 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D210Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 7,10 0,28 4:40 11:50
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.50  5.00 12-I-M-LOWE 7,46BOJON PK PIOVE 00812
+ 5.00  5.25 21,77#80PIOVE CAVARZERE 58E0812
+ 5.30  6.30 C158 33,05#1CAVARZERE SOTTOMAR 81E0812
+ 6.45  8.07 50,11#75SOTTOMAR ADR.OSP. 81E0812
+ 8.12  9.44 P100 51,57#23ADR.OSP. SOTTOMAR 81E0812
+10.00 11.00 32,92#51SOTTOMAR CAVARZERE 81E0812
+11.10 11.35 C488 21,85#31CAVARZERE PIOVE 58E0812
+11.35 11.45 7,82PIOVE BOJON PK 00812
+KMNOTE 226,56
+ES-81E CAVARZERE-Vill. Busonera-Dolfina Ponte-Evoluzione Ca' Pasqua. Per 
+via Granatieri di Sardegna - evoluzione Campo Marconi. Fermate: S/D 
+fino a Mercato Ortofrutticolo; D Femate De Gasperi - De Nicola - 
+Chioggia FS - Campo Marconi - Celsi - Da Verazzano - Pisani
+#1
+ES-81E Per Cavarzere-Boscochiaro-S. Pietro di Cavarzere-Cavanella-Brondolo 
+e Ridotto Madonna. Per via Granatieri di Sardegna - evoluzione Campo 
+Marconi. E per V.le Mediterraneo-Sottomarina. Fermate: S/D fino 
+Brondolo;  D Femate De Gasperi - De Nicola - Chioggia FS - Campo 
+Marconi - Celsi - Da Verazzano - Pisani
+#23
+ES-58E Limitata Piove di Sacco.#31
+ES-81E Per Borgo San Giovanni-Evoluzione Ca' Pasqua-Dolfina 
+Ponte-Buoro-Vill. Busonera-CAVARZERE. Fermate: S: Pisani - Da 
+Verrazano -.Celsi - De Gasperi - De Nicola - Chioggia FS - Zarlino, 
+poi S/D.
+#51
+ES-81E Per Chioggia-Evoluzione Cà 
+Pasqua-Dolfina-S.Pietro-Boscochiaro-Cavarzere capolinea-Adria FS. 
+Fermate: fino via Naccari solo salita, da Mercato Ortofrutticolo 
+salita e discesa.
+#75
+ES-58E  Limitata Cavarzere capolinea.#80
+A CAVARZERE coincidenza da ADRIA.C158
+A Piove di Sacco coincidenza per Venezia C488
+Diaria 9%D09
+A CAVARZERE transita alle ore 8.35.P100
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D211Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,29 -0,13 6:20  9:05 12:05 15:49
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.30  6.40 12-I-M-LOWE 7,46BOJON PK PIOVE 00811
+ 6.40  7.40 38,31#34PIOVE VENEZIA 67RE0811
+ 7.40  7.53 LAV.-RIF. 7,62VENEZIA DEP.PERT 00811
+ 8.18  9.00 12-I-M-LOWE 27,82DEP.PERT BOJON PK 00811
+12.15 12.25 12-S-D-P-C 7,46BOJON PK PIOVE 00946
+12.25 12.55 C115 - C170 18,0351PIOVE DOLO CAP 67E0946
+12.55 12.57 0,67DOLO CAP DOLO CAP 00946
+12.57 13.03 2,39DOLO CAP DOLO SCO-B 00946
+13.18 13.53 C167 18,35#28DOLO SCO-B DOLO CAP 67E0946
+13.53 13.58 RIF. 1,34DOLO CAP DEP.DOLO 00946
+14.15 14.45 12-S-D-P-C 21,78DEP.DOLO GRITTI 00946
+14.45 15.42 30,15#16GRITTI BOJON 67ED0946
+15.42 15.44 0,87BOJON BOJON PK 00946
+KMNOTE 182,25
+ES-67E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago-Mira-Sambruson-Calcroci-Bojon. Fermate: solo Salita 
+via Bissuola, S/D 27 Ottobre D3-Mira-Sambruson, solo Discesa tutte 
+da via Padana fermata del Luccio.
+#16
+ES-67E In partenza da Dolo Scuole B per 
+Prozzolo-Camponogara-Campoverardo-Dolo.
+#28
+ES-67RE Per Campolongo Maggiore-Bojon.Fermate: S/D tutte fino Malcontenta  
+fermata Malcanton. D tutte da Dep Fisica.  A Calcroci effettua SOLO 
+fermata Calcroci Chiesa.
+#34
+A DOLO coincidenza per VENEZIA e MESTRE.C115
+Alla fermata DIEDO coincidenza con corsa PIOVE-DOLO(ore 13.30)C167
+A PIOVE coincidenza da CAVARZERE.C170
+documento non ufficiale 
+    in visione alla rsu
+--- page 42 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D051Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DOLO.DEP SmontaDEP.DOLO DOLO
+Orario 7,23 0,3613:22 20:45
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.32 CAMBIA IL 303
+13.32 14.10 PO415 24,15#1DOLO.DEP VENEZIA 53EV0980
+14.25 15.10 26,73#53VENEZIA DOLO CAP 53EV0980
+15.10 15.15 1,34DOLO CAP DEP.DOLO 00980
+15.45 15.50 18-S-M 1,34DEP.DOLO DOLO CAP 00984
+15.50 16.35 26,61#3DOLO CAP VENEZIA 53EV0984
+16.35 16.38 1,83VENEZIA TRONCHET 00984
+17.02 17.05 2,11TRONCHET VENEZIA 00984
+17.05 17.55 27,72#67VENEZIA DOLO CAP 53EV0984
+17.55 18.00 1,34DOLO CAP DEP.DOLO 00984
+18.25 18.30 18-S-M 1,34DEP.DOLO DOLO CAP 00984
+18.30 19.10 24,76#5DOLO CAP VENEZIA 53EV0984
+19.10 19.13 1,83VENEZIA TRONCHET 00984
+19.42 19.45 2,11TRONCHET VENEZIA 00984
+19.45 20.35 27,72#67VENEZIA DOLO CAP 53EV0984
+20.35 20.40 1,34DOLO CAP DEP.DOLO 00984
+KMNOTE 172,26
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 30PO415
+Set  = 2026-10-01-SP-ES-LM_GV__-R245 Data di stampa 28/09/2026
+Extraurbano Sud
+D049Inv.26-27
+Validità LMmGV__Data: 01/10/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO Smonta DEP.DOLO DOLO
+Orario 6,50 0,03 6:12  8:57 11:55 16:00
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.22  6.25 12-S-D-P-C 0,68DEP.DOLO DOLO CAP 00948
+ 6.25  6.40 11,57#95DOLO CAP LIETTOLI 58E/0948
+ 6.40  6.55 C115 11,4045LIETTOLI DOLO CAP 58E/0948
+ 6.55  7.42 21,81#33DOLO CAP GRITTI 53ED0948
+ 7.55  8.42 21,73#82GRITTI DOLO CAP 53ED0948
+ 8.42  8.47 RIF. 1,34DOLO CAP DEP.DOLO 00948
+12.05 12.10 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00940
+12.10 12.50 18,17#2DOLO CAP 27 OTT-D5 53EM0940
+12.55 13.35 19,01#5227 OTT-D5 DOLO CAP 53EM0940
+13.35 13.40 1,34DOLO CAP DEP.DOLO 00940
+13.55 14.00 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00940
+14.00 14.40 24,76#5DOLO CAP VENEZIA 53EV0940
+14.55 15.45 27,72#67VENEZIA DOLO CAP 53EV0940
+15.45 15.50 RIF. 1,34DOLO CAP DEP.DOLO 00940
+KMNOTE 163,54
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte
+#2
+ES-53E Corsa diretta per F.lli Bandiera-C. Popolo-27 
+Ottobre-Bissuola-Gritti. Limitata Ist.Gritti. Fermate: Salita tutte 
+fino a via Padana rotonda (id.1439). In Discesa ferma solo C. Popolo 
+Torino (id.11)-Mestrina (id.13)-27 Ottobre incr.v.Pepe (id.303). Da 
+Bissuola ferma tutte, eccetto Bissuola Esiodo e Varrone.
+#33
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+ES-53E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago. Fermate: solo Salita fino a via Bissuola, fermata 
+Colombo (id1272) - 27 Ottobre (Incr. via Colombo, id.168)-C.Popolo 
+(incr.v.Mestrina, id.1013 e Torino, id.1011); solo Discesa tutte da 
+via Padana rotonda fermata del Lucio (id.439).
+#82
+ES-58E Limitata Liettoli.#95
+A DOLO coincidenza per VENEZIA e MESTRE.C115
+Indennità SPZ SPZ1
+documento non ufficiale 
+    in visione alla rsu
+--- page 43 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D212Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,58 0,1612:57 19:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.07 13.17 12-S-D-P-C 7,46BOJON PK PIOVE 00965
+13.17 13.52 C116 21,59#42PIOVE STRA 58ES0965
+14.10 14.28 C144 7,5851STRA DOLO CAP 55SE0965
+14.30 15.05 C134 15,31#31DOLO CAP DOLO CAP 56EC0965
+15.05 15.10 RIF. 1,34DOLO CAP DEP.DOLO 00965
+15.35 16.10 12-I-D-P-C 24,31DEP.DOLO VENEZIA 00827
+16.10 17.05 38,13#91VENEZIA PIOVE 67RE0827
+17.25 18.19 37,92#1PIOVE VENEZIA 67RE0827
+18.45 19.40 38,13#91VENEZIA PIOVE 67RE0827
+19.40 19.50 7,82PIOVE BOJON PK 00827
+KMNOTE 199,57
+ES-67RE Per Corte-Bojon-Calcroci-SS Romea-F.lli Bandiera-VENEZIA.Fermate: 
+S/D tutte fino Malcontenta fermata Malcanton - D tutte da Dep 
+Fisica. Fermate  A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#1
+ES-56E Per Sambruson-P.zza Vecchia-Gambarare-Mira-Riviera Del Brenta-Dolo.#31
+ES-58E Prosegue per Piove Scuole-Casello 9-Fiesso d' Artico-Stra.#42
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+A Casello 9 coincidenza per MESTRE.C116
+A DOLO coincidenza da VENEZIA.C134
+A STRA coincidenza da VENEZIA, MESTRE e PADOVA.C144
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D214Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 5,55 -0,47 6:28  9:30 12:27 15:20
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.38  6.40 12-S-D-P-C 0,86BOJON PK BOJON 00968
+ 6.40  6.55 6,71#61BOJON C.NOGARA 67E0968
+ 6.55  7.15 10,47#81C.NOGARA DOLO CAP 67E/0968
+ 7.15  7.49 19,26#64DOLO CAP PIOVE 58E0968
+ 8.35  9.05 18,10#13PIOVE DOLO CAP 58E/0968
+ 9.05  9.23 11,37#12DOLO CAP BOJON 67E/0968
+ 9.23  9.25 0,87BOJON BOJON PK 00968
+12.37 12.40 12-I-M-LOWE 1,88BOJON PK BOJON CHIESA 00812
+12.40 13.30 29,60#6BOJON CHIES 27 OTT-D5 54RE0812
+13.30 13.40 LAV.-RIF. 3,7127 OTT-D5 DEP.PERT 00812
+14.05 14.15 12-I-M-LOWE 3,93DEP.PERT 27 OTT-D5 00812
+14.15 15.10 C307 34,46#5527 OTT-D5 CORTE 54RE0812
+15.10 15.15 4,15CORTE BOJON PK 00812
+KMNOTE 145,37
+ES-67E Limitata Bojon.#12
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-54RE Per Corso del Popolo-F.lli Bandiera-SS Romea-SP22 Bretella 
+Varsuro-P.zza 
+Vecchia-P.Menai-Sambruson-Calcroci-C.Nogara-Premaore-Bojon-Corte. 
+Effettua fermata ed evoluzione a Calcroci Chiesa. Fermate: S tutte 
+fino Dep Fisica. S/D  tutte da inc.Malcontenta.
+#55
+ES-54RE Bojon-Premaore-Camponogara-Calcroci-Sambruson-P. 
+Menai-P.Vecchia-SP22 Bretella Varsuro-S S Romea-F.lli Bandiera-Corso 
+del Popolo. Limitato 27 Ottobre. Effettua fermata ed evoluzione a 
+Calcroci Chiesa. Fermate: S/D tutte fino Inc.Malcont.- D tutte da 
+Dep Fisica. 
+#6
+ES-67E A Prozzolo prosegue per Camponogara.#61
+ES-58E Per Fossò, Liettoli, Campolongo e Maggiore. Per Piove istituti 
+scolastici. Limitata Piove capolinea.
+#64
+ES-67E Partenza dalla fermata di P.za Marconi. Per Prozzolo.#81
+A Marghera effettua fermata BANDIERA CRUTO S/D per coincidenza con 
+Linea 67RE per PIOVE di SACCO alle ore 14:29.
+C307
+documento non ufficiale 
+    in visione alla rsu
+--- page 44 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D215Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 5,34 -1,08 6:38 12:12
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.48  6.50 12-I-M-LOWE 0,86BOJON PK BOJON 00808
+ 6.50  7.35 30,55#32BOJON VENEZIA 67RE0808
+ 7.35  7.48 RIF. 7,62VENEZIA DEP.PERT 00808
+ 8.12  8.25 12-I-M-LOWE 8,00DEP.PERT VENEZIA 00808
+ 8.25  9.20 38,13#91VENEZIA PIOVE 67RE0808
+ 9.50 10.20 18,0351PIOVE DOLO CAP 67E0808
+10.20 10.22 0,67DOLO CAP DOLO CAP 00808
+10.35 11.05 16,01#1DOLO CAP STRA 55E0808
+11.15 11.45 C129 15,78#51STRA DOLO CAP 55E0808
+11.45 11.50 1,34DOLO CAP DEP.DOLO 00808
+11.50 12.07 12-S-D-P-C 11,67DEP.DOLO BOJON PK 00962
+KMNOTE 148,67
+ES-55E DOLO - Camponogara - Fossò - Pava - Galta - Vigonovo - STRA#1
+ES-67RE Corsa Diretta: per rotonda Romea-via Padana-via F. Bandiera. 
+Fermate: S/D tutte fino Malcontenta  fermata Malcanton- D tutte da 
+fermata Commercio. A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#32
+ES-55E STRA - Vigonovo - Galta - Pava - Fossò - Camponogara - DOLO#51
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+A DOLO coincidenza per MESTRE.C129
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D216Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 7,03 0,21 7:06  9:06 13:32 18:35
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.16  7.18 12-S-D-P-C 0,86BOJON PK BOJON 00963
+ 7.18  7.35 11,44#59BOJON DOLO SCO-A 67E0963
+ 7.35  7.38 RIF. 1,47DOLO SCO-A DEP.DOLO 00963
+ 8.00  8.05 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00963
+ 8.05  8.35 C154 18,101DOLO CAP PIOVE 67E0963
+ 8.35  8.45 7,82PIOVE BOJON PK 00963
+ 8.45  9.01 DISPBOJON PK BOJON PK
+13.42 13.45 12-S-D-P-C 1,88BOJON PK BOJON CHIESA 00967
+13.45 14.10 C250 13,05#1BOJON CHIES DOLO CAP 54E0967
+14.20 14.47 12,91#16DOLO CAP MIRAN.SPORT 56ER0967
+14.50 15.40 27,67#56MIRAN.SPORT DOLO CAP 59ES0967
+15.40 15.45 RIF. 1,34DOLO CAP DEP.DOLO 00967
+16.17 16.47 12-I-M-LOWE - 
+RIF.-LAV.
+21,19DEP.DOLO DEP.PERT 00809
+17.12 17.25 12-I-M-LOWE 8,00DEP.PERT VENEZIA 00809
+17.25 18.27 38,29#51VENEZIA BOJON CHIESA 54RE0809
+18.27 18.30 1,87BOJON CHIES BOJON PK 00809
+KMNOTE 167,23
+ES-54E BOJON - Premaore - Camponogara - Campoverardo - Paluello - DOLO#1
+ES-56E Per la Riviera del Brenta.#16
+ES-54RE Per F.lli Bandiera-SS Romea-SP22 Bretella 
+Varsuro-P.Vecchia-P.Menai-Sambruson-Calcroci-Prozzolo-Camponogara-Pr
+emaore. Fermate: S tutte fino  Dep Fisica.  S/D tutte da 
+inc.Malcontenta. A Calcroci effettua fermata Bivio Calcroci.
+#51
+ES-59E Per Ballò-Pianiga-Mellaredo-Pianiga-Arino. A Pianiga via Roma non 
+effettua fermata 2351 Accoppè in direzione Mellaredo. Per via 
+Cairoli -Matteotti- Dolo centro.
+#56
+ES-67E Prosegue per via Badoera, Dolo Scuole A.#59
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+A BOJON  coincidenza con corsa DOLO-PIOVE (Linea 67)C250
+Indennità SPZSPZ3
+documento non ufficiale 
+    in visione alla rsu
+--- page 45 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D217Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,42 0,00 5:50  9:17 12:35 15:50
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.00  6.10 12-I-D-LOWE 7,46BOJON PK PIOVE 00801
+ 6.10  7.04 37,92#1PIOVE VENEZIA 67RE0801
+ 7.04  7.24 17,12VENEZIA ORIAGO 00801
+ 7.26  7.49 10,55#37ORIAGO MIRAN.SPORT 57E0801
+ 7.49  7.50 0,93MIRAN.SPORT MIRANO 00801
+ 8.10  8.40 13,5651MIRANO DOLO CAP 59E0801
+ 8.40  8.45 RIF. 1,34DOLO CAP DEP.DOLO 00801
+ 8.55  9.12 12-I-D-LOWE 11,67DEP.DOLO BOJON PK 00801
+12.45 13.02 12-S-D-P-C - 
+RIF.
+12,09BOJON PK DEP.DOLO 00968
+13.12 13.15 12-S-D-P-C 1,81DEP.DOLO DOLO SCO-B 00968
+13.15 14.03 24,14#20DOLO SCO-B MIRANO 59E0968
+14.03 14.05 0,58MIRANO MIRAN.SPORT 00968
+14.10 15.00 26,17#73MIRAN.SPORT DOLO CAP 56E0968
+15.05 15.35 18,34#63DOLO CAP PIOVE 58E/0968
+15.35 15.45 7,82PIOVE BOJON PK 00968
+KMNOTE 191,47
+ES-67RE Per Corte-Bojon-Calcroci-SS Romea-F.lli Bandiera-VENEZIA.Fermate: 
+S/D tutte fino Malcontenta fermata Malcanton - D tutte da Dep 
+Fisica. Fermate  A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#1
+ES-59E In partenza da Dolo Scuole B. Per Marano, Borbiago, evoluzione 
+rotatoria SP 81. Borbiago, Marano, Mirano.
+#20
+ES-57E Per via Cavin Di Sala-Mirano Sport.#37
+ES-58E Limitata Piove.#63
+ES-56E In partenza da Mirano Sport, per via Dante, Villafranca, Miranese, 
+Mirano Ospedale, via della Vittoria, Taglio Sinistro. A Mira per via 
+Di Vittorio-Bernini-Borromini-Da Maiano-Sambruson-Dolo.
+#73
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D219Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,32 -0,10 5:00  9:06 12:15 14:41
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.05  6.58 DISPBOJON PK BOJON PK
+ 6.58  7.00 12-S-D-P-C 0,86BOJON PK BOJON 00970
+ 7.00  7.30 17,67#86BOJON STRA 67ES0970
+ 7.32  8.01 12,65#66STRA PADOVA 53E/0970
+ 8.01  8.34 RIF. 18,46PADOVA DEP.DOLO 00970
+ 8.44  9.01 12-S-D-P-C 11,67DEP.DOLO BOJON PK 00970
+12.25 12.27 12-S-D-P-C 0,86BOJON PK BOJON 00970
+12.27 12.45 11,3962BOJON DOLO CAP 67E/0970
+12.45 13.22 17,79#61DOLO CAP PADOVA 53E/0970
+13.30 14.27 24,93#98PADOVA CALCROCI 55E0970
+14.27 14.36 6,45CALCROCI BOJON PK 00970
+KMNOTE 122,73
+ES-53E In partenza da Dolo.#61
+ES-53E In partenza da Stra. A Perarolo prosegue per via Diaz, S.Antonio, 
+Moro e Bachelet. 
+#66
+ES-67E A Dolo prosegue per Fiesso D'Artico-Stra.#86
+ES-55E Transita per Vigonovo - Galta - Fossò - Campoverardo - Camponogara. 
+Solo salita fino a Vigonovo, poi salita e discesa. 
+#98
+documento non ufficiale 
+    in visione alla rsu
+--- page 46 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D220Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,50 0,08 5:05 11:55
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.15  5.25 12-I-M-LOWE 7,46BOJON PK PIOVE 00810
+ 5.25  6.19 37,92#1PIOVE VENEZIA 67RE0810
+ 6.19  6.49 24,88VENEZIA LUGO 00810
+ 6.55  7.15 C115 10,10#82LUGO DOLO CAP 67EL0810
+ 7.15  7.17 0,67DOLO CAP DOLO CAP 00810
+ 7.20  7.45 C402 13,15#21DOLO CAP MIRANO 59EV0810
+ 7.45  8.00 10,36MIRANO DEP.DOLO 00810
+ 8.00  8.05 12-I-M-LOWE - 
+RIF.
+2,32DEP.DOLO DISTR.DOLO 00810
+ 8.25  8.30 2,51DISTR.DOLO DEP.DOLO 00810
+ 9.22 CAMBIA IL 9
+ 9.22 10.05 26,00#3DOLO.DEP VENEZIA 53EV0983
+10.10 10.48 24,41#55VENEZIA DOLO.DEP 53EV0983
+10.48 CAMBIO DAL 502
+11.05 11.10 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00946
+11.10 11.40 C134 18,101DOLO CAP PIOVE 67E0946
+11.40 11.50 7,82PIOVE BOJON PK 00946
+KMNOTE 187,03
+ES-67RE Per Corte-Bojon-Calcroci-SS Romea-F.lli Bandiera-VENEZIA.Fermate: 
+S/D tutte fino Malcontenta fermata Malcanton - D tutte da Dep 
+Fisica. Fermate  A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#1
+ES-59E Per rotatoria A4-Vetrego.#21
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-67E Per Lughetto.#82
+Guida effettiva 18 metri < metà turno.AR1
+A DOLO coincidenza per VENEZIA e MESTRE.C115
+A DOLO coincidenza da VENEZIA.C134
+a DOLO attende linea 55E da CELESEOC402
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D221Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,39 -0,03 5:55  8:15 11:46 16:05
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.05  6.40 12-I-D-LOWE 28,05BOJON PK CAVARZERE 00800
+ 6.40  7.40 42,08#16CAVARZERE DOLO SCO-A 58E0800
+ 7.40  7.43 RIF. 1,47DOLO SCO-A DEP.DOLO 00800
+ 7.53  8.10 12-I-D-LOWE 11,67DEP.DOLO BOJON PK 00800
+11.56 12.15 12-S-D-P-C 13,03BOJON PK DOLO CAP 00963
+12.15 12.45 13,421DOLO CAP MIRANO 59E0963
+13.18 13.20 0,58MIRANO MIRAN.SPORT 00963
+13.20 14.10 27,67#56MIRAN.SPORT DOLO CAP 59ES0963
+14.10 14.15 1,34DOLO CAP DEP.DOLO 00963
+14.17 14.20 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00963
+14.20 15.03 19,14#17DOLO SCO-A 27 OTT-D5 53EM0963
+15.03 15.33 RIF. 18,4327 OTT-D5 DEP.DOLO 00963
+15.43 16.00 12-S-D-P-C 11,67DEP.DOLO BOJON PK 00963
+KMNOTE 190,07
+ES-58E Prosegue Dolo Scuole A.#16
+ES-53E In partenza da Dolo Scuole A. Per Malcontenta. Fermate: 
+salita/discesa tutte
+#17
+ES-59E Per Ballò-Pianiga-Mellaredo-Pianiga-Arino. A Pianiga via Roma non 
+effettua fermata 2351 Accoppè in direzione Mellaredo. Per via 
+Cairoli -Matteotti- Dolo centro.
+#56
+Indennità SPZ SPZ1
+documento non ufficiale 
+    in visione alla rsu
+--- page 47 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D222Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 5,27 -1,15 6:20  8:20 11:43 15:10
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.30  6.47 12-S-D-P-C 10,53BOJON PK FOSSO' 00966
+ 6.47  6.50 1,35FOSSO' FOSSO'PK 00966
+ 6.50  6.55 12-S-D-P-C 3,64FOSSO'PK FOSSO.ZI 00966
+ 6.55  7.12 8,89#63FOSSO.ZI DOLO CAP 55E0966
+ 7.12  7.19 3,26DOLO CAP SAMBRUSON 00966
+ 7.20  7.48 17,66#33SAMBRUSON PIOVE 67E/0966
+ 7.48  7.58 7,82PIOVE BOJON PK 00966
+ 7.58  8.15 DISPBOJON PK BOJON PK
+11.53 12.12 12-I-D-LOWE 13,03BOJON PK DOLO CAP 00800
+12.12 12.47 24,76#35DOLO CAP VENEZIA 53ED0800
+12.50 13.44 37,26#51VENEZIA PIOVE 67RE0800
+13.44 13.54 7,09PIOVE BOJON 00800
+13.55 14.13 11,3962BOJON DOLO CAP 67E/0800
+14.13 14.15 0,67DOLO CAP DOLO CAP 00800
+14.25 14.55 C216 18,101DOLO CAP PIOVE 67E0800
+14.55 15.05 7,82PIOVE BOJON PK 00800
+KMNOTE 173,27
+ES-67E Per Piove Scuole-Piove Capolinea.#33
+ES-53E Corsa diretta per via F. Bandiera. Salita/Discesa a Mira 
+(Centro-Alighieri-Porte)-Oriago ((Sommo-Centro-Romagna)-Perale. Da 
+fermata Commercio solo discesa.
+#35
+ES-67RE Per  Bojon-Corte-Piove.Fermate: S tutte fino Dep Fisica. S/D tutte 
+da Malcontenta  fermata Malcanton. 
+#51
+ES-55E In partenza da Fossò zona Industriale#63
+A DOLO coincidenza da PADOVA, VENEZIA e IST.FOSCARI.C216
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D223Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 7,25 0,4311:50 19:15
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+12.00 12.10 12-I-D-P-C 7,46BOJON PK PIOVE 00828
+12.10 13.04 37,92#1PIOVE VENEZIA 67RE0828
+13.20 13.55 25,02#59VENEZIA DOLO CAP 53ED0828
+13.55 14.00 1,34DOLO CAP DEP.DOLO 00828
+14.17 14.20 12-I-D-P-C 1,81DEP.DOLO DOLO SCO-B 00828
+14.20 14.50 14,93#25DOLO SCO-B MIRANO 59E0828
+14.50 14.52 0,58MIRANO MIRAN.SPORT 00828
+14.55 15.25 13,85#53MIRAN.SPORT DOLO CAP 59E0828
+15.25 15.30 RIF. 1,34DOLO CAP DEP.DOLO 00828
+16.20 16.25 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00967
+16.25 16.55 16,01#1DOLO CAP STRA 55E0967
+17.07 17.37 15,78#51STRA DOLO CAP 55E0967
+17.37 17.39 0,67DOLO CAP DOLO CAP 00967
+17.45 18.15 16,01#1DOLO CAP STRA 55E0967
+18.20 19.00 C154 - P92 23,59#35STRA ROSARA 67ES0967
+19.00 19.10 6,71ROSARA BOJON PK 00967
+KMNOTE 184,35
+ES-55E DOLO - Camponogara - Fossò - Pava - Galta - Vigonovo - STRA#1
+ES-67RE Per Corte-Bojon-Calcroci-SS Romea-F.lli Bandiera-VENEZIA.Fermate: 
+S/D tutte fino Malcontenta fermata Malcanton - D tutte da Dep 
+Fisica. Fermate  A Calcroci effettua SOLO fermata Calcroci Chiesa.
+#1
+ES-59E In partenza da Dolo Scuole B. Per Cà Tron-Via 
+Cairoli-Cazzago-Vetrego-Marano-Taglio Sinistro-Via Cavin di 
+Sala-Mirano
+#25
+ES-67E Da Corte Ponte prosegue per Rosara dove effettua capolinea.#35
+ES-55E STRA - Vigonovo - Galta - Pava - Fossò - Camponogara - DOLO#51
+ES-59E Parte da Mirano Sport.#53
+ES-53E CORSA DIRETTA. Limitata Dolo. Fermate:solo salita fino a 
+Fincantieri-solo discesa a Perale- Oriago(Romagna-centro-Sommo) 
+-Mira(Porte-Alighieri-Centro)-Dolo deposito.
+#59
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+Diaria 9%D09
+A DOLO transita alle ore 18.25P92
+documento non ufficiale 
+    in visione alla rsu
+--- page 48 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D224Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,40 -0,02 6:07  9:05 11:35 15:17
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.17  6.20 12-I-D-P-C 1,88BOJON PK BOJON CHIESA 00828
+ 6.20  7.15 36,21#1BOJON CHIES VENEZIA 54RE0828
+ 7.25  8.15 P84 25,98#26VENEZIA SCALTEN. 57E0828
+ 8.15  8.26 5,6759SCALTEN. DOLO CAP 59E0828
+ 8.26  8.28 0,67DOLO CAP DOLO CAP 00828
+ 8.40  8.58 11,37#12DOLO CAP BOJON 67E/0828
+ 8.58  9.00 0,87BOJON BOJON PK 00828
+11.45 11.55 12-I-M-LOWE 7,46BOJON PK PIOVE 00811
+11.55 12.25 C129 18,0351PIOVE DOLO CAP 67E0811
+12.25 12.27 0,67DOLO CAP DOLO CAP 00811
+12.40 13.10 C154 18,101DOLO CAP PIOVE 67E0811
+13.17 14.17 38,31#34PIOVE VENEZIA 67RE0811
+14.20 15.10 33,00#64VENEZIA BOJON 67RE0811
+15.10 15.12 0,87BOJON BOJON PK 00811
+KMNOTE 199,08
+ES-54RE Per Premaore-Campon.-Calcroci-Sambruson-P. Menai-P.zza Vecchia-SP22 
+Bretella Varsuro-SS Romea-F.lli Bandiera-Della Liberta'-VE. Effettua 
+fermata ed evoluzione a Calcroci Chiesa. Fermate: S/D tutte fino 
+Inc.Malcont.-D tutte da Dep Fisica. 
+#1
+ES-67E Limitata Bojon.#12
+ES-57E Per via Ghebba-evoluzione-via Ticino-Borbiago#26
+ES-67RE Per Campolongo Maggiore-Bojon.Fermate: S/D tutte fino Malcontenta  
+fermata Malcanton. D tutte da Dep Fisica.  A Calcroci effettua SOLO 
+fermata Calcroci Chiesa.
+#34
+ES-67RE Per Bretella Varsuro-Piazza Vecchia-Sambruson.Fermate: S tutte fino 
+Dep Fisica. S/D tutte da Malcontenta  fermata Malcanton. A Calcroci 
+effettua SOLO fermata Calcroci Chiesa.
+#64
+A DOLO coincidenza per MESTRE.C129
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+AD ORIAGO transita alle ore 7.50.P84
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D225Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta BOJON PK SmontaBOJON PK BOJON
+Orario 6,42 0,00 5:57 12:39
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1, D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.07  6.17 12-S-D-P-C 6,71BOJON PK ROSARA 00962
+ 6.17  6.45 C133 17,3685ROSARA DOLO CAP 67ES0962
+ 6.45  6.47 0,67DOLO CAP DOLO CAP 00962
+ 6.50  7.10 12,55#20DOLO CAP MALC.CH 53E0962
+ 7.15  8.17 31,59#79MALC.CH PADOVA 53E/0962
+ 8.17  8.19 0,53PADOVA PD PARCH 00962
+ 8.55  8.57 12-S-D-P-C 0,47PD PARCH PADOVA 00962
+ 8.57  9.35 17,73#11PADOVA DOLO CAP 53E/0962
+ 9.35  9.38 RIF. 0,67DOLO CAP DEP.DOLO 00962
+10.08 CAMBIA IL 20
+10.08 10.47 PO411 18,41#73DOLO.DEP PADOVA 53EV0916
+10.47 10.49 0,53PADOVA PD PARCH 00916
+11.30 11.32 18-S-D-P-C 0,47PD PARCH PADOVA 00916
+11.32 12.12 PO411 18,34#1PADOVA DOLO.DEP 53EV0916
+12.12 CAMBIO DAL 37
+12.17 12.34 12-I-M-LOWE 11,67DEP.DOLO BOJON PK 00808
+KMNOTE 137,68
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Limitata Dolo Centro.#11
+ES-53E Limitata Malcontenta. Fermate: salita/discesa tutte.#20
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+ES-53E In partenza da Malcontenta Chiesa. Transita per Dolo Scuole A.#79
+Guida effettiva 18 metri < metà turno.AR1
+A DOLO coincidenza per PADOVA.C133
+Diaria 9%D09
+A Padana Dolo punto orario ai minuti 10PO411
+documento non ufficiale 
+    in visione alla rsu
+--- page 49 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D301Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 6,37 -0,10 5:45  8:40 12:00 15:42
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.55  6.20 12-S-D-P-C 15,40PD PARCH CELESEO 00961
+ 6.20  6.50 15,61#83CELESEO DOLO CAP 55E0961
+ 6.50  6.52 0,67DOLO CAP DOLO CAP 00961
+ 6.55  7.15 10,471DOLO CAP MELLARED 66E0961
+ 7.15  7.35 10,3951MELLARED DOLO CAP 66E0961
+ 7.35  7.37 0,67DOLO CAP DOLO CAP 00961
+ 7.38  8.33 C134 26,89#22DOLO CAP PADOVA 55E0961
+ 8.33  8.35 0,53PADOVA PD PARCH 00961
+12.10 12.12 18-S-M 0,47PD PARCH PADOVA 00982
+12.12 12.52 PO420 18,34#23PADOVA DOLO.DEP 53EV0982
+12.52 CAMBIO DAL 36
+13.17 13.20 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00938
+13.20 13.55 C154 20,39#73DOLO SCO-A PIOVE 58E0938
+14.05 14.40 C169 20,19#89PIOVE DOLO CAP 67E0938
+14.48 14.50 0,67DOLO CAP DOLO CAP 00938
+14.50 15.15 12,60#21DOLO CAP VIGONOVO 55EP0938
+15.15 15.37 12,75VIGONOVO PD PARCH 00938
+KMNOTE 167,58
+ES-55E Limitata Vigonovo.#21
+ES-55E A Vigonovo prosegue per Padova. Salita e Discesa fino a Vigonovo, 
+poi discesa. 
+#22
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-58E In partenza da Dolo Scuole A. Limitata Piove di Sacco.#73
+ES-55E Per Vigonovo Ponte-Galta-Fosso'-Camponogara-Campoverardo via S. 
+Pellico.
+#83
+ES-67E Per Piove Scuole.#89
+Guida effettiva 18 metri < metà turno.AR1
+A DOLO coincidenza da VENEZIA.C134
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+A PIOVE coincidenza da ADRIA.C169
+A Padana Dolo punto orario ai minuti 50PO420
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D303Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 5,38 -1,09 5:20  8:29 12:40 15:09
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.30  5.32 12-S-D-P-C 0,47PD PARCH PADOVA 00960
+ 5.32  6.50 PO411 35,90#4PADOVA 27 OTT-D5 53EM0960
+ 7.00  8.22 PO417 37,94#7427 OTT-D5 PADOVA 53EM0960
+ 8.22  8.24 0,53PADOVA PD PARCH 00960
+12.50 12.52 18-S-M 0,47PD PARCH PADOVA 00980
+12.52 13.32 PO415 18,34#1PADOVA DOLO.DEP 53EV0980
+13.32 CAMBIO DAL 51
+14.17 14.20 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00947
+14.20 15.02 19,85#72DOLO SCO-A PADOVA 53E0947
+15.02 15.04 0,53PADOVA PD PARCH 00947
+KMNOTE 115,56
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Limitata p.zza 27 Ottobre#4
+ES-53E In partenza da Dolo Scuole A.#72
+ES-53E Per Corso del Popolo. Fermate: salita/discesa tutte. A Perarolo per 
+via Diaz, S.Antonio, Moro e Bachelet quindi prosegue per Padova.
+#74
+Guida effettiva 18 metri < metà turno.AR1
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 40PO417
+documento non ufficiale 
+    in visione alla rsu
+--- page 50 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D305Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 7,26 0,3913:28 20:54
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+13.38 13.40 12-S-D-P-C 0,47PD PARCH PADOVA 00936
+13.40 15.02 PO460 37,35#24PADOVA 27 OTT-D5 53EM0936
+15.10 15.48 18,40#5227 OTT-D5 DOLO.DEP 53EM0936
+15.48 CAMBIO DAL 14
+16.08 CAMBIA IL 28
+16.08 16.57 PO411 18,41#73DOLO.DEP PADOVA 53EV0916
+17.22 19.00 PO410 44,75#27PADOVA VENEZIA 53EV0916
+19.00 19.03 1,83VENEZIA TRONCHET 00916
+19.22 19.25 2,11TRONCHET VENEZIA 00916
+19.25 20.47 PO411 44,52#73VENEZIA PADOVA 53EV0916
+20.47 20.49 0,53PADOVA PD PARCH 00916
+KMNOTE 168,36
+ES-53E A Vigonza prosegue per via Bachelet, Moro, S.Antonio e Diaz. A 
+Mestre per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). 
+Fermate: Salita/Discesa tutte 
+#24
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Per Corso del Popolo. Limitata Dolo. Fermate: salita/discesa tutte.#52
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 0PO410
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 22PO460
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D307Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 7,34 0,43 4:45 12:19
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2, STNT 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.55  4.57 18-S-D-P-C 0,47PD PARCH PADOVA 00917
+ 4.57  6.15 PO416 42,49#1PADOVA VENEZIA 53EV0917
+ 6.25  7.57 C263 - PO411 44,52#73VENEZIA PADOVA 53EV0917
+ 7.57  7.59 0,53PADOVA PD PARCH 00917
+ 8.50  8.52 12-S-D-P-C 0,47PD PARCH PADOVA 00960
+ 8.52  9.32 PO415 18,34#1PADOVA DOLO.DEP 53EV0960
+ 9.32 CAMBIO DAL 507
+ 9.52 CAMBIA IL 9
+ 9.52 10.35 26,00#3DOLO.DEP VENEZIA 53EV0980
+10.45 12.12 PO415 45,51#77VENEZIA PADOVA 53EV0980
+12.12 12.14 0,53PADOVA PD PARCH 00980
+KMNOTE 178,85
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Per Malcontenta.Fermate: salita/discesa tutte #73
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno.AR2
+A DOLO attende linea 56E. C263
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 35PO416
+Straordinario di turnoSTNT
+documento non ufficiale 
+    in visione alla rsu
+--- page 51 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D308Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 6,27 -0,20 6:00 12:27
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1, D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.10  6.12 18-S-M 0,47PD PARCH PADOVA 00984
+ 6.12  7.35 PO420 44,34#23PADOVA VENEZIA 53EV0984
+ 7.45  8.35 27,72#67VENEZIA DOLO CAP 53EV0984
+ 8.35  8.37 0,67DOLO CAP DOLO CAP 00984
+ 8.40  8.42 0,61#2DOLO CAP DOLO.DEP 53EM0984
+ 8.42 CAMBIO DAL 33
+ 9.30  9.35 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00936
+ 9.35 10.05 13,421DOLO CAP MIRANO 59E0936
+10.15 11.00 20,51#51MIRANO DOLO CAP 56E0936
+11.00 11.02 0,67DOLO CAP DOLO CAP 00936
+11.05 11.25 10,471DOLO CAP MELLARED 66E0936
+11.32 11.52 10,3951MELLARED DOLO CAP 66E0936
+11.52 12.22 18,32DOLO CAP PD PARCH 00936
+KMNOTE 148,92
+ES-53E Per Corso del Popolo. Limitata MESTRE (P.zza 27 Ottobre). Fermate: 
+Salita/Discesa tutte
+#2
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-56E MIRANO - via Cavin di Sala - via Taglio Sinistro - Marano - via 
+Gramsci - Mira Municipio - Gambarare - Piazza Vecchia - Porto Menai 
+- Sambruson - DOLO
+#51
+ES-53E Per via F.Marghera-27 Ottobre-Corso del Popolo-via F.lli Bandiera. 
+Ferma a S.Chiara. Fermate: In piazza 27 Ottobre effettua la fermata 
+di Edicola (id.169). Da 27 Ottobre Salita/Discesa tutte. Limitata 
+Dolo.
+#67
+Guida effettiva 18 metri < metà turno.AR1
+Diaria 9%D09
+A Padana Dolo punto orario ai minuti 50PO420
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D309Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 7,11 0,2412:28 19:39
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+12.38 12.40 12-S-D-P-C 0,47PD PARCH PADOVA 00949
+12.40 13.03 11,49#13PADOVA STRA 53E/0949
+13.25 13.43 C144 7,5851STRA DOLO CAP 55SE0949
+13.43 13.46 RIF. 0,67DOLO CAP DEP.DOLO 00949
+14.03 14.20 12-I-D-P-C 10,17DEP.DOLO MIRAN.SPORT 00826
+14.20 14.50 13,85#53MIRAN.SPORT DOLO CAP 59E0826
+14.50 15.00 7,07DOLO CAP STRA 00826
+15.00 15.18 C144 7,5851STRA DOLO CAP 55SE0826
+15.18 15.21 RIF. 0,67DOLO CAP DEP.DOLO 00826
+16.12 16.15 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00949
+16.15 16.50 C134 20,39#73DOLO SCO-A PIOVE 58E0949
+16.55 17.25 18,0351PIOVE DOLO CAP 67E0949
+17.25 17.30 RIF. 1,34DOLO CAP DEP.DOLO 00949
+17.35 18.00 12-S-D-P-C 19,44DEP.DOLO 27 OTT-D5 00949
+18.10 19.32 C134 - PO420 37,94#7427 OTT-D5 PADOVA 53EM0949
+19.32 19.34 0,53PADOVA PD PARCH 00949
+KMNOTE 158,75
+ES-53E Limitata Stra.#13
+ES-59E Parte da Mirano Sport.#53
+ES-58E In partenza da Dolo Scuole A. Limitata Piove di Sacco.#73
+ES-53E Per Corso del Popolo. Fermate: salita/discesa tutte. A Perarolo per 
+via Diaz, S.Antonio, Moro e Bachelet quindi prosegue per Padova.
+#74
+A DOLO coincidenza da VENEZIA.C134
+A STRA coincidenza da VENEZIA, MESTRE e PADOVA.C144
+Diaria 9%D09
+A Padana Dolo punto orario ai minuti 50PO420
+documento non ufficiale 
+    in visione alla rsu
+--- page 52 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D311Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 7,29 0,42 4:00 11:29
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.05  4.20 DISPPD PARCH PD PARCH
+ 4.20  4.22 18-S-D-P-C 0,47PD PARCH PADOVA 00916
+ 4.22  5.45 PO410 44,34#23PADOVA VENEZIA 53EV0916
+ 6.05  7.32 PO420 45,51#77VENEZIA PADOVA 53EV0916
+ 7.52  8.32 PO415 18,34#1PADOVA DOLO.DEP 53EV0916
+ 8.32 CAMBIO DAL 20
+ 9.12 CAMBIA IL 54
+ 9.12 10.00 26,41#41DOLO.DEP VENEZIA 53EV0982
+10.05 11.22 PO418 42,81#51VENEZIA PADOVA 53EV0982
+11.22 11.24 0,53PADOVA PD PARCH 00982
+KMNOTE 178,41
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 0PO410
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 45PO418
+A Padana Dolo punto orario ai minuti 50PO420
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D350Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta PD PARCH SmontaPD PARCH PADOVA
+Orario 7,04 0,1715:20 22:24
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR2 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+15.30 15.32 18-S-M 0,47PD PARCH PADOVA 00983
+15.32 16.12 PO411 18,34#27PADOVA DOLO.DEP 53EV0983
+16.12 CAMBIO DAL 17
+16.43 CAMBIA IL 18
+16.43 17.32 PO418 18,41#51DOLO.DEP PADOVA 53EV0982
+18.02 19.35 PO699 44,34#23PADOVA VENEZIA 53EV0982
+19.35 19.48 LAV.-RIF. 7,62VENEZIA DEP.PERT 00982
+SOSTA PASTODEP.PERT DEP.PERT
+20.47 21.00 18-S-M 8,00DEP.PERT VENEZIA 00982
+21.00 22.17 PO418 45,51#77VENEZIA PADOVA 53EV0982
+22.17 22.19 0,53PADOVA PD PARCH 00982
+KMNOTE 143,21
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte#23
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E In piazza 27 Ottobre effettua la fermata di incr.v.Colombo (id.168). 
+Da 27 Ottobre Salita/Discesa tutte. 
+#77
+Guida effettiva 18 metri per = o > turno.AR2
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 45PO418
+A Padana Dolo punto orario alle ore 18:50PO699
+documento non ufficiale 
+    in visione alla rsu
+--- page 53 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D501Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta FOSSO'PK SmontaFOSSO'PK FOSSO'
+Orario 7,13 0,26 7:02  9:08 13:42 18:49
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+SPZ3 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.12  7.22 12-S-D-P-C 4,06FOSSO'PK SANDON 00954
+ 7.22  7.44 11,43#41SANDON DOLO SCO-A 58E/0954
+ 7.44  7.47 RIF. 1,47DOLO SCO-A DEP.DOLO 00954
+ 8.05  8.10 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00954
+ 8.10  8.30 C134 10,471DOLO CAP MELLARED 66E0954
+ 8.35  8.55 C115 10,3951MELLARED DOLO CAP 66E0954
+ 8.55  9.03 4,58DOLO CAP FOSSO'PK 00954
+13.52 14.02 12-I-D-P-C - 
+RIF.
+5,13FOSSO'PK DEP.DOLO 00827
+14.12 14.15 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00960
+14.15 14.52 18,46#20DOLO SCO-A VIGONOVO 55E0960
+14.52 15.07 9,77VIGONOVO DOLO CAP 00960
+15.15 15.45 C154 18,101DOLO CAP PIOVE 67E0960
+15.50 16.20 18,0351PIOVE DOLO CAP 67E0960
+16.20 16.25 RIF. 1,34DOLO CAP DEP.DOLO 00960
+17.09 17.12 12-I-D-P-C 0,68DEP.DOLO DOLO CAP 00828
+17.12 17.30 7,701DOLO CAP STRA 55SE0828
+17.42 18.24 C154 - P91 24,3424STRA PIOVE 67ES0828
+18.24 18.44 12,83PIOVE FOSSO'PK 00828
+KMNOTE 161,67
+ES-55E In partenza da Dolo Scuole A e NON transita per Dolo Centro. Per 
+Campoverardo via S. Pellico - Camponogara - Fossò - Pava - Galta - 
+Vigonovo - Tombelle - VIGONOVO
+#20
+ES-58E Per Campoverardo. Prosegue per Dolo Scuole.#41
+A DOLO coincidenza per VENEZIA e MESTRE.C115
+A DOLO coincidenza da VENEZIA.C134
+A DOLO coincidenza da VENEZIA e MESTRE.C154
+A DOLO transita alle ore 17.55P91
+Indennità SPZSPZ3
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D502Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta FOS PK B SmontaFOS PK B FOSSO'
+Orario 7,29 0,42 5:35 13:04
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+AR1, D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.45  5.55 7,65FOS PK B DOLO CAP 00958
+ 5.55  6.40 26,61#3DOLO CAP VENEZIA 53EV0958
+ 7.10  8.36 45,51#92VENEZIA PADOVA 53EV0958
+ 8.36  8.38 0,53PADOVA PD PARCH 00958
+ 9.30  9.32 18-S-D-P-C 0,47PD PARCH PADOVA 00911
+ 9.32 10.12 PO411 18,34#27PADOVA DOLO.DEP 53EV0911
+10.12 CAMBIO DAL 9
+10.48 CAMBIA IL 220
+10.48 10.50 0,62#55DOLO.DEP DOLO CAP 53EV0983
+11.08 11.10 0,67DOLO CAP DOLO CAP 00983
+11.10 12.00 27,02#41DOLO CAP VENEZIA 53EV0983
+12.05 12.43 PO418 24,41#51VENEZIA DOLO.DEP 53EV0983
+12.43 CAMBIO DAL 9
+12.48 12.59 12-S-D-P-C 5,26DEP.DOLO FOS PK B 00958
+KMNOTE 157,07
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Per Malcontenta. Fermate: salita/discesa tutte #3
+ES-53E Per c.so del Popolo, 27 Ottobre, Forte Marghera. In piazza 27 
+Ottobre effettua le fermate di incr.via Pepe (id.303) quindi Venezia 
+diretto. Ferma a S.Chiara.
+#41
+ES-53E Fermate: salita/discesa tutte#51
+ES-53E Limitata Dolo. Fermate: salita/discesa tutte #55
+ES-53E Per Malcontenta. Transita per Dolo Scuole A. Fermate: salita/discesa 
+tutte, 
+#92
+Guida effettiva 18 metri < metà turno.AR1
+Diaria 9%D09
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 45PO418
+documento non ufficiale 
+    in visione alla rsu
+--- page 54 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D505Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta FOSSO'PK SmontaFOSSO'PK FOSSO'
+Orario 6,12 -0,35 5:59  9:33 12:37 15:15
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.09  6.32 12-I-D-P-C 13,64FOSSO'PK MELLARED 00827
+ 6.32  7.32 35,11#91MELLARED VENEZIA 57EV0827
+ 7.45  8.40 38,13#91VENEZIA PIOVE 67RE0827
+ 8.50  9.20 18,0351PIOVE DOLO CAP 67E0827
+ 9.20  9.28 4,58DOLO CAP FOSSO'PK 00827
+12.47 12.57 12-S-D-P-C - 
+RIF.
+5,13FOSSO'PK DEP.DOLO 00955
+13.12 13.15 12-S-D-P-C 1,55DEP.DOLO DOLO SCO-A 00955
+13.15 13.58 19,14#17DOLO SCO-A 27 OTT-D5 53EM0955
+13.58 14.08 3,0327 OTT-D5 GRITTI 00955
+14.15 15.02 21,73#82GRITTI DOLO CAP 53ED0955
+15.02 15.10 4,58DOLO CAP FOSSO'PK 00955
+KMNOTE 164,64
+ES-53E In partenza da Dolo Scuole A. Per Malcontenta. Fermate: 
+salita/discesa tutte
+#17
+ES-53E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago. Fermate: solo Salita fino a via Bissuola, fermata 
+Colombo (id1272) - 27 Ottobre (Incr. via Colombo, id.168)-C.Popolo 
+(incr.v.Mestrina, id.1013 e Torino, id.1011); solo Discesa tutte da 
+via Padana rotonda fermata del Lucio (id.439).
+#82
+ES-57E Prosegue per Malcontenta-via F.lli Bandiera-via Della 
+Liberta'-Venezia. Effettua fermate in Salita/Discesa fino a via 
+Malcontenta (fermata Chimica), poi solo discesa.
+#91
+ES-67RE Per Campolongo Maggiore. Fermate: Salita tutte fino Dep Fisica, S/D 
+tutte da Malcontenta fermata Malcanton. 
+#91
+Set  = 2026-10-01-SP-ES-LM_GV__-R245 Data di stampa 28/09/2026
+Extraurbano Sud
+D503Inv.26-27
+Validità LMmGV__Data: 01/10/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta FOSSO'PK Smonta FOSSO'PK FOSSO'
+Orario 6,23 -0,24 5:10  8:22 12:05 15:16
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 5.20  5.30 12-S-D-P-C 5,61FOSSO'PK VIGONOVO 00953
+ 5.30  5.55 12,81#71VIGONOVO DOLO CAP 55EP0953
+ 5.55  6.00 1,34DOLO CAP DEP.DOLO 00953
+ 6.10  6.15 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00953
+ 6.15  6.40 10,13#25DOLO CAP MIRA L. 56EV0953
+ 6.40  7.15 21,20#38MIRA L. VENEZIA 53E/0953
+ 7.15  7.20 5,72VENEZIA V.RIGHI 00953
+ 7.20  7.53 18,05#85V.RIGHI DOLO SCO-A 53E0953
+ 7.53  7.56 RIF. 1,47DOLO SCO-A DEP.DOLO 00953
+ 8.06  8.17 12-S-D-P-C 5,26DEP.DOLO FOSSO'PK 00953
+12.15 12.25 12-S-D-P-C 4,46FOSSO'PK DOLO CAP 00956
+12.25 12.52 C360 15,11#3DOLO CAP MELLARED 66E0956
+12.55 13.25 P85 20,86#80MELLARED ORIAGO 57E0956
+13.40 14.03 10,55#37ORIAGO MIRAN.SPORT 57E0956
+14.13 15.03 27,67#56MIRAN.SPORT DOLO CAP 59ES0956
+15.03 15.11 4,58DOLO CAP FOSSO'PK 00956
+KMNOTE 166,16
+ES-56E Per Sambruson-Porto Menai-P.zza Vecchia. Limitata Mira Riviera 
+Matteotti.
+#25
+ES-66E Da Pianiga prosegue per Caltana, evoluzione capolinea, quindi 
+prosegue per Mellaredo
+#3
+ES-57E Per via Cavin Di Sala-Mirano Sport.#37
+ES-53E Per via Nazionale. Fermate: Salita/Discesa tutte #38
+ES-59E Per Ballò-Pianiga-Mellaredo-Pianiga-Arino. A Pianiga via Roma non 
+effettua fermata 2351 Accoppè in direzione Mellaredo. Per via 
+Cairoli -Matteotti- Dolo centro.
+#56
+ES-55E In partenza da Vigonovo.#71
+ES-57E Per Borbiago-via Ghebba-evoluzione -via Ghebba.#80
+ES-53E Limitata Dolo Scuole A. Fermate: salita/discesa tutte #85
+a CALTANA MARINONI attende linea 17E da MiranoC360
+A BORBIAGO transita alle ore 13.10 (uscita scuole di v.Pisa).P85
+documento non ufficiale 
+    in visione alla rsu
+--- page 55 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D506Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta FOSSO'PK SmontaFOSSO'PK FOSSO'
+Orario 5,27 -1,20 5:57  8:15 12:06 15:15
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.07  6.10 12-S-D-P-C 1,39FOSSO'PK FOSSO' 00955
+ 6.10  6.32 10,25#34FOSSO' DOLO CAP 54E0955
+ 6.32  6.34 0,67DOLO CAP DOLO CAP 00955
+ 6.35  7.10 C133 15,31#31DOLO CAP DOLO CAP 56EC0955
+ 7.10  7.12 0,67DOLO CAP DOLO CAP 00955
+ 7.12  7.25 7,80#36DOLO CAP CALCROCI 55E0955
+ 7.25  7.50 14,09#31CALCROCI PIOVE 67E/0955
+ 7.50  8.10 12,83PIOVE FOSSO'PK 00955
+12.16 12.25 12-S-D-P-C 7,66FOSSO'PK DOLO CAP 00954
+12.25 12.55 18,34#63DOLO CAP PIOVE 58E/0954
+13.15 13.45 18,0351PIOVE DOLO CAP 67E0954
+13.45 13.47 0,67DOLO CAP DOLO CAP 00954
+13.52 14.22 C168 18,101DOLO CAP PIOVE 67E0954
+14.30 15.00 18,10#13PIOVE DOLO CAP 58E/0954
+15.00 15.10 6,61DOLO CAP FOSSO'PK 00954
+KMNOTE 150,50
+ES-58E Per Campolongo, Liettoli, Sandon, Fossò e Paluello.#13
+ES-56E Per Sambruson-P.zza Vecchia-Gambarare-Mira-Riviera Del Brenta-Dolo.#31
+ES-67E Parte da Calcroci Chiesa e non effettua fermata Calcroci Cavour. Non 
+effettua fermata Bojon in via XXV Aprile. Da Bojon prosegue per 
+Campolongo-Piove di Sacco (scuole)-Piove.
+#31
+ES-54E Per Camponogara-Calcroci chiesa#34
+ES-55E Transita per Camponogara. Limitata Calcroci.#36
+ES-58E Limitata Piove.#63
+A DOLO coincidenza per PADOVA.C133
+A DOLO coincidenza da VENEZIA, MESTRE, MIRANO (Linea 59) e PADOVA.C168
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D507Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta FOS PK B SmontaFOS PK B FOSSO'
+Orario 7,06 0,19 4:35 11:41
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+D09 60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 4.45  4.55 7,65FOS PK B DOLO CAP 00957
+ 4.55  5.35 24,76#5DOLO CAP VENEZIA 53EV0957
+ 5.55  7.17 PO416 43,95#65VENEZIA PADOVA 53EV0957
+ 7.32  8.12 PO411 18,34#27PADOVA DOLO.DEP 53EV0957
+ 8.12 CAMBIO DAL 42
+ 9.32 CAMBIA IL 307
+ 9.32 10.10 PO415 24,15#1DOLO.DEP VENEZIA 53EV0960
+10.25 11.10 26,73#53VENEZIA DOLO CAP 53EV0960
+11.10 11.15 RIF. 1,34DOLO CAP DEP.DOLO 00960
+11.25 11.36 12-S-D-P-C 5,26DEP.DOLO FOS PK B 00939
+KMNOTE 152,18
+ES-53E Fermate: salita/discesa tutte#1
+ES-53E A Mestre per c.so del Popolo, #27
+ES-53E Fermate: salita/discesa tutte#5
+ES-53E Per Malcontenta. Limitata Dolo. Fermate: salita/discesa tutte#53
+ES-53E Fermate: salita/discesa tutte. A Perarolo per via Diaz, S.Antonio, 
+Moro e Bachelet quindi prosegue per Padova.
+#65
+Diaria 9%D09
+A Padana Dolo punto orario ai minuti 10PO411
+A Padana Dolo punto orario ai minuti 30PO415
+A Padana Dolo punto orario ai minuti 35PO416
+documento non ufficiale 
+    in visione alla rsu
+--- page 56 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D901Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO STR DOLO
+Orario 2,05 0,00 6:35  8:40
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.45  6.50 12-S-D-P-C 1,34DEP.DOLO DOLO CAP 00940
+ 6.50  7.10 10,471DOLO CAP MELLARED 66E0940
+ 7.10  7.40 16,87#31MELLARED MIRANO 59ES0940
+ 7.40  7.42 0,58MIRANO MIRAN.SPORT 00940
+ 8.00  8.25 13,41#71MIRAN.SPORT DOLO CAP 59EV0940
+ 8.25  8.30 RIF. 1,34DOLO CAP DEP.DOLO 00940
+KMNOTE 44,00
+ES-59E Per Pianiga-Ballò.#31
+ES-59E Per Vetrego-rotatoria A4.#71
+Set  = 2026-10-01-SP-ES-LM_GV__-R245 Data di stampa 28/09/2026
+Extraurbano Sud
+D508Inv.26-27
+Validità LMmGV__Data: 01/10/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta FOSSO'PK SmontaFOSSO'PK FOSSO'
+Orario 6,24 -0,23 5:50  9:09 12:00 15:05
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.00  6.10 12-S-D-P-C 4,06FOSSO'PK SANDON 00956
+ 6.10  6.25 8,3047SANDON DOLO CAP 58E/0956
+ 6.27  6.40 7,80#36DOLO CAP CALCROCI 55E0956
+ 6.40  7.36 24,77#48CALCROCI PADOVA 55E0956
+ 8.02  8.40 17,73#11PADOVA DOLO CAP 53E/0956
+ 8.40  8.43 RIF. 0,67DOLO CAP DEP.DOLO 00956
+ 8.53  9.04 12-S-D-P-C 5,26DEP.DOLO FOSSO'PK 00956
+12.10 12.37 12-S-D-P-C 16,76FOSSO'PK PADOVA 00953
+12.37 13.55 PO412 35,90#4PADOVA 27 OTT-D5 53EM0953
+13.55 14.05 3,0327 OTT-D5 GRITTI 00953
+14.05 14.52 21,73#82GRITTI DOLO CAP 53ED0953
+14.52 15.00 4,58DOLO CAP FOSSO'PK 00953
+KMNOTE 150,58
+ES-53E Limitata Dolo Centro.#11
+ES-55E Transita per Camponogara. Limitata Calcroci.#36
+ES-53E Limitata p.zza 27 Ottobre#4
+ES-55E Parte da Calcroci Chiesa. Per 
+Camponogara-Campoverardo-Fossò-Galta-Vigonovo. Salita e Discesa fino 
+a Vigonovo, poi discesa. 
+#48
+ES-53E Per via Bissuola-27 Ottobre-Corso del Popolo-via F.lli 
+Bandiera-Oriago. Fermate: solo Salita fino a via Bissuola, fermata 
+Colombo (id1272) - 27 Ottobre (Incr. via Colombo, id.168)-C.Popolo 
+(incr.v.Mestrina, id.1013 e Torino, id.1011); solo Discesa tutte da 
+via Padana rotonda fermata del Lucio (id.439).
+#82
+A Padana Dolo punto orario ai minuti 15PO412
+documento non ufficiale 
+    in visione alla rsu
+--- page 57 ---
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D902Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO STR DOLO
+Orario 2,15 0,00 6:50  9:05
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 7.00  7.05 12-I-M-LOWE 2,71DEP.DOLO SAMBRUSON 00809
+ 7.05  7.37 17,22#26SAMBRUSON MIRAN.SPORT 56E0809
+ 7.37  7.55 15,69MIRAN.SPORT MELLARED 00809
+ 8.15  8.35 10,3951MELLARED DOLO CAP 66E0809
+ 8.35  8.40 1,34DOLO CAP DEP.DOLO 00809
+ 8.40  9.00 DISPDEP.DOLO DEP.DOLO
+KMNOTE 47,34
+ES-56E Per Piazza Vecchia-Gambarare-Mira-via Miranese-Marano-via Taglio 
+Sinistro-via Cavin di Sala-Mirano Sport
+#26
+Set  = 2026-09-10-SP-ES-LMmGV__-R245 Data di stampa 04/09/2026
+Extraurbano Sud
+D904Inverno
+Validità LMmGV__Data: 10/09/2026
+MO_056.0
+PROD
+ACTV S.p.a.
+Monta DEP.DOLO SmontaDEP.DOLO STR DOLO
+Orario 2,00 0,00 6:35  8:35
+1a Parte 2a Parte Indennità Avm/L Ore Comp.
+60
+TA DA A LIN COR PART ARR NOTE KMCAM.
+ 6.45  7.10 12-I-M-LOWE 11,90DEP.DOLO BOJON CHIESA 00813
+ 7.10  7.39 15,18#21BOJON CHIES DOLO SCO-A 54E0813
+ 7.39  7.42 1,47DOLO SCO-A DEP.DOLO 00813
+ 7.42  7.47 12-I-M-LOWE - 
+RIF.
+2,32DEP.DOLO DISTR.DOLO 00813
+ 8.07  8.12 2,51DISTR.DOLO DEP.DOLO 00813
+ 8.12  8.30 DISPDEP.DOLO DEP.DOLO
+KMNOTE 33,38
+ES-54E Prosegue per Dolo Scuole A.#21
+documento non ufficiale 
+    in visione alla rsu
