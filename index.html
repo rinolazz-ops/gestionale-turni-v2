@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gestione Turni ACTV – Extraurbano Sud</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="wrap header-inner">
+    <div>
+      <h1>Gestione Turni · ACTV Extraurbano Sud</h1>
+      <p>Carica i cartellini PDF: lo strumento riordina la numerazione dei turni, deposito per deposito,
+         per alternare le tipologie e garantire la pausa di riposo.</p>
+    </div>
+    <div class="header-actions">
+      <button class="primario" data-azione="apri-pdf">Carica PDF</button>
+      <button data-azione="carica-esempio">Dati di esempio</button>
+      <button data-azione="esporta-json">Esporta dati</button>
+      <button data-azione="importa-json">Importa dati</button>
+      <button data-azione="stampa">Stampa</button>
+    </div>
+  </div>
+</header>
+
+<div class="barra-depositi no-print">
+  <div class="wrap">
+    <div class="tabs" id="tabs"></div>
+  </div>
+</div>
+
+<main class="wrap">
+
+  <!-- 1. CARICAMENTO PDF -------------------------------------------------- -->
+  <section id="sez-carica">
+    <div class="section-head">
+      <h2>1 · Cartellini della settimana</h2>
+      <span class="sottotitolo">I PDF vengono letti nel browser: nessun file esce dal computer.</span>
+    </div>
+
+    <div id="bannerDati"></div>
+
+    <div class="dropzone" id="dropzone" tabindex="0" role="button"
+         aria-label="Trascina qui i PDF oppure clicca per sceglierli">
+      <div class="icona">📄</div>
+      <b>Trascina qui i PDF dei cartellini</b>
+      <p>oppure clicca per sceglierli · Lun-Ven, Sabato e Festivo · più file insieme</p>
+    </div>
+
+    <div class="file-lista" id="fileLista"></div>
+
+    <div class="azioni-upload no-print">
+      <button class="secondario" data-azione="apri-pdf">Aggiungi PDF</button>
+      <button class="secondario" data-azione="ricalcola-pdf" id="btnRicalcolaPdf">Rielabora i file caricati</button>
+      <span class="nota" id="notaUpload"></span>
+    </div>
+    <div class="progresso" id="progressoUpload"></div>
+    <div id="avvisiDati"></div>
+
+    <input type="file" id="filePdf" accept="application/pdf,.pdf" multiple hidden>
+    <input type="file" id="fileJson" accept=".json,application/json" hidden>
+  </section>
+
+  <!-- 2. RIEPILOGO -------------------------------------------------------- -->
+  <section id="sez-riepilogo">
+    <div class="section-head">
+      <h2>2 · Riepilogo dei depositi</h2>
+      <span class="sottotitolo" id="infoDati"></span>
+    </div>
+    <div class="cards" id="riepilogo"></div>
+    <div class="legend">
+      <span><i style="background:var(--primo)"></i>Primo (mattina)</span>
+      <span><i style="background:var(--spezzato)"></i>Spezzato</span>
+      <span><i style="background:var(--secondo)"></i>Secondo</span>
+      <span><i style="background:var(--terzo)"></i>Terzo</span>
+      <span><i style="background:repeating-linear-gradient(45deg,#e5e7eb,#e5e7eb 3px,#cbd5e1 3px,#cbd5e1 6px)"></i>Disponibile</span>
+      <span><i style="background:var(--jolly)"></i>Jolly</span>
+    </div>
+  </section>
+
+  <!-- 3. PROPOSTA --------------------------------------------------------- -->
+  <section id="sez-proposta">
+    <div class="section-head">
+      <h2>3 · Numerazione proposta <span id="titoloDeposito" class="tenue" style="font-weight:400"></span></h2>
+      <span class="sottotitolo">La posizione è la settimana: chi è alla posizione <b>x</b> la settimana dopo passa alla <b>x+1</b>.</span>
+    </div>
+
+    <div class="righe no-print">
+      <label class="campo">
+        <span>Settimane “disponibile”</span>
+        <select id="modoDisp">
+          <option value="auto">automatico — restano ferme se già distanziate</option>
+          <option value="fisso">fisse alla posizione attuale</option>
+          <option value="libero">sempre libere di spostarsi</option>
+        </select>
+      </label>
+      <button class="verde" data-azione="calcola">⚡ Calcola questo deposito</button>
+      <button class="secondario" data-azione="calcola-tutti">Calcola tutti i depositi</button>
+      <button class="secondario" data-azione="ripristina">Ripristina numerazione attuale</button>
+    </div>
+    <div class="progresso" id="progressoCalcolo"></div>
+
+    <div class="stat-grid" id="stats" style="margin-top:12px"></div>
+    <div id="notaProposta" class="nota"></div>
+    <div id="msgDisp"></div>
+
+    <div class="strip" id="strip"></div>
+
+    <div class="scroll">
+      <table id="tabSeq">
+        <thead>
+          <tr>
+            <th>Nuovo n°</th>
+            <th>Turno attuale</th>
+            <th>Categoria</th>
+            <th>Pausa verso il turno dopo</th>
+            <th>Lun-Ven</th>
+            <th>Sabato</th>
+            <th>Festivo</th>
+            <th>Ore</th>
+            <th>Note</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <div class="azioni no-print">
+      <button class="secondario" data-azione="esporta-csv">⬇ Scarica proposta (CSV, tutti i depositi)</button>
+      <button class="secondario" data-azione="stampa">🖨 Stampa</button>
+    </div>
+  </section>
+
+  <!-- 4. SIMULAZIONE ------------------------------------------------------ -->
+  <section id="sez-simulazione">
+    <div class="section-head">
+      <h2>4 · Simulazione settimana per settimana</h2>
+      <span class="sottotitolo">Verifica concreta della sequenza e delle pause.</span>
+    </div>
+
+    <div class="righe">
+      <label class="campo"><span>Si parte dalla posizione</span><input type="number" id="simPartenza" min="1" value="1"></label>
+      <label class="campo"><span>Quante settimane</span>
+        <select id="simSettimane">
+          <option value="13">13</option>
+          <option value="26" selected>26</option>
+          <option value="52">52</option>
+        </select>
+      </label>
+      <button class="secondario" data-azione="simula">Mostra</button>
+      <span class="nota">Nelle settimane “disponibile” il turno lo assegna l’ufficio: la pausa non è verificabile e la catena del controllo si interrompe.</span>
+    </div>
+
+    <div class="calendario" id="calendario"></div>
+
+    <div class="scroll">
+      <table id="tabSim">
+        <thead>
+          <tr>
+            <th>Sett.</th><th>Posizione</th><th>Categoria</th><th>Turno attuale</th>
+            <th>Orario Lun-Ven</th><th>Pausa</th><th>Note</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 5. TURNI ------------------------------------------------------------ -->
+  <section id="sez-turni">
+    <div class="section-head">
+      <h2>5 · Turni del deposito <span id="titoloTurni" class="tenue" style="font-weight:400"></span></h2>
+      <span class="sottotitolo">Clicca sulla categoria per correggerla a mano: primo → spezzato → secondo → terzo → primo.</span>
+    </div>
+
+    <div class="righe">
+      <label class="campo"><span>Cerca</span><input type="search" id="filtroRicerca" placeholder="numero, orario, categoria…"></label>
+      <label class="campo"><span>Categoria</span>
+        <select id="filtroCat">
+          <option value="">tutte</option>
+          <option>PRIMO</option>
+          <option>SPEZZATO</option>
+          <option>SECONDO</option>
+          <option>TERZO</option>
+        </select>
+      </label>
+      <button class="secondario" data-azione="azzera-override">Azzera correzioni manuali</button>
+    </div>
+
+    <div class="scroll">
+      <table id="tabTurni">
+        <thead>
+          <tr>
+            <th>n°</th><th>Categoria</th><th>Lun-Ven</th><th>Sabato</th>
+            <th>Festivo</th><th>Pausa interna</th><th>Ore</th><th>Note</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 6. JOLLY ------------------------------------------------------------ -->
+  <section id="sez-jolly">
+    <div class="section-head">
+      <h2>6 · Jolly (turni brevi, fuori dalla turnazione)</h2>
+      <span class="sottotitolo">Li assegna l’ufficio turni nei giorni disponibili.</span>
+    </div>
+    <div class="nota">Questi turni non rientrano nella rotazione e non occupano una posizione: restano esclusi dal calcolo.</div>
+    <div class="scroll">
+      <table id="tabJolly">
+        <thead>
+          <tr><th>n°</th><th>Lun-Ven</th><th>Sabato</th><th>Festivo</th><th>Ore</th><th>Motivo</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 7. PAUSE INTERNE ---------------------------------------------------- -->
+  <section id="sez-pause">
+    <div class="section-head">
+      <h2>7 · Controlli pause interne <span id="titoloPause" class="tenue" style="font-weight:400"></span></h2>
+      <span class="sottotitolo">Non dipendono dalla numerazione: vanno segnalate all’ufficio turni.</span>
+    </div>
+    <div class="nota">
+      Pause interne al singolo turno (lun-ven → sabato oppure sabato → festivo).
+      <span class="der">Tra 9h40 e 10h</span> si accettano con deroga;
+      <span class="ko">sotto le 9h40</span> sono un problema. Vengono mostrate le pause sotto le 12 ore.
+    </div>
+    <div class="scroll">
+      <table id="tabPause">
+        <thead>
+          <tr><th>n°</th><th>Tra</th><th>Fine turno prima</th><th>Inizio turno dopo</th><th>Pausa</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 8. REGOLE ----------------------------------------------------------- -->
+  <section id="sez-regole">
+    <div class="section-head">
+      <h2>8 · Regole e pesi</h2>
+      <span class="sottotitolo">Le modifiche valgono per il deposito selezionato e invalidano la proposta.</span>
+    </div>
+
+    <details open>
+      <summary>Classificazione dei turni</summary>
+      <div class="righe">
+        <label class="campo"><span>Jolly sotto (ore)</span><input type="number" id="sOreJolly" step="0.25" min="0" max="8"></label>
+        <label class="campo"><span>Primo: parte prima delle</span><input type="time" id="sPrimoInizio"></label>
+        <label class="campo"><span>…e finisce entro</span><input type="time" id="sPrimoFine"></label>
+        <label class="campo"><span>Terzo: parte dalle</span><input type="time" id="sTerzoInizio"></label>
+        <label class="campo"><span>…oppure finisce dopo</span><input type="time" id="sTerzoFine"></label>
+      </div>
+      <div class="azioni no-print">
+        <button class="secondario" data-azione="applica-soglie">Ricalcola questo deposito</button>
+        <button class="secondario" data-azione="applica-soglie-tutti">…e applica a tutti</button>
+        <button class="secondario" data-azione="reset-soglie">Valori predefiniti</button>
+        <button class="secondario" data-azione="reset-soglie-tutti">Valori predefiniti a tutti</button>
+      </div>
+      <div class="nota" style="margin-top:10px">
+        Due tratti orari = automaticamente <b>spezzato</b>. Uno spezzato viene trattato come una mattina:
+        dopo uno spezzato meglio un secondo o un terzo, non un primo. I turni sotto la soglia ore diventano
+        <b>jolly</b> e non entrano nella turnazione.
+      </div>
+    </details>
+
+    <details>
+      <summary>Pesi della sequenza</summary>
+      <div class="righe">
+        <label class="campo"><span>Stessa categoria ripetuta</span><input type="number" id="pRipetizione" min="0" step="5"></label>
+        <label class="campo"><span>Primo poi spezzato (stessa fascia)</span><input type="number" id="pStessaFascia" min="0" step="5"></label>
+        <label class="campo"><span>Spezzato poi primo (mattina su mattina)</span><input type="number" id="pDopoSpezzato" min="0" step="5"></label>
+        <label class="campo"><span>Inversione (secondo→primo, terzo→secondo)</span><input type="number" id="pInversione" min="0" step="5"></label>
+        <label class="campo"><span>Salto (primo→terzo)</span><input type="number" id="pSalto" min="0" step="5"></label>
+        <label class="campo"><span>Ciclo (terzo→primo)</span><input type="number" id="pCiclo" min="0" step="5"></label>
+        <label class="campo"><span>Disponibile a meno del target (per turno mancante)</span><input type="number" id="pDisponibili" min="0" step="5"></label>
+        <label class="campo"><span>Pausa sotto 9h40</span><input type="number" id="pPausaForte" min="0" step="10"></label>
+        <label class="campo"><span>Pausa tra 9h40 e 10h</span><input type="number" id="pPausaDeroga" min="0" step="5"></label>
+      </div>
+      <div class="azioni no-print">
+        <button class="secondario" data-azione="reset-pesi">Ripristina pesi predefiniti</button>
+      </div>
+      <div class="nota" style="margin-top:10px">
+        Ordine desiderato: <b>mattina/spezzato → secondo → terzo → mattina/spezzato…</b>.
+        Le pause sotto 9h40 e quelle tra 9h40 e 10h vengono trattate come vincoli prioritari,
+        prima ancora dell’alternanza delle categorie.
+      </div>
+    </details>
+
+    <details>
+      <summary>Come vengono trattati i disponibili</summary>
+      <div class="nota">
+        Le posizioni “disponibile” sono i numeri <b>senza cartellino predeterminato</b>: non sono settimane
+        di riposo, è l’ufficio turni a decidere il turno in base alle esigenze. Lo strumento cerca di lasciare
+        almeno <b>4 turni normali</b> fra un disponibile e il successivo; quando non è matematicamente possibile
+        (per esempio 4 disponibili su 12 posizioni) usa il massimo raggiungibile e lo segnala.
+        <br><br>
+        <b>Automatico</b>: i disponibili restano dove sono se già rispettano il target, altrimenti vengono
+        ridistribuiti. <b>Fisse</b>: non si muovono mai. <b>Sempre libere</b>: l’ottimizzatore può spostarle.
+      </div>
+    </details>
+  </section>
+
+</main>
+
+<footer class="wrap">
+  Dati letti dai PDF dei cartellini ACTV · elaborazione interamente locale · nessuna connessione richiesta.
+</footer>
+
+<!-- pdf.js (build UMD: funziona anche con doppio clic su index.html) -->
+<script src="js/vendor/pdf.worker.min.js"></script>
+<script src="js/vendor/pdf.min.js"></script>
+
+<!-- dati di esempio (usati al primo avvio) -->
+<script src="dati/esempio.js"></script>
+
+<!-- motore -->
+<script src="js/core.js"></script>
+<script src="js/optimizer.js"></script>
+<script src="js/pdf-reader.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
