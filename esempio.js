@@ -1,0 +1,3395 @@
+/* Dati di esempio ricavati dai cartellini ACTV del 2026-10-01. */
+window.TURNI_ESEMPIO = {
+ "versione": 2,
+ "motore": 3,
+ "generato": "2026-10-20",
+ "soglie": {
+  "oreJolly": 4.0,
+  "primoInizio": 660,
+  "primoFine": 840,
+  "terzoInizio": 840,
+  "terzoFine": 1260
+ },
+ "sorgenti": [
+  "✅ 2026-09-13-FESTIVO-TURNI-ES.pdf",
+  "✅️ 2026-10-01-LUN_VEN-TURNI-ES.pdf",
+  "✅️ 2026-10-03-SABATO-TURNI-ES.pdf"
+ ],
+ "depositi": [
+  {
+   "codice": "dolo",
+   "nome": "Dolo",
+   "fasce": [
+    [
+     1,
+     54
+    ]
+   ],
+   "disponibili": [
+    6,
+    11,
+    16,
+    21,
+    26,
+    35,
+    40,
+    45,
+    50
+   ],
+   "turni": [
+    {
+     "n": 1,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 6.08,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.08,
+      "tratti": [
+       [
+        "16:40",
+        "22:48"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.28,
+      "tratti": [
+       [
+        "17:30",
+        "00:58"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 7.3,
+      "tratti": [
+       [
+        "16:25",
+        "23:55"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 2,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.28,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.28,
+      "tratti": [
+       [
+        "14:02",
+        "21:30"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.57,
+      "tratti": [
+       [
+        "11:58",
+        "18:55"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 7.18,
+      "tratti": [
+       [
+        "15:12",
+        "22:30"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 3,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.16,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.16,
+      "tratti": [
+       [
+        "07:00",
+        "09:30"
+       ],
+       [
+        "14:02",
+        "18:48"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.27,
+      "tratti": [
+       [
+        "06:50",
+        "09:45"
+       ],
+       [
+        "15:13",
+        "18:45"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 4,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 5.35,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 5.35,
+      "tratti": [
+       [
+        "04:15",
+        "09:50"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.38,
+      "tratti": [
+       [
+        "04:15",
+        "10:53"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 5,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.28,
+     "monta": "DOLO.DEP",
+     "lv": {
+      "ore": 6.28,
+      "tratti": [
+       [
+        "05:58",
+        "09:28"
+       ],
+       [
+        "12:35",
+        "15:33"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.25,
+      "tratti": [
+       [
+        "05:00",
+        "08:58"
+       ],
+       [
+        "11:58",
+        "15:25"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 7,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.11,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.11,
+      "tratti": [
+       [
+        "13:17",
+        "20:28"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.35,
+      "tratti": [
+       [
+        "14:15",
+        "20:50"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 7.31,
+      "tratti": [
+       [
+        "12:15",
+        "19:46"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 8,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.49,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 5.49,
+      "tratti": [
+       [
+        "06:39",
+        "09:08"
+       ],
+       [
+        "12:05",
+        "15:25"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 9,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.29,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.29,
+      "tratti": [
+       [
+        "06:43",
+        "14:12"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.17,
+      "tratti": [
+       [
+        "05:28",
+        "12:45"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 10,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.19,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.19,
+      "tratti": [
+       [
+        "06:10",
+        "08:32"
+       ],
+       [
+        "11:53",
+        "15:50"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.13,
+      "tratti": [
+       [
+        "05:02",
+        "08:13"
+       ],
+       [
+        "12:15",
+        "16:17"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 12,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 6.47,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "17:00",
+        "23:47"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "17:00",
+        "23:47"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "17:00",
+        "23:47"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 13,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.27,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.27,
+      "tratti": [
+       [
+        "13:45",
+        "21:12"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.33,
+      "tratti": [
+       [
+        "16:22",
+        "23:55"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 14,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.33,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.33,
+      "tratti": [
+       [
+        "07:05",
+        "09:05"
+       ],
+       [
+        "13:02",
+        "18:35"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 15,
+     "cat": "PRIMO",
+     "origine": "sabato",
+     "ore": 7.08,
+     "monta": "DEP.DOLO",
+     "lv": null,
+     "sb": {
+      "ore": 7.08,
+      "tratti": [
+       [
+        "06:12",
+        "13:20"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.2,
+      "tratti": [
+       [
+        "06:15",
+        "12:35"
+       ]
+      ]
+     },
+     "nota": "nessun turno lun-ven: da sabato"
+    },
+    {
+     "n": 17,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.23,
+     "monta": "DOLO.DEP",
+     "lv": {
+      "ore": 7.23,
+      "tratti": [
+       [
+        "16:02",
+        "23:25"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.58,
+      "tratti": [
+       [
+        "17:05",
+        "00:03"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 7.23,
+      "tratti": [
+       [
+        "15:25",
+        "22:48"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 18,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.0,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.0,
+      "tratti": [
+       [
+        "13:30",
+        "20:30"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 19,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.12,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.12,
+      "tratti": [
+       [
+        "06:33",
+        "08:48"
+       ],
+       [
+        "11:58",
+        "15:55"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 20,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.11,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.11,
+      "tratti": [
+       [
+        "05:02",
+        "12:13"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.25,
+      "tratti": [
+       [
+        "06:10",
+        "13:35"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.45,
+      "tratti": [
+       [
+        "06:52",
+        "13:37"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 22,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.26,
+     "monta": "DOLO.DEP",
+     "lv": {
+      "ore": 7.26,
+      "tratti": [
+       [
+        "14:42",
+        "22:08"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.35,
+      "tratti": [
+       [
+        "12:02",
+        "19:37"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.44,
+      "tratti": [
+       [
+        "16:51",
+        "23:35"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 23,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.15,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.15,
+      "tratti": [
+       [
+        "13:02",
+        "20:17"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 5.45,
+      "tratti": [
+       [
+        "11:40",
+        "17:25"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 24,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.42,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.42,
+      "tratti": [
+       [
+        "06:40",
+        "09:05"
+       ],
+       [
+        "14:23",
+        "18:40"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 25,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.17,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.17,
+      "tratti": [
+       [
+        "05:22",
+        "08:07"
+       ],
+       [
+        "12:05",
+        "15:37"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.25,
+      "tratti": [
+       [
+        "06:20",
+        "10:20"
+       ],
+       [
+        "12:25",
+        "15:50"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 27,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.3,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.3,
+      "tratti": [
+       [
+        "17:35",
+        "01:05"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.17,
+      "tratti": [
+       [
+        "17:43",
+        "01:00"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.13,
+      "tratti": [
+       [
+        "18:52",
+        "01:05"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 28,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 6.45,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.45,
+      "tratti": [
+       [
+        "14:15",
+        "21:00"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 29,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.44,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.44,
+      "tratti": [
+       [
+        "06:05",
+        "08:15"
+       ],
+       [
+        "12:23",
+        "16:57"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "06:40",
+        "09:25"
+       ],
+       [
+        "13:45",
+        "17:47"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 30,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.11,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.11,
+      "tratti": [
+       [
+        "06:00",
+        "08:15"
+       ],
+       [
+        "11:33",
+        "15:29"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.17,
+      "tratti": [
+       [
+        "06:10",
+        "13:27"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 7.23,
+      "tratti": [
+       [
+        "10:43",
+        "18:06"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 31,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.08,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.08,
+      "tratti": [
+       [
+        "06:27",
+        "13:35"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.33,
+      "tratti": [
+       [
+        "06:27",
+        "13:00"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 32,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.55,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 5.55,
+      "tratti": [
+       [
+        "06:07",
+        "08:52"
+       ],
+       [
+        "11:40",
+        "14:50"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 33,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.19,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.19,
+      "tratti": [
+       [
+        "06:03",
+        "10:44"
+       ],
+       [
+        "13:12",
+        "15:50"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.51,
+      "tratti": [
+       [
+        "06:38",
+        "09:10"
+       ],
+       [
+        "11:53",
+        "16:12"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 34,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.47,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "04:00",
+        "10:47"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "04:00",
+        "10:47"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "04:00",
+        "10:47"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 36,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.3,
+     "monta": "DOLO.DEP",
+     "lv": {
+      "ore": 7.3,
+      "tratti": [
+       [
+        "12:42",
+        "20:12"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 37,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.36,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.36,
+      "tratti": [
+       [
+        "06:10",
+        "09:20"
+       ],
+       [
+        "12:02",
+        "15:28"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.32,
+      "tratti": [
+       [
+        "06:00",
+        "08:27"
+       ],
+       [
+        "12:35",
+        "17:40"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 38,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.28,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.28,
+      "tratti": [
+       [
+        "06:57",
+        "13:25"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.0,
+      "tratti": [
+       [
+        "06:20",
+        "13:20"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.48,
+      "tratti": [
+       [
+        "07:58",
+        "14:46"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 39,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.3,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.3,
+      "tratti": [
+       [
+        "05:55",
+        "10:03"
+       ],
+       [
+        "12:30",
+        "15:52"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.3,
+      "tratti": [
+       [
+        "06:40",
+        "09:07"
+       ],
+       [
+        "13:37",
+        "18:40"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 41,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.06,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.06,
+      "tratti": [
+       [
+        "06:38",
+        "10:10"
+       ],
+       [
+        "12:15",
+        "15:49"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.08,
+      "tratti": [
+       [
+        "06:03",
+        "09:15"
+       ],
+       [
+        "11:33",
+        "15:29"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 42,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.28,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.28,
+      "tratti": [
+       [
+        "06:10",
+        "10:05"
+       ],
+       [
+        "12:30",
+        "15:03"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.0,
+      "tratti": [
+       [
+        "05:45",
+        "09:30"
+       ],
+       [
+        "12:33",
+        "15:48"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 43,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 5.28,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 5.28,
+      "tratti": [
+       [
+        "03:45",
+        "09:13"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.0,
+      "tratti": [
+       [
+        "03:45",
+        "09:45"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 5.28,
+      "tratti": [
+       [
+        "03:45",
+        "09:13"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 44,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.58,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 5.58,
+      "tratti": [
+       [
+        "05:45",
+        "08:28"
+       ],
+       [
+        "12:15",
+        "15:30"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.28,
+      "tratti": [
+       [
+        "05:22",
+        "10:00"
+       ],
+       [
+        "12:20",
+        "15:10"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 46,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.25,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.25,
+      "tratti": [
+       [
+        "16:30",
+        "23:55"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.32,
+      "tratti": [
+       [
+        "15:58",
+        "22:30"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.33,
+      "tratti": [
+       [
+        "16:52",
+        "23:25"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 47,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 6.47,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "10:30",
+        "17:17"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "10:30",
+        "17:17"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.47,
+      "tratti": [
+       [
+        "10:30",
+        "17:17"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 48,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.22,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.22,
+      "tratti": [
+       [
+        "06:40",
+        "09:38"
+       ],
+       [
+        "12:28",
+        "15:52"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.05,
+      "tratti": [
+       [
+        "06:32",
+        "09:10"
+       ],
+       [
+        "13:23",
+        "17:50"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 49,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.5,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.5,
+      "tratti": [
+       [
+        "06:12",
+        "08:57"
+       ],
+       [
+        "11:55",
+        "16:00"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.13,
+      "tratti": [
+       [
+        "05:58",
+        "09:28"
+       ],
+       [
+        "11:28",
+        "15:11"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 51,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.23,
+     "monta": "DOLO.DEP",
+     "lv": {
+      "ore": 7.23,
+      "tratti": [
+       [
+        "13:22",
+        "20:45"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.05,
+      "tratti": [
+       [
+        "12:30",
+        "19:35"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 7.35,
+      "tratti": [
+       [
+        "12:31",
+        "20:06"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 52,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.12,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 6.12,
+      "tratti": [
+       [
+        "07:00",
+        "09:10"
+       ],
+       [
+        "13:35",
+        "17:37"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 53,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.15,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.15,
+      "tratti": [
+       [
+        "06:40",
+        "13:55"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.33,
+      "tratti": [
+       [
+        "06:07",
+        "13:40"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.56,
+      "tratti": [
+       [
+        "08:31",
+        "15:27"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 54,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.34,
+     "monta": "DEP.DOLO",
+     "lv": {
+      "ore": 7.34,
+      "tratti": [
+       [
+        "06:28",
+        "09:17"
+       ],
+       [
+        "13:40",
+        "18:25"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "codice": "cavarzere",
+   "nome": "Cavarzere",
+   "fasce": [
+    [
+     101,
+     130
+    ]
+   ],
+   "disponibili": [
+    102,
+    109,
+    119,
+    126
+   ],
+   "turni": [
+    {
+     "n": 101,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.52,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.52,
+      "tratti": [
+       [
+        "05:35",
+        "08:30"
+       ],
+       [
+        "11:40",
+        "15:37"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.28,
+      "tratti": [
+       [
+        "05:22",
+        "08:47"
+       ],
+       [
+        "12:07",
+        "16:10"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 103,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.48,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.48,
+      "tratti": [
+       [
+        "06:37",
+        "09:30"
+       ],
+       [
+        "12:17",
+        "16:12"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.52,
+      "tratti": [
+       [
+        "06:25",
+        "09:22"
+       ],
+       [
+        "12:17",
+        "16:12"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 104,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.58,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.58,
+      "tratti": [
+       [
+        "05:07",
+        "12:05"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 105,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.12,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.12,
+      "tratti": [
+       [
+        "06:20",
+        "09:47"
+       ],
+       [
+        "13:02",
+        "16:47"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.32,
+      "tratti": [
+       [
+        "07:05",
+        "14:37"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 106,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.43,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.43,
+      "tratti": [
+       [
+        "05:58",
+        "10:18"
+       ],
+       [
+        "12:52",
+        "15:15"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 107,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.3,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.3,
+      "tratti": [
+       [
+        "05:53",
+        "10:08"
+       ],
+       [
+        "12:10",
+        "15:25"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.22,
+      "tratti": [
+       [
+        "06:30",
+        "08:54"
+       ],
+       [
+        "11:19",
+        "16:17"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 108,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 5.15,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 5.15,
+      "tratti": [
+       [
+        "03:40",
+        "08:55"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 5.32,
+      "tratti": [
+       [
+        "03:40",
+        "09:12"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 110,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 6.1,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.1,
+      "tratti": [
+       [
+        "13:15",
+        "19:25"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 111,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.44,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.44,
+      "tratti": [
+       [
+        "05:33",
+        "09:27"
+       ],
+       [
+        "11:47",
+        "14:37"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.24,
+      "tratti": [
+       [
+        "05:35",
+        "08:54"
+       ],
+       [
+        "11:42",
+        "15:47"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 112,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.35,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.35,
+      "tratti": [
+       [
+        "06:30",
+        "09:00"
+       ],
+       [
+        "11:42",
+        "15:47"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 113,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.12,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.12,
+      "tratti": [
+       [
+        "04:52",
+        "12:04"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.2,
+      "tratti": [
+       [
+        "05:00",
+        "09:20"
+       ],
+       [
+        "11:30",
+        "14:30"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 114,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.22,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.22,
+      "tratti": [
+       [
+        "06:37",
+        "08:47"
+       ],
+       [
+        "12:55",
+        "18:07"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.17,
+      "tratti": [
+       [
+        "05:15",
+        "09:55"
+       ],
+       [
+        "12:45",
+        "15:22"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 115,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 5.32,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 5.32,
+      "tratti": [
+       [
+        "05:35",
+        "11:07"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.54,
+      "tratti": [
+       [
+        "06:20",
+        "09:47"
+       ],
+       [
+        "13:20",
+        "16:47"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 116,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.15,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.15,
+      "tratti": [
+       [
+        "05:22",
+        "09:13"
+       ],
+       [
+        "11:40",
+        "15:04"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 117,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.17,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.17,
+      "tratti": [
+       [
+        "12:37",
+        "19:54"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 118,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.3,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.3,
+      "tratti": [
+       [
+        "06:30",
+        "08:54"
+       ],
+       [
+        "13:20",
+        "18:26"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 5.58,
+      "tratti": [
+       [
+        "06:30",
+        "09:42"
+       ],
+       [
+        "11:47",
+        "14:33"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 120,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.54,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.54,
+      "tratti": [
+       [
+        "05:00",
+        "08:52"
+       ],
+       [
+        "11:30",
+        "14:32"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.31,
+      "tratti": [
+       [
+        "05:00",
+        "10:18"
+       ],
+       [
+        "12:47",
+        "15:00"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 121,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.42,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.42,
+      "tratti": [
+       [
+        "04:00",
+        "10:42"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 5.23,
+      "tratti": [
+       [
+        "03:40",
+        "09:03"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 122,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.01,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.01,
+      "tratti": [
+       [
+        "06:07",
+        "09:40"
+       ],
+       [
+        "13:12",
+        "16:40"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 123,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 6.18,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.18,
+      "tratti": [
+       [
+        "17:52",
+        "00:10"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.18,
+      "tratti": [
+       [
+        "17:52",
+        "00:10"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 124,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.35,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.35,
+      "tratti": [
+       [
+        "13:00",
+        "20:35"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.27,
+      "tratti": [
+       [
+        "12:27",
+        "19:54"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 125,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.3,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 6.3,
+      "tratti": [
+       [
+        "07:05",
+        "10:02"
+       ],
+       [
+        "15:32",
+        "19:05"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.44,
+      "tratti": [
+       [
+        "06:37",
+        "08:47"
+       ],
+       [
+        "13:58",
+        "18:32"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 127,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.07,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.07,
+      "tratti": [
+       [
+        "12:27",
+        "19:34"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.19,
+      "tratti": [
+       [
+        "13:15",
+        "20:34"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 128,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.09,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.09,
+      "tratti": [
+       [
+        "05:35",
+        "08:19"
+       ],
+       [
+        "11:45",
+        "16:10"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 129,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 5.33,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 5.33,
+      "tratti": [
+       [
+        "05:22",
+        "10:55"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.5,
+      "tratti": [
+       [
+        "06:10",
+        "09:03"
+       ],
+       [
+        "11:40",
+        "15:37"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 130,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.28,
+     "monta": "DEP.CAV",
+     "lv": {
+      "ore": 7.28,
+      "tratti": [
+       [
+        "06:40",
+        "09:10"
+       ],
+       [
+        "11:19",
+        "16:17"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.23,
+      "tratti": [
+       [
+        "06:37",
+        "08:55"
+       ],
+       [
+        "11:35",
+        "16:40"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "codice": "bojon",
+   "nome": "Bojon",
+   "fasce": [
+    [
+     201,
+     225
+    ]
+   ],
+   "disponibili": [
+    205,
+    208,
+    213,
+    218
+   ],
+   "turni": [
+    {
+     "n": 201,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.31,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 5.31,
+      "tratti": [
+       [
+        "06:06",
+        "09:37"
+       ],
+       [
+        "12:37",
+        "14:37"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 202,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.22,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 7.22,
+      "tratti": [
+       [
+        "13:48",
+        "21:10"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.12,
+      "tratti": [
+       [
+        "13:32",
+        "20:44"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 203,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.31,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.31,
+      "tratti": [
+       [
+        "07:08",
+        "13:39"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.1,
+      "tratti": [
+       [
+        "05:55",
+        "13:05"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 204,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.17,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.17,
+      "tratti": [
+       [
+        "05:28",
+        "08:54"
+       ],
+       [
+        "12:53",
+        "15:44"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 206,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.02,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.02,
+      "tratti": [
+       [
+        "06:25",
+        "08:50"
+       ],
+       [
+        "12:06",
+        "15:43"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.46,
+      "tratti": [
+       [
+        "05:57",
+        "08:51"
+       ],
+       [
+        "11:50",
+        "15:42"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 207,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.15,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.15,
+      "tratti": [
+       [
+        "05:55",
+        "08:51"
+       ],
+       [
+        "12:00",
+        "15:19"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.41,
+      "tratti": [
+       [
+        "05:05",
+        "09:05"
+       ],
+       [
+        "12:00",
+        "14:41"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 209,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.12,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.12,
+      "tratti": [
+       [
+        "06:22",
+        "09:20"
+       ],
+       [
+        "11:56",
+        "15:10"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 210,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.1,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 7.1,
+      "tratti": [
+       [
+        "04:40",
+        "11:50"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.5,
+      "tratti": [
+       [
+        "05:05",
+        "11:55"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 211,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.29,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.29,
+      "tratti": [
+       [
+        "06:20",
+        "09:05"
+       ],
+       [
+        "12:05",
+        "15:49"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 5.57,
+      "tratti": [
+       [
+        "05:50",
+        "07:50"
+       ],
+       [
+        "12:00",
+        "15:57"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 212,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 6.58,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.58,
+      "tratti": [
+       [
+        "12:57",
+        "19:55"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 214,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.55,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 5.55,
+      "tratti": [
+       [
+        "06:28",
+        "09:30"
+       ],
+       [
+        "12:27",
+        "15:20"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.43,
+      "tratti": [
+       [
+        "06:07",
+        "09:57"
+       ],
+       [
+        "12:27",
+        "15:20"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 215,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 5.34,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 5.34,
+      "tratti": [
+       [
+        "06:38",
+        "12:12"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 216,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.03,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 7.03,
+      "tratti": [
+       [
+        "07:06",
+        "09:06"
+       ],
+       [
+        "13:32",
+        "18:35"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.03,
+      "tratti": [
+       [
+        "06:07",
+        "13:10"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 217,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.42,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.42,
+      "tratti": [
+       [
+        "05:50",
+        "09:17"
+       ],
+       [
+        "12:35",
+        "15:50"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 219,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.32,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.32,
+      "tratti": [
+       [
+        "05:00",
+        "09:06"
+       ],
+       [
+        "12:15",
+        "14:41"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.13,
+      "tratti": [
+       [
+        "05:28",
+        "09:09"
+       ],
+       [
+        "12:05",
+        "15:37"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 220,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.5,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.5,
+      "tratti": [
+       [
+        "05:05",
+        "11:55"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 221,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.39,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.39,
+      "tratti": [
+       [
+        "05:55",
+        "08:15"
+       ],
+       [
+        "11:46",
+        "16:05"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.12,
+      "tratti": [
+       [
+        "06:28",
+        "09:55"
+       ],
+       [
+        "12:05",
+        "15:50"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 222,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.27,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 5.27,
+      "tratti": [
+       [
+        "06:20",
+        "08:20"
+       ],
+       [
+        "11:43",
+        "15:10"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 223,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.25,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 7.25,
+      "tratti": [
+       [
+        "11:50",
+        "19:15"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 224,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.4,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.4,
+      "tratti": [
+       [
+        "06:07",
+        "09:05"
+       ],
+       [
+        "11:35",
+        "15:17"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.57,
+      "tratti": [
+       [
+        "06:20",
+        "09:35"
+       ],
+       [
+        "11:35",
+        "15:17"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 225,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.42,
+     "monta": "BOJON PK",
+     "lv": {
+      "ore": 6.42,
+      "tratti": [
+       [
+        "05:57",
+        "12:39"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.06,
+      "tratti": [
+       [
+        "06:33",
+        "12:39"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "codice": "padova",
+   "nome": "Padova",
+   "fasce": [
+    [
+     301,
+     311
+    ],
+    [
+     350,
+     350
+    ]
+   ],
+   "disponibili": [
+    302,
+    304,
+    306,
+    310
+   ],
+   "turni": [
+    {
+     "n": 301,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.37,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 6.37,
+      "tratti": [
+       [
+        "05:45",
+        "08:40"
+       ],
+       [
+        "12:00",
+        "15:42"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 303,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.38,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 5.38,
+      "tratti": [
+       [
+        "05:20",
+        "08:29"
+       ],
+       [
+        "12:40",
+        "15:09"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.59,
+      "tratti": [
+       [
+        "05:20",
+        "08:29"
+       ],
+       [
+        "12:00",
+        "15:50"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 7.12,
+      "tratti": [
+       [
+        "10:13",
+        "17:25"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 305,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.26,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 7.26,
+      "tratti": [
+       [
+        "13:28",
+        "20:54"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.41,
+      "tratti": [
+       [
+        "14:13",
+        "20:54"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 307,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.34,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 7.34,
+      "tratti": [
+       [
+        "04:45",
+        "12:19"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.34,
+      "tratti": [
+       [
+        "04:45",
+        "11:19"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.12,
+      "tratti": [
+       [
+        "05:13",
+        "11:25"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 308,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 6.27,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 6.27,
+      "tratti": [
+       [
+        "06:00",
+        "12:27"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.19,
+      "tratti": [
+       [
+        "06:00",
+        "12:19"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 309,
+     "cat": "SECONDO",
+     "origine": "lunven",
+     "ore": 7.11,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 7.11,
+      "tratti": [
+       [
+        "12:28",
+        "19:39"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.51,
+      "tratti": [
+       [
+        "13:28",
+        "20:19"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 311,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.29,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 7.29,
+      "tratti": [
+       [
+        "04:00",
+        "11:29"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.54,
+      "tratti": [
+       [
+        "04:00",
+        "10:54"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 6.12,
+      "tratti": [
+       [
+        "04:13",
+        "10:25"
+       ]
+      ]
+     },
+     "nota": ""
+    },
+    {
+     "n": 350,
+     "cat": "TERZO",
+     "origine": "lunven",
+     "ore": 7.04,
+     "monta": "PD PARCH",
+     "lv": {
+      "ore": 7.04,
+      "tratti": [
+       [
+        "15:20",
+        "22:24"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 5.54,
+      "tratti": [
+       [
+        "16:30",
+        "22:24"
+       ]
+      ]
+     },
+     "fs": {
+      "ore": 5.17,
+      "tratti": [
+       [
+        "17:05",
+        "22:22"
+       ]
+      ]
+     },
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "codice": "fosso",
+   "nome": "Fossò",
+   "fasce": [
+    [
+     501,
+     508
+    ]
+   ],
+   "disponibili": [
+    504
+   ],
+   "turni": [
+    {
+     "n": 501,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 7.13,
+     "monta": "FOSSO'PK",
+     "lv": {
+      "ore": 7.13,
+      "tratti": [
+       [
+        "07:02",
+        "09:08"
+       ],
+       [
+        "13:42",
+        "18:49"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.18,
+      "tratti": [
+       [
+        "06:20",
+        "08:20"
+       ],
+       [
+        "13:32",
+        "17:50"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 502,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.29,
+     "monta": "FOS PK B",
+     "lv": {
+      "ore": 7.29,
+      "tratti": [
+       [
+        "05:35",
+        "13:04"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.16,
+      "tratti": [
+       [
+        "04:35",
+        "11:51"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 503,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.23,
+     "monta": "FOSSO'PK",
+     "lv": {
+      "ore": 6.23,
+      "tratti": [
+       [
+        "05:10",
+        "08:22"
+       ],
+       [
+        "12:05",
+        "15:16"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.35,
+      "tratti": [
+       [
+        "05:55",
+        "09:28"
+       ],
+       [
+        "12:31",
+        "15:33"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 505,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.12,
+     "monta": "FOSSO'PK",
+     "lv": {
+      "ore": 6.12,
+      "tratti": [
+       [
+        "05:59",
+        "09:33"
+       ],
+       [
+        "12:37",
+        "15:15"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.0,
+      "tratti": [
+       [
+        "05:57",
+        "08:16"
+       ],
+       [
+        "11:35",
+        "15:16"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 506,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 5.27,
+     "monta": "FOSSO'PK",
+     "lv": {
+      "ore": 5.27,
+      "tratti": [
+       [
+        "05:57",
+        "08:15"
+       ],
+       [
+        "12:06",
+        "15:15"
+       ]
+      ]
+     },
+     "sb": null,
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 507,
+     "cat": "PRIMO",
+     "origine": "lunven",
+     "ore": 7.06,
+     "monta": "FOS PK B",
+     "lv": {
+      "ore": 7.06,
+      "tratti": [
+       [
+        "04:35",
+        "11:41"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 7.23,
+      "tratti": [
+       [
+        "06:00",
+        "13:23"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    },
+    {
+     "n": 508,
+     "cat": "SPEZZATO",
+     "origine": "lunven",
+     "ore": 6.24,
+     "monta": "FOSSO'PK",
+     "lv": {
+      "ore": 6.24,
+      "tratti": [
+       [
+        "05:50",
+        "09:09"
+       ],
+       [
+        "12:00",
+        "15:05"
+       ]
+      ]
+     },
+     "sb": {
+      "ore": 6.34,
+      "tratti": [
+       [
+        "06:30",
+        "08:56"
+       ],
+       [
+        "11:50",
+        "15:58"
+       ]
+      ]
+     },
+     "fs": null,
+     "nota": ""
+    }
+   ]
+  }
+ ],
+ "jolly": [
+  {
+   "n": 901,
+   "cat": "JOLLY",
+   "origine": "lunven",
+   "ore": 2.05,
+   "monta": "DEP.DOLO",
+   "lv": {
+    "ore": 2.05,
+    "tratti": [
+     [
+      "06:35",
+      "08:40"
+     ]
+    ]
+   },
+   "sb": null,
+   "fs": null,
+   "motivo": "turno breve (jolly)"
+  },
+  {
+   "n": 902,
+   "cat": "JOLLY",
+   "origine": "lunven",
+   "ore": 2.15,
+   "monta": "DEP.DOLO",
+   "lv": {
+    "ore": 2.15,
+    "tratti": [
+     [
+      "06:50",
+      "09:05"
+     ]
+    ]
+   },
+   "sb": null,
+   "fs": null,
+   "motivo": "turno breve (jolly)"
+  },
+  {
+   "n": 904,
+   "cat": "JOLLY",
+   "origine": "lunven",
+   "ore": 2.0,
+   "monta": "DEP.DOLO",
+   "lv": {
+    "ore": 2.0,
+    "tratti": [
+     [
+      "06:35",
+      "08:35"
+     ]
+    ]
+   },
+   "sb": null,
+   "fs": null,
+   "motivo": "turno breve (jolly)"
+  }
+ ],
+ "avvisi": [],
+ "conteggi": {
+  "dolo": {
+   "TERZO": 9,
+   "SPEZZATO": 21,
+   "PRIMO": 8,
+   "SECONDO": 7
+  },
+  "cavarzere": {
+   "SPEZZATO": 15,
+   "PRIMO": 6,
+   "SECONDO": 4,
+   "TERZO": 1
+  },
+  "bojon": {
+   "SPEZZATO": 13,
+   "TERZO": 1,
+   "PRIMO": 5,
+   "SECONDO": 2
+  },
+  "padova": {
+   "SPEZZATO": 2,
+   "SECONDO": 2,
+   "PRIMO": 3,
+   "TERZO": 1
+  },
+  "fosso": {
+   "SPEZZATO": 5,
+   "PRIMO": 2
+  }
+ }
+};
